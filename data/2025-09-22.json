@@ -1,7 +1,7 @@
 {
   "date": "2025-09-22",
   "gamesAnalyzed": 3,
-  "hitterCount": 44,
+  "hitterCount": 43,
   "hitters": [
     {
       "id": 676475,
@@ -840,7 +840,7 @@
       "id": 682928,
       "name": "CJ Abrams",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/682928/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 519242,
         "name": "Chris Sale",
@@ -874,9 +874,9 @@
           "ops": 0.634
         }
       },
-      "projectedBattingOrder": 1,
-      "confirmed": false,
-      "projected_pa": 4.73,
+      "projectedBattingOrder": 2,
+      "confirmed": true,
+      "projected_pa": 4.62,
       "ops_vs_pitcher": {
         "pa": 3,
         "ab": 3,
@@ -953,7 +953,7 @@
       "gameDate": "2025-09-22",
       "opponentTeamName": "Washington Nationals",
       "probablePitcherName": "Chris Sale",
-      "lineup_confirmed": false
+      "lineup_confirmed": true
     },
     {
       "id": 671218,
@@ -1316,7 +1316,7 @@
       "id": 695578,
       "name": "James Wood",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/695578/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 519242,
         "name": "Chris Sale",
@@ -2625,7 +2625,7 @@
       "id": 605137,
       "name": "Josh Bell",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/605137/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 519242,
         "name": "Chris Sale",
@@ -3812,125 +3812,6 @@
       "lineup_confirmed": false
     },
     {
-      "id": 686611,
-      "name": "Dylan Crews",
-      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/686611/headshot/67/current",
-      "lineup_announced": false,
-      "probable_pitcher_splits": {
-        "id": 519242,
-        "name": "Chris Sale",
-        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/519242/headshot/67/current",
-        "hitsPer9Inn": 7.43,
-        "hitsPer9Inn_site": 7.9,
-        "walksPer9Inn": 2.19,
-        "expected_woba": 0.266,
-        "hand": "L",
-        "batterSideForGame": "RHB",
-        "prob_1p5_tb_vs_lhb": 0.274,
-        "prob_1p5_tb_vs_rhb": 0.366,
-        "fair_odds_vs_lhb": "+265",
-        "fair_odds_vs_rhb": "+173",
-        "vs_lhb": {
-          "pa": 93,
-          "ab": 82,
-          "hits": 14,
-          "doubles": 0,
-          "hr": 2,
-          "avg": 0.171,
-          "ops": 0.57
-        },
-        "vs_rhb": {
-          "pa": 372,
-          "ab": 343,
-          "hits": 81,
-          "doubles": 14,
-          "hr": 7,
-          "avg": 0.236,
-          "ops": 0.634
-        }
-      },
-      "projectedBattingOrder": 2,
-      "confirmed": false,
-      "projected_pa": 4.62,
-      "ops_vs_pitcher": {
-        "pa": 3,
-        "ab": 3,
-        "hits": 1,
-        "doubles": 0,
-        "hr": 0,
-        "bb": 0,
-        "k": 0,
-        "avg": 0.333,
-        "ops": 0.666,
-        "prob_1p5_tb": 0.539,
-        "fair_odds": "-117"
-      },
-      "ops_vs_pitcher_ops_ab3": 0.666,
-      "ops_vs_pitcher_ops_ab5": null,
-      "ops_vs_pitcher_ops_ab10": null,
-      "wtb2_percent": 0.344,
-      "prob_1p5_tb_overall": 0.384,
-      "fair_odds_overall": "+161",
-      "season_pa": 303,
-      "season_ab": 275,
-      "season_hits": 59,
-      "season_doubles": 8,
-      "season_hr": 9,
-      "season_avg": 0.215,
-      "season_ops": 0.643,
-      "ops_site": {
-        "pa": 148,
-        "ab": 134,
-        "hits": 25,
-        "doubles": 3,
-        "hr": 4,
-        "avg": 0.187,
-        "ops": 0.563,
-        "prob_1p5_tb": 0.313,
-        "fair_odds": "+219"
-      },
-      "ops_vs_pitcher_hand": {
-        "pa": 75,
-        "ab": 71,
-        "hits": 14,
-        "doubles": 1,
-        "hr": 0,
-        "avg": 0.197,
-        "ops": 0.479,
-        "prob_1p5_tb": 0.265,
-        "fair_odds": "+278"
-      },
-      "ops_last_7_days": {
-        "pa": 29,
-        "ab": 26,
-        "hits": 8,
-        "doubles": 1,
-        "hr": 0,
-        "avg": 0.308,
-        "ops": 0.725,
-        "prob_1p5_tb": 0.469,
-        "fair_odds": "+113"
-      },
-      "site": "Away",
-      "score": 54,
-      "score_wtb2": 54,
-      "prob_1p5_tb_projected": 0.32,
-      "fair_odds_projected": "+213",
-      "score_weight_breakdown": {
-        "baseline": 14.2,
-        "h2h": 7,
-        "vs_hand": 56.7,
-        "home_away": 7.1,
-        "last7": 10,
-        "pitcher_vs_hand": 5
-      },
-      "gamePk": 776221,
-      "gameDate": "2025-09-22",
-      "opponentTeamName": "Washington Nationals",
-      "probablePitcherName": "Chris Sale",
-      "lineup_confirmed": false
-    },
-    {
       "id": 527038,
       "name": "Wilmer Flores",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/527038/headshot/67/current",
@@ -4291,7 +4172,7 @@
       "id": 695734,
       "name": "Daylen Lile",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/695734/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 519242,
         "name": "Chris Sale",
@@ -4648,7 +4529,7 @@
       "id": 656180,
       "name": "Riley Adams",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/656180/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 519242,
         "name": "Chris Sale",
@@ -4682,9 +4563,9 @@
           "ops": 0.634
         }
       },
-      "projectedBattingOrder": 5,
-      "confirmed": false,
-      "projected_pa": 4.29,
+      "projectedBattingOrder": 4,
+      "confirmed": true,
+      "projected_pa": 4.4,
       "ops_vs_pitcher": {
         "pa": 5,
         "ab": 5,
@@ -4761,7 +4642,7 @@
       "gameDate": "2025-09-22",
       "opponentTeamName": "Washington Nationals",
       "probablePitcherName": "Chris Sale",
-      "lineup_confirmed": false
+      "lineup_confirmed": true
     },
     {
       "id": 592518,
@@ -4883,129 +4764,10 @@
       "lineup_confirmed": false
     },
     {
-      "id": 690987,
-      "name": "Robert Hassell III",
-      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/690987/headshot/67/current",
-      "lineup_announced": false,
-      "probable_pitcher_splits": {
-        "id": 519242,
-        "name": "Chris Sale",
-        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/519242/headshot/67/current",
-        "hitsPer9Inn": 7.43,
-        "hitsPer9Inn_site": 7.9,
-        "walksPer9Inn": 2.19,
-        "expected_woba": 0.266,
-        "hand": "L",
-        "batterSideForGame": "LHB",
-        "prob_1p5_tb_vs_lhb": 0.274,
-        "prob_1p5_tb_vs_rhb": 0.366,
-        "fair_odds_vs_lhb": "+265",
-        "fair_odds_vs_rhb": "+173",
-        "vs_lhb": {
-          "pa": 93,
-          "ab": 82,
-          "hits": 14,
-          "doubles": 0,
-          "hr": 2,
-          "avg": 0.171,
-          "ops": 0.57
-        },
-        "vs_rhb": {
-          "pa": 372,
-          "ab": 343,
-          "hits": 81,
-          "doubles": 14,
-          "hr": 7,
-          "avg": 0.236,
-          "ops": 0.634
-        }
-      },
-      "projectedBattingOrder": 4,
-      "confirmed": false,
-      "projected_pa": 4.4,
-      "ops_vs_pitcher": {
-        "pa": 0,
-        "ab": null,
-        "hits": null,
-        "doubles": null,
-        "hr": null,
-        "bb": null,
-        "k": null,
-        "avg": null,
-        "ops": null,
-        "prob_1p5_tb": null,
-        "fair_odds": null
-      },
-      "ops_vs_pitcher_ops_ab3": null,
-      "ops_vs_pitcher_ops_ab5": null,
-      "ops_vs_pitcher_ops_ab10": null,
-      "wtb2_percent": 0.372,
-      "prob_1p5_tb_overall": 0.328,
-      "fair_odds_overall": "+205",
-      "season_pa": 193,
-      "season_ab": 185,
-      "season_hits": 42,
-      "season_doubles": 9,
-      "season_hr": 3,
-      "season_avg": 0.227,
-      "season_ops": 0.583,
-      "ops_site": {
-        "pa": 88,
-        "ab": 84,
-        "hits": 20,
-        "doubles": 3,
-        "hr": 2,
-        "avg": 0.238,
-        "ops": 0.618,
-        "prob_1p5_tb": 0.329,
-        "fair_odds": "+204"
-      },
-      "ops_vs_pitcher_hand": {
-        "pa": 32,
-        "ab": 30,
-        "hits": 7,
-        "doubles": 1,
-        "hr": 0,
-        "avg": 0.233,
-        "ops": 0.548,
-        "prob_1p5_tb": 0.27,
-        "fair_odds": "+271"
-      },
-      "ops_last_7_days": {
-        "pa": 17,
-        "ab": 16,
-        "hits": 2,
-        "doubles": 2,
-        "hr": 0,
-        "avg": 0.125,
-        "ops": 0.426,
-        "prob_1p5_tb": 0.394,
-        "fair_odds": "+154"
-      },
-      "site": "Away",
-      "score": 45,
-      "score_wtb2": 45,
-      "prob_1p5_tb_projected": 0.281,
-      "fair_odds_projected": "+256",
-      "score_weight_breakdown": {
-        "baseline": 15.5,
-        "h2h": 0,
-        "vs_hand": 61.8,
-        "home_away": 7.7,
-        "last7": 10,
-        "pitcher_vs_hand": 5
-      },
-      "gamePk": 776221,
-      "gameDate": "2025-09-22",
-      "opponentTeamName": "Washington Nationals",
-      "probablePitcherName": "Chris Sale",
-      "lineup_confirmed": false
-    },
-    {
       "id": 657557,
       "name": "Paul DeJong",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/657557/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 519242,
         "name": "Chris Sale",
@@ -5039,9 +4801,9 @@
           "ops": 0.634
         }
       },
-      "projectedBattingOrder": 5,
-      "confirmed": false,
-      "projected_pa": 4.29,
+      "projectedBattingOrder": 6,
+      "confirmed": true,
+      "projected_pa": 4.18,
       "ops_vs_pitcher": {
         "pa": 9,
         "ab": 9,
@@ -5118,13 +4880,13 @@
       "gameDate": "2025-09-22",
       "opponentTeamName": "Washington Nationals",
       "probablePitcherName": "Chris Sale",
-      "lineup_confirmed": false
+      "lineup_confirmed": true
     },
     {
       "id": 671277,
       "name": "Luis García Jr.",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/671277/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 519242,
         "name": "Chris Sale",
@@ -5238,6 +5000,125 @@
       "opponentTeamName": "Washington Nationals",
       "probablePitcherName": "Chris Sale",
       "lineup_confirmed": false
+    },
+    {
+      "id": 686611,
+      "name": "Dylan Crews",
+      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/686611/headshot/67/current",
+      "lineup_announced": true,
+      "probable_pitcher_splits": {
+        "id": 519242,
+        "name": "Chris Sale",
+        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/519242/headshot/67/current",
+        "hitsPer9Inn": 7.43,
+        "hitsPer9Inn_site": 7.9,
+        "walksPer9Inn": 2.19,
+        "expected_woba": 0.266,
+        "hand": "L",
+        "batterSideForGame": "RHB",
+        "prob_1p5_tb_vs_lhb": 0.274,
+        "prob_1p5_tb_vs_rhb": 0.366,
+        "fair_odds_vs_lhb": "+265",
+        "fair_odds_vs_rhb": "+173",
+        "vs_lhb": {
+          "pa": 93,
+          "ab": 82,
+          "hits": 14,
+          "doubles": 0,
+          "hr": 2,
+          "avg": 0.171,
+          "ops": 0.57
+        },
+        "vs_rhb": {
+          "pa": 372,
+          "ab": 343,
+          "hits": 81,
+          "doubles": 14,
+          "hr": 7,
+          "avg": 0.236,
+          "ops": 0.634
+        }
+      },
+      "projectedBattingOrder": 5,
+      "confirmed": true,
+      "projected_pa": 4.29,
+      "ops_vs_pitcher": {
+        "pa": 3,
+        "ab": 3,
+        "hits": 1,
+        "doubles": 0,
+        "hr": 0,
+        "bb": 0,
+        "k": 0,
+        "avg": 0.333,
+        "ops": 0.666,
+        "prob_1p5_tb": 0.407,
+        "fair_odds": "+145"
+      },
+      "ops_vs_pitcher_ops_ab3": 0.666,
+      "ops_vs_pitcher_ops_ab5": null,
+      "ops_vs_pitcher_ops_ab10": null,
+      "wtb2_percent": 0.344,
+      "prob_1p5_tb_overall": 0.304,
+      "fair_odds_overall": "+229",
+      "season_pa": 303,
+      "season_ab": 275,
+      "season_hits": 59,
+      "season_doubles": 8,
+      "season_hr": 9,
+      "season_avg": 0.215,
+      "season_ops": 0.643,
+      "ops_site": {
+        "pa": 148,
+        "ab": 134,
+        "hits": 25,
+        "doubles": 3,
+        "hr": 4,
+        "avg": 0.187,
+        "ops": 0.563,
+        "prob_1p5_tb": 0.244,
+        "fair_odds": "+310"
+      },
+      "ops_vs_pitcher_hand": {
+        "pa": 75,
+        "ab": 71,
+        "hits": 14,
+        "doubles": 1,
+        "hr": 0,
+        "avg": 0.197,
+        "ops": 0.479,
+        "prob_1p5_tb": 0.189,
+        "fair_odds": "+428"
+      },
+      "ops_last_7_days": {
+        "pa": 29,
+        "ab": 26,
+        "hits": 8,
+        "doubles": 1,
+        "hr": 0,
+        "avg": 0.308,
+        "ops": 0.725,
+        "prob_1p5_tb": 0.358,
+        "fair_odds": "+179"
+      },
+      "site": "Away",
+      "score": 44,
+      "score_wtb2": 44,
+      "prob_1p5_tb_projected": 0.243,
+      "fair_odds_projected": "+312",
+      "score_weight_breakdown": {
+        "baseline": 14.2,
+        "h2h": 7,
+        "vs_hand": 56.7,
+        "home_away": 7.1,
+        "last7": 10,
+        "pitcher_vs_hand": 5
+      },
+      "gamePk": 776221,
+      "gameDate": "2025-09-22",
+      "opponentTeamName": "Washington Nationals",
+      "probablePitcherName": "Chris Sale",
+      "lineup_confirmed": true
     }
   ]
 }
