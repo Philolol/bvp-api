@@ -1,13 +1,13 @@
 {
   "date": "2025-09-22",
   "gamesAnalyzed": 3,
-  "hitterCount": 43,
+  "hitterCount": 46,
   "hitters": [
     {
       "id": 676475,
       "name": "Alec Burleson",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/676475/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 434378,
         "name": "Justin Verlander",
@@ -42,7 +42,7 @@
         }
       },
       "projectedBattingOrder": 3,
-      "confirmed": false,
+      "confirmed": true,
       "projected_pa": 4.5,
       "ops_vs_pitcher": {
         "pa": 3,
@@ -120,13 +120,13 @@
       "gameDate": "2025-09-22",
       "opponentTeamName": "St. Louis Cardinals",
       "probablePitcherName": "Justin Verlander",
-      "lineup_confirmed": false
+      "lineup_confirmed": true
     },
     {
       "id": 680977,
       "name": "Brendan Donovan",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/680977/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 434378,
         "name": "Justin Verlander",
@@ -161,7 +161,7 @@
         }
       },
       "projectedBattingOrder": 1,
-      "confirmed": false,
+      "confirmed": true,
       "projected_pa": 4.73,
       "ops_vs_pitcher": {
         "pa": 3,
@@ -239,7 +239,7 @@
       "gameDate": "2025-09-22",
       "opponentTeamName": "St. Louis Cardinals",
       "probablePitcherName": "Justin Verlander",
-      "lineup_confirmed": false
+      "lineup_confirmed": true
     },
     {
       "id": 592885,
@@ -837,10 +837,129 @@
       "lineup_confirmed": true
     },
     {
+      "id": 650333,
+      "name": "Luis Arraez",
+      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/650333/headshot/67/current",
+      "lineup_announced": true,
+      "probable_pitcher_splits": {
+        "id": 642547,
+        "name": "Freddy Peralta",
+        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/642547/headshot/67/current",
+        "hitsPer9Inn": 6.21,
+        "hitsPer9Inn_site": 6.3,
+        "walksPer9Inn": 3.45,
+        "expected_woba": 0.292,
+        "hand": "R",
+        "batterSideForGame": "LHB",
+        "prob_1p5_tb_vs_lhb": 0.305,
+        "prob_1p5_tb_vs_rhb": 0.308,
+        "fair_odds_vs_lhb": "+228",
+        "fair_odds_vs_rhb": "+224",
+        "vs_lhb": {
+          "pa": 353,
+          "ab": 308,
+          "hits": 63,
+          "doubles": 12,
+          "hr": 7,
+          "avg": 0.205,
+          "ops": 0.613
+        },
+        "vs_rhb": {
+          "pa": 341,
+          "ab": 307,
+          "hits": 54,
+          "doubles": 10,
+          "hr": 12,
+          "avg": 0.176,
+          "ops": 0.577
+        }
+      },
+      "projectedBattingOrder": 1,
+      "confirmed": true,
+      "projected_pa": 4.54,
+      "ops_vs_pitcher": {
+        "pa": 10,
+        "ab": 9,
+        "hits": 2,
+        "doubles": 0,
+        "hr": 1,
+        "bb": 1,
+        "k": 1,
+        "avg": 0.222,
+        "ops": 0.856,
+        "prob_1p5_tb": 0.468,
+        "fair_odds": "+114"
+      },
+      "ops_vs_pitcher_ops_ab3": 0.856,
+      "ops_vs_pitcher_ops_ab5": 0.856,
+      "ops_vs_pitcher_ops_ab10": null,
+      "wtb2_percent": 0.434,
+      "prob_1p5_tb_overall": 0.486,
+      "fair_odds_overall": "+106",
+      "season_pa": 653,
+      "season_ab": 600,
+      "season_hits": 172,
+      "season_doubles": 29,
+      "season_hr": 7,
+      "season_avg": 0.287,
+      "season_ops": 0.704,
+      "ops_site": {
+        "pa": 303,
+        "ab": 282,
+        "hits": 86,
+        "doubles": 12,
+        "hr": 5,
+        "avg": 0.305,
+        "ops": 0.736,
+        "prob_1p5_tb": 0.512,
+        "fair_odds": "-105"
+      },
+      "ops_vs_pitcher_hand": {
+        "pa": 456,
+        "ab": 423,
+        "hits": 127,
+        "doubles": 25,
+        "hr": 4,
+        "avg": 0.3,
+        "ops": 0.744,
+        "prob_1p5_tb": 0.513,
+        "fair_odds": "-105"
+      },
+      "ops_last_7_days": {
+        "pa": 26,
+        "ab": 23,
+        "hits": 7,
+        "doubles": 0,
+        "hr": 0,
+        "avg": 0.304,
+        "ops": 0.65,
+        "prob_1p5_tb": 0.408,
+        "fair_odds": "+145"
+      },
+      "site": "Home",
+      "score": 71,
+      "score_wtb2": 71,
+      "prob_1p5_tb_projected": 0.447,
+      "fair_odds_projected": "+124",
+      "score_weight_breakdown": {
+        "baseline": 47.3,
+        "h2h": 20,
+        "vs_hand": 11.8,
+        "home_away": 5.9,
+        "last7": 10,
+        "pitcher_vs_hand": 5
+      },
+      "gamePk": 776222,
+      "gameDate": "2025-09-22",
+      "opponentTeamName": "San Diego Padres",
+      "probablePitcherName": "Freddy Peralta",
+      "lineup_confirmed": true
+    },
+    {
       "id": 646240,
       "name": "Rafael Devers",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/646240/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 700241,
         "name": "Michael McGreevy",
@@ -875,7 +994,7 @@
         }
       },
       "projectedBattingOrder": 2,
-      "confirmed": false,
+      "confirmed": true,
       "projected_pa": 4.43,
       "ops_vs_pitcher": {
         "pa": 3,
@@ -953,7 +1072,7 @@
       "gameDate": "2025-09-22",
       "opponentTeamName": "San Francisco Giants",
       "probablePitcherName": "Michael McGreevy",
-      "lineup_confirmed": false
+      "lineup_confirmed": true
     },
     {
       "id": 682928,
@@ -1078,7 +1197,7 @@
       "id": 671218,
       "name": "Heliot Ramos",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/671218/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 700241,
         "name": "Michael McGreevy",
@@ -1113,7 +1232,7 @@
         }
       },
       "projectedBattingOrder": 1,
-      "confirmed": false,
+      "confirmed": true,
       "projected_pa": 4.54,
       "ops_vs_pitcher": {
         "pa": 3,
@@ -1191,7 +1310,7 @@
       "gameDate": "2025-09-22",
       "opponentTeamName": "San Francisco Giants",
       "probablePitcherName": "Michael McGreevy",
-      "lineup_confirmed": false
+      "lineup_confirmed": true
     },
     {
       "id": 645277,
@@ -1316,7 +1435,7 @@
       "id": 671056,
       "name": "Iván Herrera",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/671056/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 434378,
         "name": "Justin Verlander",
@@ -1351,7 +1470,7 @@
         }
       },
       "projectedBattingOrder": 2,
-      "confirmed": false,
+      "confirmed": true,
       "projected_pa": 4.62,
       "ops_vs_pitcher": {
         "pa": 5,
@@ -1429,7 +1548,7 @@
       "gameDate": "2025-09-22",
       "opponentTeamName": "St. Louis Cardinals",
       "probablePitcherName": "Justin Verlander",
-      "lineup_confirmed": false
+      "lineup_confirmed": true
     },
     {
       "id": 695578,
@@ -1673,7 +1792,7 @@
       "id": 571448,
       "name": "Nolan Arenado",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/571448/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 434378,
         "name": "Justin Verlander",
@@ -1708,7 +1827,7 @@
         }
       },
       "projectedBattingOrder": 4,
-      "confirmed": false,
+      "confirmed": true,
       "projected_pa": 4.4,
       "ops_vs_pitcher": {
         "pa": 13,
@@ -1786,13 +1905,13 @@
       "gameDate": "2025-09-22",
       "opponentTeamName": "St. Louis Cardinals",
       "probablePitcherName": "Justin Verlander",
-      "lineup_confirmed": false
+      "lineup_confirmed": true
     },
     {
       "id": 808982,
       "name": "Jung Hoo Lee",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/808982/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 700241,
         "name": "Michael McGreevy",
@@ -1911,7 +2030,7 @@
       "id": 575929,
       "name": "Willson Contreras",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/575929/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 434378,
         "name": "Justin Verlander",
@@ -2149,7 +2268,7 @@
       "id": 657656,
       "name": "Ramón Laureano",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/657656/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 642547,
         "name": "Freddy Peralta",
@@ -2268,7 +2387,7 @@
       "id": 701538,
       "name": "Jackson Merrill",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/701538/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 642547,
         "name": "Freddy Peralta",
@@ -2302,9 +2421,9 @@
           "ops": 0.577
         }
       },
-      "projectedBattingOrder": 4,
-      "confirmed": false,
-      "projected_pa": 4.22,
+      "projectedBattingOrder": 3,
+      "confirmed": true,
+      "projected_pa": 4.32,
       "ops_vs_pitcher": {
         "pa": 2,
         "ab": 2,
@@ -2381,13 +2500,132 @@
       "gameDate": "2025-09-22",
       "opponentTeamName": "San Diego Padres",
       "probablePitcherName": "Freddy Peralta",
-      "lineup_confirmed": false
+      "lineup_confirmed": true
+    },
+    {
+      "id": 669477,
+      "name": "Casey Schmitt",
+      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/669477/headshot/67/current",
+      "lineup_announced": true,
+      "probable_pitcher_splits": {
+        "id": 700241,
+        "name": "Michael McGreevy",
+        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/700241/headshot/67/current",
+        "hitsPer9Inn": 9.21,
+        "hitsPer9Inn_site": 8,
+        "walksPer9Inn": 1.57,
+        "expected_woba": 0.333,
+        "hand": "R",
+        "batterSideForGame": "RHB",
+        "prob_1p5_tb_vs_lhb": 0.5,
+        "prob_1p5_tb_vs_rhb": 0.365,
+        "fair_odds_vs_lhb": "+100",
+        "fair_odds_vs_rhb": "+174",
+        "vs_lhb": {
+          "pa": 170,
+          "ab": 156,
+          "hits": 48,
+          "doubles": 7,
+          "hr": 6,
+          "avg": 0.308,
+          "ops": 0.847
+        },
+        "vs_rhb": {
+          "pa": 185,
+          "ab": 177,
+          "hits": 40,
+          "doubles": 7,
+          "hr": 2,
+          "avg": 0.226,
+          "ops": 0.573
+        }
+      },
+      "projectedBattingOrder": 6,
+      "confirmed": true,
+      "projected_pa": 4.01,
+      "ops_vs_pitcher": {
+        "pa": 4,
+        "ab": 4,
+        "hits": 2,
+        "doubles": 2,
+        "hr": 0,
+        "bb": 0,
+        "k": 2,
+        "avg": 0.5,
+        "ops": 1.5,
+        "prob_1p5_tb": 0.938,
+        "fair_odds": "-1500"
+      },
+      "ops_vs_pitcher_ops_ab3": 1.5,
+      "ops_vs_pitcher_ops_ab5": null,
+      "ops_vs_pitcher_ops_ab10": null,
+      "wtb2_percent": 0.385,
+      "prob_1p5_tb_overall": 0.343,
+      "fair_odds_overall": "+192",
+      "season_pa": 332,
+      "season_ab": 296,
+      "season_hits": 69,
+      "season_doubles": 14,
+      "season_hr": 11,
+      "season_avg": 0.233,
+      "season_ops": 0.697,
+      "ops_site": {
+        "pa": 158,
+        "ab": 141,
+        "hits": 35,
+        "doubles": 8,
+        "hr": 2,
+        "avg": 0.248,
+        "ops": 0.66,
+        "prob_1p5_tb": 0.334,
+        "fair_odds": "+199"
+      },
+      "ops_vs_pitcher_hand": {
+        "pa": 214,
+        "ab": 191,
+        "hits": 49,
+        "doubles": 7,
+        "hr": 10,
+        "avg": 0.257,
+        "ops": 0.769,
+        "prob_1p5_tb": 0.372,
+        "fair_odds": "+169"
+      },
+      "ops_last_7_days": {
+        "pa": 19,
+        "ab": 16,
+        "hits": 3,
+        "doubles": 0,
+        "hr": 1,
+        "avg": 0.188,
+        "ops": 0.691,
+        "prob_1p5_tb": 0.246,
+        "fair_odds": "+307"
+      },
+      "site": "Home",
+      "score": 62,
+      "score_wtb2": 62,
+      "prob_1p5_tb_projected": 0.378,
+      "fair_odds_projected": "+165",
+      "score_weight_breakdown": {
+        "baseline": 55.3,
+        "h2h": 9,
+        "vs_hand": 13.8,
+        "home_away": 6.9,
+        "last7": 10,
+        "pitcher_vs_hand": 5
+      },
+      "gamePk": 776220,
+      "gameDate": "2025-09-22",
+      "opponentTeamName": "San Francisco Giants",
+      "probablePitcherName": "Michael McGreevy",
+      "lineup_confirmed": true
     },
     {
       "id": 695336,
       "name": "Thomas Saggese",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/695336/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 434378,
         "name": "Justin Verlander",
@@ -2422,7 +2660,7 @@
         }
       },
       "projectedBattingOrder": 6,
-      "confirmed": false,
+      "confirmed": true,
       "projected_pa": 4.18,
       "ops_vs_pitcher": {
         "pa": 2,
@@ -2500,13 +2738,13 @@
       "gameDate": "2025-09-22",
       "opponentTeamName": "St. Louis Cardinals",
       "probablePitcherName": "Justin Verlander",
-      "lineup_confirmed": false
+      "lineup_confirmed": true
     },
     {
       "id": 665487,
       "name": "Fernando Tatis Jr.",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/665487/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 642547,
         "name": "Freddy Peralta",
@@ -2744,7 +2982,7 @@
       "id": 669357,
       "name": "Nolan Gorman",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/669357/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 434378,
         "name": "Justin Verlander",
@@ -2979,125 +3217,6 @@
       "lineup_confirmed": false
     },
     {
-      "id": 650333,
-      "name": "Luis Arraez",
-      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/650333/headshot/67/current",
-      "lineup_announced": false,
-      "probable_pitcher_splits": {
-        "id": 642547,
-        "name": "Freddy Peralta",
-        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/642547/headshot/67/current",
-        "hitsPer9Inn": 6.21,
-        "hitsPer9Inn_site": 6.3,
-        "walksPer9Inn": 3.45,
-        "expected_woba": 0.292,
-        "hand": "R",
-        "batterSideForGame": "LHB",
-        "prob_1p5_tb_vs_lhb": 0.305,
-        "prob_1p5_tb_vs_rhb": 0.308,
-        "fair_odds_vs_lhb": "+228",
-        "fair_odds_vs_rhb": "+224",
-        "vs_lhb": {
-          "pa": 353,
-          "ab": 308,
-          "hits": 63,
-          "doubles": 12,
-          "hr": 7,
-          "avg": 0.205,
-          "ops": 0.613
-        },
-        "vs_rhb": {
-          "pa": 341,
-          "ab": 307,
-          "hits": 54,
-          "doubles": 10,
-          "hr": 12,
-          "avg": 0.176,
-          "ops": 0.577
-        }
-      },
-      "projectedBattingOrder": 2,
-      "confirmed": false,
-      "projected_pa": 4.43,
-      "ops_vs_pitcher": {
-        "pa": 10,
-        "ab": 9,
-        "hits": 2,
-        "doubles": 0,
-        "hr": 1,
-        "bb": 1,
-        "k": 1,
-        "avg": 0.222,
-        "ops": 0.856,
-        "prob_1p5_tb": 0.386,
-        "fair_odds": "+159"
-      },
-      "ops_vs_pitcher_ops_ab3": 0.856,
-      "ops_vs_pitcher_ops_ab5": 0.856,
-      "ops_vs_pitcher_ops_ab10": null,
-      "wtb2_percent": 0.434,
-      "prob_1p5_tb_overall": 0.382,
-      "fair_odds_overall": "+161",
-      "season_pa": 653,
-      "season_ab": 600,
-      "season_hits": 172,
-      "season_doubles": 29,
-      "season_hr": 7,
-      "season_avg": 0.287,
-      "season_ops": 0.704,
-      "ops_site": {
-        "pa": 303,
-        "ab": 282,
-        "hits": 86,
-        "doubles": 12,
-        "hr": 5,
-        "avg": 0.305,
-        "ops": 0.736,
-        "prob_1p5_tb": 0.402,
-        "fair_odds": "+149"
-      },
-      "ops_vs_pitcher_hand": {
-        "pa": 456,
-        "ab": 423,
-        "hits": 127,
-        "doubles": 25,
-        "hr": 4,
-        "avg": 0.3,
-        "ops": 0.744,
-        "prob_1p5_tb": 0.406,
-        "fair_odds": "+146"
-      },
-      "ops_last_7_days": {
-        "pa": 26,
-        "ab": 23,
-        "hits": 7,
-        "doubles": 0,
-        "hr": 0,
-        "avg": 0.304,
-        "ops": 0.65,
-        "prob_1p5_tb": 0.295,
-        "fair_odds": "+239"
-      },
-      "site": "Home",
-      "score": 58,
-      "score_wtb2": 58,
-      "prob_1p5_tb_projected": 0.354,
-      "fair_odds_projected": "+182",
-      "score_weight_breakdown": {
-        "baseline": 47.3,
-        "h2h": 20,
-        "vs_hand": 11.8,
-        "home_away": 5.9,
-        "last7": 10,
-        "pitcher_vs_hand": 5
-      },
-      "gamePk": 776222,
-      "gameDate": "2025-09-22",
-      "opponentTeamName": "San Diego Padres",
-      "probablePitcherName": "Freddy Peralta",
-      "lineup_confirmed": false
-    },
-    {
       "id": 656555,
       "name": "Rhys Hoskins",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/656555/headshot/67/current",
@@ -3220,7 +3339,7 @@
       "id": 642715,
       "name": "Willy Adames",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/642715/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 700241,
         "name": "Michael McGreevy",
@@ -3255,7 +3374,7 @@
         }
       },
       "projectedBattingOrder": 3,
-      "confirmed": false,
+      "confirmed": true,
       "projected_pa": 4.32,
       "ops_vs_pitcher": {
         "pa": 3,
@@ -3333,7 +3452,7 @@
       "gameDate": "2025-09-22",
       "opponentTeamName": "San Francisco Giants",
       "probablePitcherName": "Michael McGreevy",
-      "lineup_confirmed": false
+      "lineup_confirmed": true
     },
     {
       "id": 668930,
@@ -3693,10 +3812,248 @@
       "lineup_confirmed": false
     },
     {
+      "id": 656811,
+      "name": "Ryan O'Hearn",
+      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/656811/headshot/67/current",
+      "lineup_announced": true,
+      "probable_pitcher_splits": {
+        "id": 642547,
+        "name": "Freddy Peralta",
+        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/642547/headshot/67/current",
+        "hitsPer9Inn": 6.21,
+        "hitsPer9Inn_site": 6.3,
+        "walksPer9Inn": 3.45,
+        "expected_woba": 0.292,
+        "hand": "R",
+        "batterSideForGame": "LHB",
+        "prob_1p5_tb_vs_lhb": 0.305,
+        "prob_1p5_tb_vs_rhb": 0.308,
+        "fair_odds_vs_lhb": "+228",
+        "fair_odds_vs_rhb": "+224",
+        "vs_lhb": {
+          "pa": 353,
+          "ab": 308,
+          "hits": 63,
+          "doubles": 12,
+          "hr": 7,
+          "avg": 0.205,
+          "ops": 0.613
+        },
+        "vs_rhb": {
+          "pa": 341,
+          "ab": 307,
+          "hits": 54,
+          "doubles": 10,
+          "hr": 12,
+          "avg": 0.176,
+          "ops": 0.577
+        }
+      },
+      "projectedBattingOrder": 5,
+      "confirmed": true,
+      "projected_pa": 4.12,
+      "ops_vs_pitcher": {
+        "pa": 5,
+        "ab": 5,
+        "hits": 1,
+        "doubles": 0,
+        "hr": 0,
+        "bb": 0,
+        "k": 3,
+        "avg": 0.2,
+        "ops": 0.4,
+        "prob_1p5_tb": 0.181,
+        "fair_odds": "+453"
+      },
+      "ops_vs_pitcher_ops_ab3": 0.4,
+      "ops_vs_pitcher_ops_ab5": 0.4,
+      "ops_vs_pitcher_ops_ab10": null,
+      "wtb2_percent": 0.416,
+      "prob_1p5_tb_overall": 0.369,
+      "fair_odds_overall": "+171",
+      "season_pa": 519,
+      "season_ab": 452,
+      "season_hits": 124,
+      "season_doubles": 20,
+      "season_hr": 16,
+      "season_avg": 0.274,
+      "season_ops": 0.789,
+      "ops_site": {
+        "pa": 257,
+        "ab": 220,
+        "hits": 57,
+        "doubles": 8,
+        "hr": 11,
+        "avg": 0.259,
+        "ops": 0.813,
+        "prob_1p5_tb": 0.354,
+        "fair_odds": "+182"
+      },
+      "ops_vs_pitcher_hand": {
+        "pa": 421,
+        "ab": 365,
+        "hits": 101,
+        "doubles": 13,
+        "hr": 14,
+        "avg": 0.277,
+        "ops": 0.79,
+        "prob_1p5_tb": 0.357,
+        "fair_odds": "+180"
+      },
+      "ops_last_7_days": {
+        "pa": 18,
+        "ab": 18,
+        "hits": 7,
+        "doubles": 1,
+        "hr": 0,
+        "avg": 0.389,
+        "ops": 0.833,
+        "prob_1p5_tb": 0.556,
+        "fair_odds": "-125"
+      },
+      "site": "Home",
+      "score": 56,
+      "score_wtb2": 56,
+      "prob_1p5_tb_projected": 0.341,
+      "fair_odds_projected": "+193",
+      "score_weight_breakdown": {
+        "baseline": 53.1,
+        "h2h": 12,
+        "vs_hand": 13.3,
+        "home_away": 6.6,
+        "last7": 10,
+        "pitcher_vs_hand": 5
+      },
+      "gamePk": 776222,
+      "gameDate": "2025-09-22",
+      "opponentTeamName": "San Diego Padres",
+      "probablePitcherName": "Freddy Peralta",
+      "lineup_confirmed": true
+    },
+    {
+      "id": 630105,
+      "name": "Jake Cronenworth",
+      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/630105/headshot/67/current",
+      "lineup_announced": true,
+      "probable_pitcher_splits": {
+        "id": 642547,
+        "name": "Freddy Peralta",
+        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/642547/headshot/67/current",
+        "hitsPer9Inn": 6.21,
+        "hitsPer9Inn_site": 6.3,
+        "walksPer9Inn": 3.45,
+        "expected_woba": 0.292,
+        "hand": "R",
+        "batterSideForGame": "LHB",
+        "prob_1p5_tb_vs_lhb": 0.305,
+        "prob_1p5_tb_vs_rhb": 0.308,
+        "fair_odds_vs_lhb": "+228",
+        "fair_odds_vs_rhb": "+224",
+        "vs_lhb": {
+          "pa": 353,
+          "ab": 308,
+          "hits": 63,
+          "doubles": 12,
+          "hr": 7,
+          "avg": 0.205,
+          "ops": 0.613
+        },
+        "vs_rhb": {
+          "pa": 341,
+          "ab": 307,
+          "hits": 54,
+          "doubles": 10,
+          "hr": 12,
+          "avg": 0.176,
+          "ops": 0.577
+        }
+      },
+      "projectedBattingOrder": 6,
+      "confirmed": true,
+      "projected_pa": 4.01,
+      "ops_vs_pitcher": {
+        "pa": 5,
+        "ab": 5,
+        "hits": 2,
+        "doubles": 0,
+        "hr": 1,
+        "bb": 0,
+        "k": 0,
+        "avg": 0.4,
+        "ops": 1.4,
+        "prob_1p5_tb": 0.698,
+        "fair_odds": "-231"
+      },
+      "ops_vs_pitcher_ops_ab3": 1.4,
+      "ops_vs_pitcher_ops_ab5": 1.4,
+      "ops_vs_pitcher_ops_ab10": null,
+      "wtb2_percent": 0.358,
+      "prob_1p5_tb_overall": 0.317,
+      "fair_odds_overall": "+216",
+      "season_pa": 496,
+      "season_ab": 404,
+      "season_hits": 101,
+      "season_doubles": 20,
+      "season_hr": 11,
+      "season_avg": 0.25,
+      "season_ops": 0.757,
+      "ops_site": {
+        "pa": 230,
+        "ab": 182,
+        "hits": 41,
+        "doubles": 8,
+        "hr": 4,
+        "avg": 0.225,
+        "ops": 0.714,
+        "prob_1p5_tb": 0.264,
+        "fair_odds": "+279"
+      },
+      "ops_vs_pitcher_hand": {
+        "pa": 339,
+        "ab": 277,
+        "hits": 70,
+        "doubles": 15,
+        "hr": 8,
+        "avg": 0.253,
+        "ops": 0.774,
+        "prob_1p5_tb": 0.326,
+        "fair_odds": "+206"
+      },
+      "ops_last_7_days": {
+        "pa": 21,
+        "ab": 19,
+        "hits": 5,
+        "doubles": 0,
+        "hr": 1,
+        "avg": 0.263,
+        "ops": 0.754,
+        "prob_1p5_tb": 0.326,
+        "fair_odds": "+207"
+      },
+      "site": "Home",
+      "score": 56,
+      "score_wtb2": 56,
+      "prob_1p5_tb_projected": 0.343,
+      "fair_odds_projected": "+192",
+      "score_weight_breakdown": {
+        "baseline": 53.1,
+        "h2h": 12,
+        "vs_hand": 13.3,
+        "home_away": 6.6,
+        "last7": 10,
+        "pitcher_vs_hand": 5
+      },
+      "gamePk": 776222,
+      "gameDate": "2025-09-22",
+      "opponentTeamName": "San Diego Padres",
+      "probablePitcherName": "Freddy Peralta",
+      "lineup_confirmed": true
+    },
+    {
       "id": 527038,
       "name": "Wilmer Flores",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/527038/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 700241,
         "name": "Michael McGreevy",
@@ -3934,7 +4291,7 @@
       "id": 663457,
       "name": "Lars Nootbaar",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/663457/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 434378,
         "name": "Justin Verlander",
@@ -3969,7 +4326,7 @@
         }
       },
       "projectedBattingOrder": 5,
-      "confirmed": false,
+      "confirmed": true,
       "projected_pa": 4.29,
       "ops_vs_pitcher": {
         "pa": 3,
@@ -4047,7 +4404,7 @@
       "gameDate": "2025-09-22",
       "opponentTeamName": "St. Louis Cardinals",
       "probablePitcherName": "Justin Verlander",
-      "lineup_confirmed": false
+      "lineup_confirmed": true
     },
     {
       "id": 695734,
@@ -4172,7 +4529,7 @@
       "id": 657757,
       "name": "Gavin Sheets",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/657757/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 642547,
         "name": "Freddy Peralta",
@@ -4206,9 +4563,9 @@
           "ops": 0.577
         }
       },
-      "projectedBattingOrder": 6,
-      "confirmed": false,
-      "projected_pa": 4.01,
+      "projectedBattingOrder": 4,
+      "confirmed": true,
+      "projected_pa": 4.22,
       "ops_vs_pitcher": {
         "pa": 7,
         "ab": 7,
@@ -4285,13 +4642,13 @@
       "gameDate": "2025-09-22",
       "opponentTeamName": "San Diego Padres",
       "probablePitcherName": "Freddy Peralta",
-      "lineup_confirmed": false
+      "lineup_confirmed": true
     },
     {
       "id": 656305,
       "name": "Matt Chapman",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/656305/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 700241,
         "name": "Michael McGreevy",
@@ -4326,7 +4683,7 @@
         }
       },
       "projectedBattingOrder": 4,
-      "confirmed": false,
+      "confirmed": true,
       "projected_pa": 4.22,
       "ops_vs_pitcher": {
         "pa": 3,
@@ -4404,7 +4761,7 @@
       "gameDate": "2025-09-22",
       "opponentTeamName": "San Francisco Giants",
       "probablePitcherName": "Michael McGreevy",
-      "lineup_confirmed": false
+      "lineup_confirmed": true
     },
     {
       "id": 656180,
@@ -4529,7 +4886,7 @@
       "id": 592518,
       "name": "Manny Machado",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/592518/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 642547,
         "name": "Freddy Peralta",
@@ -4563,9 +4920,9 @@
           "ops": 0.577
         }
       },
-      "projectedBattingOrder": 3,
-      "confirmed": false,
-      "projected_pa": 4.32,
+      "projectedBattingOrder": 2,
+      "confirmed": true,
+      "projected_pa": 4.43,
       "ops_vs_pitcher": {
         "pa": 12,
         "ab": 10,
@@ -4642,7 +4999,7 @@
       "gameDate": "2025-09-22",
       "opponentTeamName": "San Diego Padres",
       "probablePitcherName": "Freddy Peralta",
-      "lineup_confirmed": false
+      "lineup_confirmed": true
     },
     {
       "id": 657557,
