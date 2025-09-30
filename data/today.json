@@ -1,7 +1,7 @@
 {
   "date": "2025-09-30",
   "gamesAnalyzed": 4,
-  "hitterCount": 62,
+  "hitterCount": 63,
   "hitters": [
     {
       "id": 609280,
@@ -126,7 +126,7 @@
       "id": 596115,
       "name": "Trevor Story",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/596115/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 608331,
         "name": "Max Fried",
@@ -161,7 +161,7 @@
         }
       },
       "projectedBattingOrder": 2,
-      "confirmed": false,
+      "confirmed": true,
       "projected_pa": 4.62,
       "ops_vs_pitcher": {
         "pa": 17,
@@ -239,7 +239,7 @@
       "gameDate": "2025-09-30",
       "opponentTeamName": "Boston Red Sox",
       "probablePitcherName": "Max Fried",
-      "lineup_confirmed": false
+      "lineup_confirmed": true
     },
     {
       "id": 642708,
@@ -596,6 +596,7 @@
       "gameDate": "2025-09-30",
       "opponentTeamName": "San Diego Padres",
       "probablePitcherName": "Matthew Boyd",
+      "game_in_progress": true,
       "lineup_confirmed": true
     },
     {
@@ -834,6 +835,7 @@
       "gameDate": "2025-09-30",
       "opponentTeamName": "San Diego Padres",
       "probablePitcherName": "Matthew Boyd",
+      "game_in_progress": true,
       "lineup_confirmed": true
     },
     {
@@ -1078,7 +1080,7 @@
       "id": 608324,
       "name": "Alex Bregman",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/608324/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 608331,
         "name": "Max Fried",
@@ -1113,7 +1115,7 @@
         }
       },
       "projectedBattingOrder": 3,
-      "confirmed": false,
+      "confirmed": true,
       "projected_pa": 4.5,
       "ops_vs_pitcher": {
         "pa": 12,
@@ -1191,7 +1193,7 @@
       "gameDate": "2025-09-30",
       "opponentTeamName": "Boston Red Sox",
       "probablePitcherName": "Max Fried",
-      "lineup_confirmed": false
+      "lineup_confirmed": true
     },
     {
       "id": 519317,
@@ -1549,6 +1551,7 @@
       "gameDate": "2025-09-30",
       "opponentTeamName": "Chicago Cubs",
       "probablePitcherName": "Nick Pivetta",
+      "game_in_progress": true,
       "lineup_confirmed": true
     },
     {
@@ -1907,7 +1910,127 @@
       "gameDate": "2025-09-30",
       "opponentTeamName": "San Diego Padres",
       "probablePitcherName": "Matthew Boyd",
+      "game_in_progress": true,
       "lineup_confirmed": false
+    },
+    {
+      "id": 608701,
+      "name": "Rob Refsnyder",
+      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/608701/headshot/67/current",
+      "lineup_announced": true,
+      "probable_pitcher_splits": {
+        "id": 608331,
+        "name": "Max Fried",
+        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/608331/headshot/67/current",
+        "hitsPer9Inn": 7.56,
+        "hitsPer9Inn_site": 6.92,
+        "walksPer9Inn": 2.35,
+        "expected_woba": 0.294,
+        "hand": "L",
+        "batterSideForGame": "RHB",
+        "prob_1p5_tb_vs_lhb": 0.343,
+        "prob_1p5_tb_vs_rhb": 0.35,
+        "fair_odds_vs_lhb": "+191",
+        "fair_odds_vs_rhb": "+186",
+        "vs_lhb": {
+          "pa": 181,
+          "ab": 163,
+          "hits": 34,
+          "doubles": 2,
+          "hr": 8,
+          "avg": 0.209,
+          "ops": 0.675
+        },
+        "vs_rhb": {
+          "pa": 620,
+          "ab": 574,
+          "hits": 130,
+          "doubles": 24,
+          "hr": 6,
+          "avg": 0.226,
+          "ops": 0.598
+        }
+      },
+      "projectedBattingOrder": 1,
+      "confirmed": true,
+      "projected_pa": 4.73,
+      "ops_vs_pitcher": {
+        "pa": 9,
+        "ab": 8,
+        "hits": 2,
+        "doubles": 0,
+        "hr": 0,
+        "bb": 1,
+        "k": 3,
+        "avg": 0.25,
+        "ops": 0.583,
+        "prob_1p5_tb": 0.309,
+        "fair_odds": "+224"
+      },
+      "ops_vs_pitcher_ops_ab3": 0.583,
+      "ops_vs_pitcher_ops_ab5": 0.583,
+      "ops_vs_pitcher_ops_ab10": null,
+      "wtb2_percent": 0.462,
+      "prob_1p5_tb_overall": 0.507,
+      "fair_odds_overall": "-103",
+      "season_pa": 209,
+      "season_ab": 182,
+      "season_hits": 49,
+      "season_doubles": 12,
+      "season_hr": 9,
+      "season_avg": 0.269,
+      "season_ops": 0.838,
+      "ops_site": {
+        "pa": 94,
+        "ab": 82,
+        "hits": 19,
+        "doubles": 7,
+        "hr": 5,
+        "avg": 0.232,
+        "ops": 0.809,
+        "prob_1p5_tb": 0.526,
+        "fair_odds": "-111"
+      },
+      "ops_vs_pitcher_hand": {
+        "pa": 138,
+        "ab": 116,
+        "hits": 35,
+        "doubles": 9,
+        "hr": 7,
+        "avg": 0.302,
+        "ops": 0.959,
+        "prob_1p5_tb": 0.555,
+        "fair_odds": "-125"
+      },
+      "ops_last_7_days": {
+        "pa": 7,
+        "ab": 7,
+        "hits": 1,
+        "doubles": 0,
+        "hr": 0,
+        "avg": 0.143,
+        "ops": 0.286,
+        "prob_1p5_tb": 0.152,
+        "fair_odds": "+559"
+      },
+      "site": "Away",
+      "score": 69,
+      "score_wtb2": 69,
+      "prob_1p5_tb_projected": 0.46,
+      "fair_odds_projected": "+117",
+      "score_weight_breakdown": {
+        "baseline": 13.3,
+        "h2h": 20,
+        "vs_hand": 53.1,
+        "home_away": 6.6,
+        "last7": 2,
+        "pitcher_vs_hand": 5
+      },
+      "gamePk": 813074,
+      "gameDate": "2025-09-30",
+      "opponentTeamName": "Boston Red Sox",
+      "probablePitcherName": "Max Fried",
+      "lineup_confirmed": true
     },
     {
       "id": 641355,
@@ -2145,6 +2268,7 @@
       "gameDate": "2025-09-30",
       "opponentTeamName": "San Diego Padres",
       "probablePitcherName": "Matthew Boyd",
+      "game_in_progress": true,
       "lineup_confirmed": true
     },
     {
@@ -2270,7 +2394,7 @@
       "id": 663853,
       "name": "Romy Gonzalez",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/663853/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 608331,
         "name": "Max Fried",
@@ -2304,9 +2428,9 @@
           "ops": 0.598
         }
       },
-      "projectedBattingOrder": 5,
-      "confirmed": false,
-      "projected_pa": 4.29,
+      "projectedBattingOrder": 4,
+      "confirmed": true,
+      "projected_pa": 4.4,
       "ops_vs_pitcher": {
         "pa": 9,
         "ab": 7,
@@ -2383,7 +2507,7 @@
       "gameDate": "2025-09-30",
       "opponentTeamName": "Boston Red Sox",
       "probablePitcherName": "Max Fried",
-      "lineup_confirmed": false
+      "lineup_confirmed": true
     },
     {
       "id": 571970,
@@ -2740,6 +2864,7 @@
       "gameDate": "2025-09-30",
       "opponentTeamName": "Chicago Cubs",
       "probablePitcherName": "Nick Pivetta",
+      "game_in_progress": true,
       "lineup_confirmed": true
     },
     {
@@ -2859,6 +2984,7 @@
       "gameDate": "2025-09-30",
       "opponentTeamName": "San Diego Padres",
       "probablePitcherName": "Matthew Boyd",
+      "game_in_progress": true,
       "lineup_confirmed": true
     },
     {
@@ -3098,6 +3224,7 @@
       "gameDate": "2025-09-30",
       "opponentTeamName": "San Diego Padres",
       "probablePitcherName": "Matthew Boyd",
+      "game_in_progress": true,
       "lineup_confirmed": true
     },
     {
@@ -3217,6 +3344,7 @@
       "gameDate": "2025-09-30",
       "opponentTeamName": "Chicago Cubs",
       "probablePitcherName": "Nick Pivetta",
+      "game_in_progress": true,
       "lineup_confirmed": true
     },
     {
@@ -3694,6 +3822,7 @@
       "gameDate": "2025-09-30",
       "opponentTeamName": "Chicago Cubs",
       "probablePitcherName": "Nick Pivetta",
+      "game_in_progress": true,
       "lineup_confirmed": true
     },
     {
@@ -3813,7 +3942,127 @@
       "gameDate": "2025-09-30",
       "opponentTeamName": "Chicago Cubs",
       "probablePitcherName": "Nick Pivetta",
+      "game_in_progress": true,
       "lineup_confirmed": false
+    },
+    {
+      "id": 665966,
+      "name": "Carlos Narváez",
+      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/665966/headshot/67/current",
+      "lineup_announced": true,
+      "probable_pitcher_splits": {
+        "id": 608331,
+        "name": "Max Fried",
+        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/608331/headshot/67/current",
+        "hitsPer9Inn": 7.56,
+        "hitsPer9Inn_site": 6.92,
+        "walksPer9Inn": 2.35,
+        "expected_woba": 0.294,
+        "hand": "L",
+        "batterSideForGame": "RHB",
+        "prob_1p5_tb_vs_lhb": 0.343,
+        "prob_1p5_tb_vs_rhb": 0.35,
+        "fair_odds_vs_lhb": "+191",
+        "fair_odds_vs_rhb": "+186",
+        "vs_lhb": {
+          "pa": 181,
+          "ab": 163,
+          "hits": 34,
+          "doubles": 2,
+          "hr": 8,
+          "avg": 0.209,
+          "ops": 0.675
+        },
+        "vs_rhb": {
+          "pa": 620,
+          "ab": 574,
+          "hits": 130,
+          "doubles": 24,
+          "hr": 6,
+          "avg": 0.226,
+          "ops": 0.598
+        }
+      },
+      "projectedBattingOrder": 5,
+      "confirmed": true,
+      "projected_pa": 4.29,
+      "ops_vs_pitcher": {
+        "pa": 3,
+        "ab": 3,
+        "hits": 0,
+        "doubles": 0,
+        "hr": 0,
+        "bb": 0,
+        "k": 1,
+        "avg": 0,
+        "ops": 0,
+        "prob_1p5_tb": 0,
+        "fair_odds": "+999900"
+      },
+      "ops_vs_pitcher_ops_ab3": 0,
+      "ops_vs_pitcher_ops_ab5": null,
+      "ops_vs_pitcher_ops_ab10": null,
+      "wtb2_percent": 0.432,
+      "prob_1p5_tb_overall": 0.389,
+      "fair_odds_overall": "+157",
+      "season_pa": 446,
+      "season_ab": 403,
+      "season_hits": 97,
+      "season_doubles": 27,
+      "season_hr": 15,
+      "season_avg": 0.241,
+      "season_ops": 0.725,
+      "ops_site": {
+        "pa": 227,
+        "ab": 209,
+        "hits": 44,
+        "doubles": 8,
+        "hr": 8,
+        "avg": 0.211,
+        "ops": 0.637,
+        "prob_1p5_tb": 0.319,
+        "fair_odds": "+213"
+      },
+      "ops_vs_pitcher_hand": {
+        "pa": 130,
+        "ab": 115,
+        "hits": 28,
+        "doubles": 6,
+        "hr": 4,
+        "avg": 0.243,
+        "ops": 0.731,
+        "prob_1p5_tb": 0.353,
+        "fair_odds": "+183"
+      },
+      "ops_last_7_days": {
+        "pa": 15,
+        "ab": 15,
+        "hits": 4,
+        "doubles": 1,
+        "hr": 1,
+        "avg": 0.267,
+        "ops": 0.8,
+        "prob_1p5_tb": 0.5,
+        "fair_odds": "-100"
+      },
+      "site": "Away",
+      "score": 57,
+      "score_wtb2": 57,
+      "prob_1p5_tb_projected": 0.343,
+      "fair_odds_projected": "+192",
+      "score_weight_breakdown": {
+        "baseline": 58.9,
+        "h2h": 7,
+        "vs_hand": 14.7,
+        "home_away": 7.4,
+        "last7": 7,
+        "pitcher_vs_hand": 5
+      },
+      "gamePk": 813074,
+      "gameDate": "2025-09-30",
+      "opponentTeamName": "Boston Red Sox",
+      "probablePitcherName": "Max Fried",
+      "lineup_confirmed": true
     },
     {
       "id": 682622,
@@ -4769,6 +5018,7 @@
       "gameDate": "2025-09-30",
       "opponentTeamName": "San Diego Padres",
       "probablePitcherName": "Matthew Boyd",
+      "game_in_progress": true,
       "lineup_confirmed": true
     },
     {
@@ -4890,125 +5140,6 @@
       "probablePitcherName": "Gavin Williams",
       "game_in_progress": true,
       "lineup_confirmed": true
-    },
-    {
-      "id": 678882,
-      "name": "Ceddanne Rafaela",
-      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/678882/headshot/67/current",
-      "lineup_announced": false,
-      "probable_pitcher_splits": {
-        "id": 608331,
-        "name": "Max Fried",
-        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/608331/headshot/67/current",
-        "hitsPer9Inn": 7.56,
-        "hitsPer9Inn_site": 6.92,
-        "walksPer9Inn": 2.35,
-        "expected_woba": 0.294,
-        "hand": "L",
-        "batterSideForGame": "RHB",
-        "prob_1p5_tb_vs_lhb": 0.343,
-        "prob_1p5_tb_vs_rhb": 0.35,
-        "fair_odds_vs_lhb": "+191",
-        "fair_odds_vs_rhb": "+186",
-        "vs_lhb": {
-          "pa": 181,
-          "ab": 163,
-          "hits": 34,
-          "doubles": 2,
-          "hr": 8,
-          "avg": 0.209,
-          "ops": 0.675
-        },
-        "vs_rhb": {
-          "pa": 620,
-          "ab": 574,
-          "hits": 130,
-          "doubles": 24,
-          "hr": 6,
-          "avg": 0.226,
-          "ops": 0.598
-        }
-      },
-      "projectedBattingOrder": 6,
-      "confirmed": false,
-      "projected_pa": 4.18,
-      "ops_vs_pitcher": {
-        "pa": 10,
-        "ab": 10,
-        "hits": 2,
-        "doubles": 0,
-        "hr": 0,
-        "bb": 0,
-        "k": 3,
-        "avg": 0.2,
-        "ops": 0.4,
-        "prob_1p5_tb": 0.181,
-        "fair_odds": "+453"
-      },
-      "ops_vs_pitcher_ops_ab3": 0.4,
-      "ops_vs_pitcher_ops_ab5": 0.4,
-      "ops_vs_pitcher_ops_ab10": 0.4,
-      "wtb2_percent": 0.443,
-      "prob_1p5_tb_overall": 0.398,
-      "fair_odds_overall": "+151",
-      "season_pa": 587,
-      "season_ab": 546,
-      "season_hits": 136,
-      "season_doubles": 34,
-      "season_hr": 16,
-      "season_avg": 0.249,
-      "season_ops": 0.709,
-      "ops_site": {
-        "pa": 306,
-        "ab": 287,
-        "hits": 67,
-        "doubles": 18,
-        "hr": 7,
-        "avg": 0.233,
-        "ops": 0.662,
-        "prob_1p5_tb": 0.366,
-        "fair_odds": "+173"
-      },
-      "ops_vs_pitcher_hand": {
-        "pa": 163,
-        "ab": 150,
-        "hits": 33,
-        "doubles": 6,
-        "hr": 7,
-        "avg": 0.22,
-        "ops": 0.678,
-        "prob_1p5_tb": 0.346,
-        "fair_odds": "+189"
-      },
-      "ops_last_7_days": {
-        "pa": 23,
-        "ab": 21,
-        "hits": 8,
-        "doubles": 3,
-        "hr": 0,
-        "avg": 0.381,
-        "ops": 1.054,
-        "prob_1p5_tb": 0.578,
-        "fair_odds": "-137"
-      },
-      "site": "Away",
-      "score": 55,
-      "score_wtb2": 55,
-      "prob_1p5_tb_projected": 0.33,
-      "fair_odds_projected": "+203",
-      "score_weight_breakdown": {
-        "baseline": 11.8,
-        "h2h": 20,
-        "vs_hand": 47.3,
-        "home_away": 5.9,
-        "last7": 10,
-        "pitcher_vs_hand": 5
-      },
-      "gamePk": 813074,
-      "gameDate": "2025-09-30",
-      "opponentTeamName": "Boston Red Sox",
-      "probablePitcherName": "Max Fried",
-      "lineup_confirmed": false
     },
     {
       "id": 500743,
@@ -5365,6 +5496,7 @@
       "gameDate": "2025-09-30",
       "opponentTeamName": "Chicago Cubs",
       "probablePitcherName": "Nick Pivetta",
+      "game_in_progress": true,
       "lineup_confirmed": true
     },
     {
@@ -5843,13 +5975,14 @@
       "gameDate": "2025-09-30",
       "opponentTeamName": "Chicago Cubs",
       "probablePitcherName": "Nick Pivetta",
+      "game_in_progress": true,
       "lineup_confirmed": true
     },
     {
       "id": 807799,
       "name": "Masataka Yoshida",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/807799/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 608331,
         "name": "Max Fried",
@@ -6203,10 +6336,10 @@
       "lineup_confirmed": false
     },
     {
-      "id": 680776,
-      "name": "Jarren Duran",
-      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/680776/headshot/67/current",
-      "lineup_announced": false,
+      "id": 681987,
+      "name": "Nate Eaton",
+      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/681987/headshot/67/current",
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 608331,
         "name": "Max Fried",
@@ -6216,7 +6349,7 @@
         "walksPer9Inn": 2.35,
         "expected_woba": 0.294,
         "hand": "L",
-        "batterSideForGame": "LHB",
+        "batterSideForGame": "RHB",
         "prob_1p5_tb_vs_lhb": 0.343,
         "prob_1p5_tb_vs_rhb": 0.35,
         "fair_odds_vs_lhb": "+191",
@@ -6240,86 +6373,86 @@
           "ops": 0.598
         }
       },
-      "projectedBattingOrder": 1,
-      "confirmed": false,
-      "projected_pa": 4.73,
+      "projectedBattingOrder": 6,
+      "confirmed": true,
+      "projected_pa": 4.18,
       "ops_vs_pitcher": {
-        "pa": 10,
-        "ab": 10,
-        "hits": 0,
+        "pa": 5,
+        "ab": 3,
+        "hits": 2,
         "doubles": 0,
         "hr": 0,
-        "bb": 0,
-        "k": 5,
-        "avg": 0,
-        "ops": 0,
-        "prob_1p5_tb": 0,
-        "fair_odds": "+999900"
+        "bb": 2,
+        "k": 0,
+        "avg": 0.667,
+        "ops": 1.467,
+        "prob_1p5_tb": 0.525,
+        "fair_odds": "-110"
       },
-      "ops_vs_pitcher_ops_ab3": 0,
-      "ops_vs_pitcher_ops_ab5": 0,
-      "ops_vs_pitcher_ops_ab10": 0,
-      "wtb2_percent": 0.455,
-      "prob_1p5_tb_overall": 0.5,
-      "fair_odds_overall": "-100",
-      "season_pa": 696,
-      "season_ab": 620,
-      "season_hits": 159,
-      "season_doubles": 41,
-      "season_hr": 16,
-      "season_avg": 0.256,
-      "season_ops": 0.774,
+      "ops_vs_pitcher_ops_ab3": 1.467,
+      "ops_vs_pitcher_ops_ab5": null,
+      "ops_vs_pitcher_ops_ab10": null,
+      "wtb2_percent": 0.43,
+      "prob_1p5_tb_overall": 0.378,
+      "fair_odds_overall": "+165",
+      "season_pa": 90,
+      "season_ab": 81,
+      "season_hits": 24,
+      "season_doubles": 4,
+      "season_hr": 1,
+      "season_avg": 0.296,
+      "season_ops": 0.731,
       "ops_site": {
-        "pa": 360,
-        "ab": 322,
-        "hits": 73,
-        "doubles": 16,
-        "hr": 7,
-        "avg": 0.227,
-        "ops": 0.677,
-        "prob_1p5_tb": 0.397,
-        "fair_odds": "+152"
+        "pa": 50,
+        "ab": 43,
+        "hits": 10,
+        "doubles": 3,
+        "hr": 0,
+        "avg": 0.233,
+        "ops": 0.608,
+        "prob_1p5_tb": 0.304,
+        "fair_odds": "+229"
       },
       "ops_vs_pitcher_hand": {
-        "pa": 209,
-        "ab": 194,
-        "hits": 41,
-        "doubles": 6,
-        "hr": 3,
-        "avg": 0.211,
-        "ops": 0.6,
-        "prob_1p5_tb": 0.345,
-        "fair_odds": "+190"
-      },
-      "ops_last_7_days": {
-        "pa": 23,
-        "ab": 21,
-        "hits": 3,
+        "pa": 49,
+        "ab": 43,
+        "hits": 12,
         "doubles": 2,
         "hr": 0,
-        "avg": 0.143,
-        "ops": 0.455,
-        "prob_1p5_tb": 0.379,
-        "fair_odds": "+164"
+        "avg": 0.279,
+        "ops": 0.673,
+        "prob_1p5_tb": 0.323,
+        "fair_odds": "+209"
+      },
+      "ops_last_7_days": {
+        "pa": 4,
+        "ab": 4,
+        "hits": 1,
+        "doubles": 0,
+        "hr": 0,
+        "avg": 0.25,
+        "ops": 0.5,
+        "prob_1p5_tb": 0.262,
+        "fair_odds": "+282"
       },
       "site": "Away",
       "score": 49,
       "score_wtb2": 49,
-      "prob_1p5_tb_projected": 0.289,
-      "fair_odds_projected": "+247",
+      "prob_1p5_tb_projected": 0.341,
+      "fair_odds_projected": "+193",
       "score_weight_breakdown": {
-        "baseline": 11.8,
-        "h2h": 20,
-        "vs_hand": 47.3,
-        "home_away": 5.9,
-        "last7": 10,
+        "baseline": 14.9,
+        "h2h": 12,
+        "vs_hand": 59.6,
+        "home_away": 7.5,
+        "last7": 1,
         "pitcher_vs_hand": 5
       },
       "gamePk": 813074,
       "gameDate": "2025-09-30",
       "opponentTeamName": "Boston Red Sox",
       "probablePitcherName": "Max Fried",
-      "lineup_confirmed": false
+      "lineup_confirmed": true
     },
     {
       "id": 668715,
@@ -6677,6 +6810,7 @@
       "gameDate": "2025-09-30",
       "opponentTeamName": "Chicago Cubs",
       "probablePitcherName": "Nick Pivetta",
+      "game_in_progress": true,
       "lineup_confirmed": false
     },
     {
