@@ -1,7 +1,7 @@
 {
   "date": "2025-09-30",
   "gamesAnalyzed": 4,
-  "hitterCount": 64,
+  "hitterCount": 67,
   "hitters": [
     {
       "id": 609280,
@@ -120,6 +120,7 @@
       "gameDate": "2025-09-30",
       "opponentTeamName": "Cincinnati Reds",
       "probablePitcherName": "Blake Snell",
+      "game_in_progress": true,
       "lineup_confirmed": true
     },
     {
@@ -239,8 +240,9 @@
       "gameDate": "2025-09-30",
       "opponentTeamName": "Boston Red Sox",
       "probablePitcherName": "Max Fried",
-      "game_in_progress": true,
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 2,
+      "game_total_bases_met": true
     },
     {
       "id": 642708,
@@ -359,8 +361,9 @@
       "gameDate": "2025-09-30",
       "opponentTeamName": "New York Yankees",
       "probablePitcherName": "Garrett Crochet",
-      "game_in_progress": true,
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 0,
+      "game_total_bases_met": false
     },
     {
       "id": 518692,
@@ -479,6 +482,7 @@
       "gameDate": "2025-09-30",
       "opponentTeamName": "Los Angeles Dodgers",
       "probablePitcherName": "Hunter Greene",
+      "game_in_progress": true,
       "lineup_confirmed": true
     },
     {
@@ -719,8 +723,9 @@
       "gameDate": "2025-09-30",
       "opponentTeamName": "New York Yankees",
       "probablePitcherName": "Garrett Crochet",
-      "game_in_progress": true,
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 2,
+      "game_total_bases_met": true
     },
     {
       "id": 650333,
@@ -960,8 +965,9 @@
       "gameDate": "2025-09-30",
       "opponentTeamName": "Boston Red Sox",
       "probablePitcherName": "Max Fried",
-      "game_in_progress": true,
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 3,
+      "game_total_bases_met": true
     },
     {
       "id": 519317,
@@ -1080,8 +1086,9 @@
       "gameDate": "2025-09-30",
       "opponentTeamName": "New York Yankees",
       "probablePitcherName": "Garrett Crochet",
-      "game_in_progress": true,
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 0,
+      "game_total_bases_met": false
     },
     {
       "id": 663330,
@@ -1440,6 +1447,7 @@
       "gameDate": "2025-09-30",
       "opponentTeamName": "Los Angeles Dodgers",
       "probablePitcherName": "Hunter Greene",
+      "game_in_progress": true,
       "lineup_confirmed": true
     },
     {
@@ -1799,8 +1807,9 @@
       "gameDate": "2025-09-30",
       "opponentTeamName": "Boston Red Sox",
       "probablePitcherName": "Max Fried",
-      "game_in_progress": true,
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 0,
+      "game_total_bases_met": false
     },
     {
       "id": 641355,
@@ -1919,8 +1928,9 @@
       "gameDate": "2025-09-30",
       "opponentTeamName": "New York Yankees",
       "probablePitcherName": "Garrett Crochet",
-      "game_in_progress": true,
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 1,
+      "game_total_bases_met": false
     },
     {
       "id": 656811,
@@ -2160,8 +2170,9 @@
       "gameDate": "2025-09-30",
       "opponentTeamName": "New York Yankees",
       "probablePitcherName": "Garrett Crochet",
-      "game_in_progress": true,
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 2,
+      "game_total_bases_met": true
     },
     {
       "id": 663853,
@@ -2280,8 +2291,9 @@
       "gameDate": "2025-09-30",
       "opponentTeamName": "Boston Red Sox",
       "probablePitcherName": "Max Fried",
-      "game_in_progress": true,
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 0,
+      "game_total_bases_met": false
     },
     {
       "id": 571970,
@@ -2400,6 +2412,7 @@
       "gameDate": "2025-09-30",
       "opponentTeamName": "Los Angeles Dodgers",
       "probablePitcherName": "Hunter Greene",
+      "game_in_progress": true,
       "lineup_confirmed": true
     },
     {
@@ -2519,7 +2532,6 @@
       "gameDate": "2025-09-30",
       "opponentTeamName": "New York Yankees",
       "probablePitcherName": "Garrett Crochet",
-      "game_in_progress": true,
       "lineup_confirmed": false
     },
     {
@@ -2644,6 +2656,127 @@
       "game_total_bases_met": true
     },
     {
+      "id": 807799,
+      "name": "Masataka Yoshida",
+      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/807799/headshot/67/current",
+      "lineup_announced": true,
+      "probable_pitcher_splits": {
+        "id": 608331,
+        "name": "Max Fried",
+        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/608331/headshot/67/current",
+        "hitsPer9Inn": 7.56,
+        "hitsPer9Inn_site": 6.92,
+        "walksPer9Inn": 2.35,
+        "expected_woba": 0.294,
+        "hand": "L",
+        "batterSideForGame": "LHB",
+        "prob_1p5_tb_vs_lhb": 0.343,
+        "prob_1p5_tb_vs_rhb": 0.35,
+        "fair_odds_vs_lhb": "+191",
+        "fair_odds_vs_rhb": "+186",
+        "vs_lhb": {
+          "pa": 181,
+          "ab": 163,
+          "hits": 34,
+          "doubles": 2,
+          "hr": 8,
+          "avg": 0.209,
+          "ops": 0.675
+        },
+        "vs_rhb": {
+          "pa": 620,
+          "ab": 574,
+          "hits": 130,
+          "doubles": 24,
+          "hr": 6,
+          "avg": 0.226,
+          "ops": 0.598
+        }
+      },
+      "projectedBattingOrder": 1,
+      "confirmed": true,
+      "projected_pa": 4.73,
+      "ops_vs_pitcher": {
+        "pa": 0,
+        "ab": null,
+        "hits": null,
+        "doubles": null,
+        "hr": null,
+        "bb": null,
+        "k": null,
+        "avg": null,
+        "ops": null,
+        "prob_1p5_tb": null,
+        "fair_odds": null
+      },
+      "ops_vs_pitcher_ops_ab3": null,
+      "ops_vs_pitcher_ops_ab5": null,
+      "ops_vs_pitcher_ops_ab10": null,
+      "wtb2_percent": 0.426,
+      "prob_1p5_tb_overall": 0.474,
+      "fair_odds_overall": "+111",
+      "season_pa": 205,
+      "season_ab": 188,
+      "season_hits": 50,
+      "season_doubles": 11,
+      "season_hr": 4,
+      "season_avg": 0.266,
+      "season_ops": 0.695,
+      "ops_site": {
+        "pa": 117,
+        "ab": 107,
+        "hits": 30,
+        "doubles": 7,
+        "hr": 3,
+        "avg": 0.28,
+        "ops": 0.755,
+        "prob_1p5_tb": 0.511,
+        "fair_odds": "-105"
+      },
+      "ops_vs_pitcher_hand": {
+        "pa": 32,
+        "ab": 31,
+        "hits": 7,
+        "doubles": 1,
+        "hr": 0,
+        "avg": 0.226,
+        "ops": 0.508,
+        "prob_1p5_tb": 0.36,
+        "fair_odds": "+178"
+      },
+      "ops_last_7_days": {
+        "pa": 25,
+        "ab": 24,
+        "hits": 9,
+        "doubles": 2,
+        "hr": 2,
+        "avg": 0.375,
+        "ops": 1.108,
+        "prob_1p5_tb": 0.725,
+        "fair_odds": "-263"
+      },
+      "site": "Away",
+      "score": 62,
+      "score_wtb2": 62,
+      "prob_1p5_tb_projected": 0.408,
+      "fair_odds_projected": "+145",
+      "score_weight_breakdown": {
+        "baseline": 15.5,
+        "h2h": 0,
+        "vs_hand": 61.8,
+        "home_away": 7.7,
+        "last7": 10,
+        "pitcher_vs_hand": 5
+      },
+      "gamePk": 813074,
+      "gameDate": "2025-09-30",
+      "opponentTeamName": "Boston Red Sox",
+      "probablePitcherName": "Max Fried",
+      "lineup_confirmed": true,
+      "game_total_bases": 1,
+      "game_total_bases_met": false
+    },
+    {
       "id": 669242,
       "name": "Tommy Edman",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/669242/headshot/67/current",
@@ -2760,6 +2893,7 @@
       "gameDate": "2025-09-30",
       "opponentTeamName": "Los Angeles Dodgers",
       "probablePitcherName": "Hunter Greene",
+      "game_in_progress": true,
       "lineup_confirmed": true
     },
     {
@@ -3247,6 +3381,127 @@
       "game_total_bases_met": false
     },
     {
+      "id": 677800,
+      "name": "Wilyer Abreu",
+      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/677800/headshot/67/current",
+      "lineup_announced": true,
+      "probable_pitcher_splits": {
+        "id": 608331,
+        "name": "Max Fried",
+        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/608331/headshot/67/current",
+        "hitsPer9Inn": 7.56,
+        "hitsPer9Inn_site": 6.92,
+        "walksPer9Inn": 2.35,
+        "expected_woba": 0.294,
+        "hand": "L",
+        "batterSideForGame": "LHB",
+        "prob_1p5_tb_vs_lhb": 0.343,
+        "prob_1p5_tb_vs_rhb": 0.35,
+        "fair_odds_vs_lhb": "+191",
+        "fair_odds_vs_rhb": "+186",
+        "vs_lhb": {
+          "pa": 181,
+          "ab": 163,
+          "hits": 34,
+          "doubles": 2,
+          "hr": 8,
+          "avg": 0.209,
+          "ops": 0.675
+        },
+        "vs_rhb": {
+          "pa": 620,
+          "ab": 574,
+          "hits": 130,
+          "doubles": 24,
+          "hr": 6,
+          "avg": 0.226,
+          "ops": 0.598
+        }
+      },
+      "projectedBattingOrder": 6,
+      "confirmed": true,
+      "projected_pa": 4.18,
+      "ops_vs_pitcher": {
+        "pa": 0,
+        "ab": null,
+        "hits": null,
+        "doubles": null,
+        "hr": null,
+        "bb": null,
+        "k": null,
+        "avg": null,
+        "ops": null,
+        "prob_1p5_tb": null,
+        "fair_odds": null
+      },
+      "ops_vs_pitcher_ops_ab3": null,
+      "ops_vs_pitcher_ops_ab5": null,
+      "ops_vs_pitcher_ops_ab10": null,
+      "wtb2_percent": 0.434,
+      "prob_1p5_tb_overall": 0.39,
+      "fair_odds_overall": "+156",
+      "season_pa": 417,
+      "season_ab": 373,
+      "season_hits": 92,
+      "season_doubles": 17,
+      "season_hr": 22,
+      "season_avg": 0.247,
+      "season_ops": 0.786,
+      "ops_site": {
+        "pa": 215,
+        "ab": 188,
+        "hits": 50,
+        "doubles": 10,
+        "hr": 10,
+        "avg": 0.266,
+        "ops": 0.832,
+        "prob_1p5_tb": 0.401,
+        "fair_odds": "+149"
+      },
+      "ops_vs_pitcher_hand": {
+        "pa": 68,
+        "ab": 61,
+        "hits": 14,
+        "doubles": 6,
+        "hr": 1,
+        "avg": 0.23,
+        "ops": 0.676,
+        "prob_1p5_tb": 0.396,
+        "fair_odds": "+152"
+      },
+      "ops_last_7_days": {
+        "pa": 18,
+        "ab": 17,
+        "hits": 3,
+        "doubles": 1,
+        "hr": 0,
+        "avg": 0.176,
+        "ops": 0.457,
+        "prob_1p5_tb": 0.261,
+        "fair_odds": "+284"
+      },
+      "site": "Away",
+      "score": 60,
+      "score_wtb2": 60,
+      "prob_1p5_tb_projected": 0.361,
+      "fair_odds_projected": "+177",
+      "score_weight_breakdown": {
+        "baseline": 61.8,
+        "h2h": 0,
+        "vs_hand": 15.5,
+        "home_away": 7.7,
+        "last7": 10,
+        "pitcher_vs_hand": 5
+      },
+      "gamePk": 813074,
+      "gameDate": "2025-09-30",
+      "opponentTeamName": "Boston Red Sox",
+      "probablePitcherName": "Max Fried",
+      "lineup_confirmed": true,
+      "game_total_bases": 0,
+      "game_total_bases_met": false
+    },
+    {
       "id": 700932,
       "name": "Kyle Manzardo",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/700932/headshot/67/current",
@@ -3484,6 +3739,7 @@
       "gameDate": "2025-09-30",
       "opponentTeamName": "Los Angeles Dodgers",
       "probablePitcherName": "Hunter Greene",
+      "game_in_progress": true,
       "lineup_confirmed": true
     },
     {
@@ -3843,8 +4099,9 @@
       "gameDate": "2025-09-30",
       "opponentTeamName": "Boston Red Sox",
       "probablePitcherName": "Max Fried",
-      "game_in_progress": true,
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 0,
+      "game_total_bases_met": false
     },
     {
       "id": 682622,
@@ -3963,6 +4220,7 @@
       "gameDate": "2025-09-30",
       "opponentTeamName": "Cincinnati Reds",
       "probablePitcherName": "Blake Snell",
+      "game_in_progress": true,
       "lineup_confirmed": true
     },
     {
@@ -4082,6 +4340,7 @@
       "gameDate": "2025-09-30",
       "opponentTeamName": "Cincinnati Reds",
       "probablePitcherName": "Blake Snell",
+      "game_in_progress": true,
       "lineup_confirmed": true
     },
     {
@@ -4201,6 +4460,7 @@
       "gameDate": "2025-09-30",
       "opponentTeamName": "Los Angeles Dodgers",
       "probablePitcherName": "Hunter Greene",
+      "game_in_progress": true,
       "lineup_confirmed": true
     },
     {
@@ -5046,6 +5306,7 @@
       "gameDate": "2025-09-30",
       "opponentTeamName": "Cincinnati Reds",
       "probablePitcherName": "Blake Snell",
+      "game_in_progress": true,
       "lineup_confirmed": true
     },
     {
@@ -5165,6 +5426,7 @@
       "gameDate": "2025-09-30",
       "opponentTeamName": "Los Angeles Dodgers",
       "probablePitcherName": "Hunter Greene",
+      "game_in_progress": true,
       "lineup_confirmed": false
     },
     {
@@ -5284,6 +5546,7 @@
       "gameDate": "2025-09-30",
       "opponentTeamName": "Los Angeles Dodgers",
       "probablePitcherName": "Hunter Greene",
+      "game_in_progress": true,
       "lineup_confirmed": false
     },
     {
@@ -5645,6 +5908,7 @@
       "gameDate": "2025-09-30",
       "opponentTeamName": "Cincinnati Reds",
       "probablePitcherName": "Blake Snell",
+      "game_in_progress": true,
       "lineup_confirmed": false
     },
     {
@@ -6011,126 +6275,6 @@
       "game_total_bases_met": true
     },
     {
-      "id": 807799,
-      "name": "Masataka Yoshida",
-      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/807799/headshot/67/current",
-      "lineup_announced": true,
-      "probable_pitcher_splits": {
-        "id": 608331,
-        "name": "Max Fried",
-        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/608331/headshot/67/current",
-        "hitsPer9Inn": 7.56,
-        "hitsPer9Inn_site": 6.92,
-        "walksPer9Inn": 2.35,
-        "expected_woba": 0.294,
-        "hand": "L",
-        "batterSideForGame": "LHB",
-        "prob_1p5_tb_vs_lhb": 0.343,
-        "prob_1p5_tb_vs_rhb": 0.35,
-        "fair_odds_vs_lhb": "+191",
-        "fair_odds_vs_rhb": "+186",
-        "vs_lhb": {
-          "pa": 181,
-          "ab": 163,
-          "hits": 34,
-          "doubles": 2,
-          "hr": 8,
-          "avg": 0.209,
-          "ops": 0.675
-        },
-        "vs_rhb": {
-          "pa": 620,
-          "ab": 574,
-          "hits": 130,
-          "doubles": 24,
-          "hr": 6,
-          "avg": 0.226,
-          "ops": 0.598
-        }
-      },
-      "projectedBattingOrder": 4,
-      "confirmed": false,
-      "projected_pa": 4.4,
-      "ops_vs_pitcher": {
-        "pa": 0,
-        "ab": null,
-        "hits": null,
-        "doubles": null,
-        "hr": null,
-        "bb": null,
-        "k": null,
-        "avg": null,
-        "ops": null,
-        "prob_1p5_tb": null,
-        "fair_odds": null
-      },
-      "ops_vs_pitcher_ops_ab3": null,
-      "ops_vs_pitcher_ops_ab5": null,
-      "ops_vs_pitcher_ops_ab10": null,
-      "wtb2_percent": 0.426,
-      "prob_1p5_tb_overall": 0.378,
-      "fair_odds_overall": "+165",
-      "season_pa": 205,
-      "season_ab": 188,
-      "season_hits": 50,
-      "season_doubles": 11,
-      "season_hr": 4,
-      "season_avg": 0.266,
-      "season_ops": 0.695,
-      "ops_site": {
-        "pa": 117,
-        "ab": 107,
-        "hits": 30,
-        "doubles": 7,
-        "hr": 3,
-        "avg": 0.28,
-        "ops": 0.755,
-        "prob_1p5_tb": 0.413,
-        "fair_odds": "+142"
-      },
-      "ops_vs_pitcher_hand": {
-        "pa": 32,
-        "ab": 31,
-        "hits": 7,
-        "doubles": 1,
-        "hr": 0,
-        "avg": 0.226,
-        "ops": 0.508,
-        "prob_1p5_tb": 0.27,
-        "fair_odds": "+271"
-      },
-      "ops_last_7_days": {
-        "pa": 25,
-        "ab": 24,
-        "hits": 9,
-        "doubles": 2,
-        "hr": 2,
-        "avg": 0.375,
-        "ops": 1.108,
-        "prob_1p5_tb": 0.623,
-        "fair_odds": "-165"
-      },
-      "site": "Away",
-      "score": 51,
-      "score_wtb2": 51,
-      "prob_1p5_tb_projected": 0.323,
-      "fair_odds_projected": "+209",
-      "score_weight_breakdown": {
-        "baseline": 15.5,
-        "h2h": 0,
-        "vs_hand": 61.8,
-        "home_away": 7.7,
-        "last7": 10,
-        "pitcher_vs_hand": 5
-      },
-      "gamePk": 813074,
-      "gameDate": "2025-09-30",
-      "opponentTeamName": "Boston Red Sox",
-      "probablePitcherName": "Max Fried",
-      "game_in_progress": true,
-      "lineup_confirmed": false
-    },
-    {
       "id": 669743,
       "name": "Alex Call",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/669743/headshot/67/current",
@@ -6247,6 +6391,7 @@
       "gameDate": "2025-09-30",
       "opponentTeamName": "Los Angeles Dodgers",
       "probablePitcherName": "Hunter Greene",
+      "game_in_progress": true,
       "lineup_confirmed": false
     },
     {
@@ -6366,6 +6511,7 @@
       "gameDate": "2025-09-30",
       "opponentTeamName": "Cincinnati Reds",
       "probablePitcherName": "Blake Snell",
+      "game_in_progress": true,
       "lineup_confirmed": true
     },
     {
@@ -6485,8 +6631,9 @@
       "gameDate": "2025-09-30",
       "opponentTeamName": "Boston Red Sox",
       "probablePitcherName": "Max Fried",
-      "game_in_progress": true,
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 2,
+      "game_total_bases_met": true
     },
     {
       "id": 668715,
@@ -6605,7 +6752,250 @@
       "gameDate": "2025-09-30",
       "opponentTeamName": "Cincinnati Reds",
       "probablePitcherName": "Blake Snell",
+      "game_in_progress": true,
       "lineup_confirmed": true
+    },
+    {
+      "id": 665862,
+      "name": "Jazz Chisholm Jr.",
+      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/665862/headshot/67/current",
+      "lineup_announced": true,
+      "probable_pitcher_splits": {
+        "id": 676979,
+        "name": "Garrett Crochet",
+        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/676979/headshot/67/current",
+        "hitsPer9Inn": 7.23,
+        "hitsPer9Inn_site": 7.06,
+        "walksPer9Inn": 2.02,
+        "expected_woba": 0.274,
+        "hand": "L",
+        "batterSideForGame": "LHB",
+        "prob_1p5_tb_vs_lhb": 0.281,
+        "prob_1p5_tb_vs_rhb": 0.379,
+        "fair_odds_vs_lhb": "+256",
+        "fair_odds_vs_rhb": "+164",
+        "vs_lhb": {
+          "pa": 151,
+          "ab": 145,
+          "hits": 24,
+          "doubles": 5,
+          "hr": 3,
+          "avg": 0.166,
+          "ops": 0.455
+        },
+        "vs_rhb": {
+          "pa": 663,
+          "ab": 617,
+          "hits": 141,
+          "doubles": 23,
+          "hr": 21,
+          "avg": 0.229,
+          "ops": 0.653
+        }
+      },
+      "projectedBattingOrder": 5,
+      "confirmed": true,
+      "projected_pa": 4.12,
+      "ops_vs_pitcher": {
+        "pa": 5,
+        "ab": 4,
+        "hits": 0,
+        "doubles": 0,
+        "hr": 0,
+        "bb": 1,
+        "k": 3,
+        "avg": 0,
+        "ops": 0.2,
+        "prob_1p5_tb": 0,
+        "fair_odds": "+999900"
+      },
+      "ops_vs_pitcher_ops_ab3": 0.2,
+      "ops_vs_pitcher_ops_ab5": null,
+      "ops_vs_pitcher_ops_ab10": null,
+      "wtb2_percent": 0.414,
+      "prob_1p5_tb_overall": 0.372,
+      "fair_odds_overall": "+169",
+      "season_pa": 531,
+      "season_ab": 462,
+      "season_hits": 112,
+      "season_doubles": 15,
+      "season_hr": 31,
+      "season_avg": 0.242,
+      "season_ops": 0.813,
+      "ops_site": {
+        "pa": 269,
+        "ab": 235,
+        "hits": 65,
+        "doubles": 6,
+        "hr": 17,
+        "avg": 0.277,
+        "ops": 0.892,
+        "prob_1p5_tb": 0.397,
+        "fair_odds": "+152"
+      },
+      "ops_vs_pitcher_hand": {
+        "pa": 147,
+        "ab": 129,
+        "hits": 32,
+        "doubles": 3,
+        "hr": 6,
+        "avg": 0.248,
+        "ops": 0.733,
+        "prob_1p5_tb": 0.326,
+        "fair_odds": "+207"
+      },
+      "ops_last_7_days": {
+        "pa": 18,
+        "ab": 16,
+        "hits": 4,
+        "doubles": 1,
+        "hr": 0,
+        "avg": 0.25,
+        "ops": 0.646,
+        "prob_1p5_tb": 0.32,
+        "fair_odds": "+212"
+      },
+      "site": "Home",
+      "score": 48,
+      "score_wtb2": 48,
+      "prob_1p5_tb_projected": 0.28,
+      "fair_odds_projected": "+257",
+      "score_weight_breakdown": {
+        "baseline": 13.3,
+        "h2h": 12,
+        "vs_hand": 53.1,
+        "home_away": 6.6,
+        "last7": 10,
+        "pitcher_vs_hand": 5
+      },
+      "gamePk": 813074,
+      "gameDate": "2025-09-30",
+      "opponentTeamName": "New York Yankees",
+      "probablePitcherName": "Garrett Crochet",
+      "lineup_confirmed": true,
+      "game_total_bases": 0,
+      "game_total_bases_met": false
+    },
+    {
+      "id": 663993,
+      "name": "Nathaniel Lowe",
+      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/663993/headshot/67/current",
+      "lineup_announced": true,
+      "probable_pitcher_splits": {
+        "id": 608331,
+        "name": "Max Fried",
+        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/608331/headshot/67/current",
+        "hitsPer9Inn": 7.56,
+        "hitsPer9Inn_site": 6.92,
+        "walksPer9Inn": 2.35,
+        "expected_woba": 0.294,
+        "hand": "L",
+        "batterSideForGame": "LHB",
+        "prob_1p5_tb_vs_lhb": 0.343,
+        "prob_1p5_tb_vs_rhb": 0.35,
+        "fair_odds_vs_lhb": "+191",
+        "fair_odds_vs_rhb": "+186",
+        "vs_lhb": {
+          "pa": 181,
+          "ab": 163,
+          "hits": 34,
+          "doubles": 2,
+          "hr": 8,
+          "avg": 0.209,
+          "ops": 0.675
+        },
+        "vs_rhb": {
+          "pa": 620,
+          "ab": 574,
+          "hits": 130,
+          "doubles": 24,
+          "hr": 6,
+          "avg": 0.226,
+          "ops": 0.598
+        }
+      },
+      "projectedBattingOrder": 4,
+      "confirmed": true,
+      "projected_pa": 4.4,
+      "ops_vs_pitcher": {
+        "pa": 0,
+        "ab": null,
+        "hits": null,
+        "doubles": null,
+        "hr": null,
+        "bb": null,
+        "k": null,
+        "avg": null,
+        "ops": null,
+        "prob_1p5_tb": null,
+        "fair_odds": null
+      },
+      "ops_vs_pitcher_ops_ab3": null,
+      "ops_vs_pitcher_ops_ab5": null,
+      "ops_vs_pitcher_ops_ab10": null,
+      "wtb2_percent": 0.372,
+      "prob_1p5_tb_overall": 0.331,
+      "fair_odds_overall": "+202",
+      "season_pa": 609,
+      "season_ab": 540,
+      "season_hits": 123,
+      "season_doubles": 23,
+      "season_hr": 18,
+      "season_avg": 0.228,
+      "season_ops": 0.688,
+      "ops_site": {
+        "pa": 336,
+        "ab": 296,
+        "hits": 69,
+        "doubles": 14,
+        "hr": 8,
+        "avg": 0.233,
+        "ops": 0.683,
+        "prob_1p5_tb": 0.321,
+        "fair_odds": "+212"
+      },
+      "ops_vs_pitcher_hand": {
+        "pa": 171,
+        "ab": 155,
+        "hits": 26,
+        "doubles": 7,
+        "hr": 2,
+        "avg": 0.168,
+        "ops": 0.505,
+        "prob_1p5_tb": 0.241,
+        "fair_odds": "+316"
+      },
+      "ops_last_7_days": {
+        "pa": 22,
+        "ab": 18,
+        "hits": 6,
+        "doubles": 2,
+        "hr": 0,
+        "avg": 0.333,
+        "ops": 0.853,
+        "prob_1p5_tb": 0.44,
+        "fair_odds": "+127"
+      },
+      "site": "Away",
+      "score": 47,
+      "score_wtb2": 47,
+      "prob_1p5_tb_projected": 0.274,
+      "fair_odds_projected": "+264",
+      "score_weight_breakdown": {
+        "baseline": 15.5,
+        "h2h": 0,
+        "vs_hand": 61.8,
+        "home_away": 7.7,
+        "last7": 10,
+        "pitcher_vs_hand": 5
+      },
+      "gamePk": 813074,
+      "gameDate": "2025-09-30",
+      "opponentTeamName": "Boston Red Sox",
+      "probablePitcherName": "Max Fried",
+      "lineup_confirmed": true,
+      "game_total_bases": 0,
+      "game_total_bases_met": false
     },
     {
       "id": 669234,
@@ -7083,7 +7473,6 @@
       "gameDate": "2025-09-30",
       "opponentTeamName": "New York Yankees",
       "probablePitcherName": "Garrett Crochet",
-      "game_in_progress": true,
       "lineup_confirmed": false
     },
     {
@@ -7203,6 +7592,7 @@
       "gameDate": "2025-09-30",
       "opponentTeamName": "Cincinnati Reds",
       "probablePitcherName": "Blake Snell",
+      "game_in_progress": true,
       "lineup_confirmed": false
     },
     {
@@ -7443,8 +7833,9 @@
       "gameDate": "2025-09-30",
       "opponentTeamName": "New York Yankees",
       "probablePitcherName": "Garrett Crochet",
-      "game_in_progress": true,
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 0,
+      "game_total_bases_met": false
     },
     {
       "id": 681807,
