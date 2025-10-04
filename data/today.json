@@ -1,7 +1,7 @@
 {
   "date": "2025-10-04",
   "gamesAnalyzed": 4,
-  "hitterCount": 68,
+  "hitterCount": 67,
   "hitters": [
     {
       "id": 681481,
@@ -359,7 +359,9 @@
       "gameDate": "2025-10-04",
       "opponentTeamName": "Milwaukee Brewers",
       "probablePitcherName": "Matthew Boyd",
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 4,
+      "game_total_bases_met": true
     },
     {
       "id": 606192,
@@ -838,7 +840,9 @@
       "gameDate": "2025-10-04",
       "opponentTeamName": "Chicago Cubs",
       "probablePitcherName": "Freddy Peralta",
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 4,
+      "game_total_bases_met": true
     },
     {
       "id": 683734,
@@ -957,7 +961,9 @@
       "gameDate": "2025-10-04",
       "opponentTeamName": "Milwaukee Brewers",
       "probablePitcherName": "Matthew Boyd",
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 1,
+      "game_total_bases_met": false
     },
     {
       "id": 682985,
@@ -1673,7 +1679,9 @@
       "gameDate": "2025-10-04",
       "opponentTeamName": "Chicago Cubs",
       "probablePitcherName": "Freddy Peralta",
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 4,
+      "game_total_bases_met": true
     },
     {
       "id": 605141,
@@ -2152,7 +2160,9 @@
       "gameDate": "2025-10-04",
       "opponentTeamName": "Chicago Cubs",
       "probablePitcherName": "Freddy Peralta",
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 0,
+      "game_total_bases_met": false
     },
     {
       "id": 672386,
@@ -2510,7 +2520,9 @@
       "gameDate": "2025-10-04",
       "opponentTeamName": "Milwaukee Brewers",
       "probablePitcherName": "Matthew Boyd",
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 0,
+      "game_total_bases_met": false
     },
     {
       "id": 502671,
@@ -3826,7 +3838,9 @@
       "gameDate": "2025-10-04",
       "opponentTeamName": "Milwaukee Brewers",
       "probablePitcherName": "Matthew Boyd",
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 3,
+      "game_total_bases_met": true
     },
     {
       "id": 553993,
@@ -4541,7 +4555,9 @@
       "gameDate": "2025-10-04",
       "opponentTeamName": "Milwaukee Brewers",
       "probablePitcherName": "Matthew Boyd",
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 0,
+      "game_total_bases_met": false
     },
     {
       "id": 664770,
@@ -5257,7 +5273,9 @@
       "gameDate": "2025-10-04",
       "opponentTeamName": "Milwaukee Brewers",
       "probablePitcherName": "Matthew Boyd",
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 1,
+      "game_total_bases_met": false
     },
     {
       "id": 668930,
@@ -5376,7 +5394,9 @@
       "gameDate": "2025-10-04",
       "opponentTeamName": "Milwaukee Brewers",
       "probablePitcherName": "Matthew Boyd",
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 3,
+      "game_total_bases_met": true
     },
     {
       "id": 686217,
@@ -5495,7 +5515,9 @@
       "gameDate": "2025-10-04",
       "opponentTeamName": "Milwaukee Brewers",
       "probablePitcherName": "Matthew Boyd",
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 1,
+      "game_total_bases_met": false
     },
     {
       "id": 642708,
@@ -6098,126 +6120,6 @@
       "lineup_confirmed": true
     },
     {
-      "id": 664702,
-      "name": "Myles Straw",
-      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/664702/headshot/67/current",
-      "lineup_announced": true,
-      "probable_pitcher_splits": {
-        "id": 661563,
-        "name": "Luis Gil",
-        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/661563/headshot/67/current",
-        "hitsPer9Inn": 7.42,
-        "hitsPer9Inn_site": 8.03,
-        "walksPer9Inn": 5.21,
-        "expected_woba": 0.346,
-        "hand": "R",
-        "batterSideForGame": "RHB",
-        "prob_1p5_tb_vs_lhb": 0.36,
-        "prob_1p5_tb_vs_rhb": 0.389,
-        "fair_odds_vs_lhb": "+178",
-        "fair_odds_vs_rhb": "+157",
-        "vs_lhb": {
-          "pa": 131,
-          "ab": 109,
-          "hits": 24,
-          "doubles": 7,
-          "hr": 3,
-          "avg": 0.22,
-          "ops": 0.703
-        },
-        "vs_rhb": {
-          "pa": 113,
-          "ab": 99,
-          "hits": 23,
-          "doubles": 7,
-          "hr": 2,
-          "avg": 0.232,
-          "ops": 0.691
-        }
-      },
-      "projectedBattingOrder": 5,
-      "confirmed": false,
-      "projected_pa": 4.12,
-      "ops_vs_pitcher": {
-        "pa": 3,
-        "ab": 3,
-        "hits": 0,
-        "doubles": 0,
-        "hr": 0,
-        "bb": 0,
-        "k": 1,
-        "avg": 0,
-        "ops": 0,
-        "prob_1p5_tb": 0,
-        "fair_odds": "+999900"
-      },
-      "ops_vs_pitcher_ops_ab3": 0,
-      "ops_vs_pitcher_ops_ab5": null,
-      "ops_vs_pitcher_ops_ab10": null,
-      "wtb2_percent": 0.396,
-      "prob_1p5_tb_overall": 0.349,
-      "fair_odds_overall": "+186",
-      "season_pa": 299,
-      "season_ab": 267,
-      "season_hits": 70,
-      "season_doubles": 14,
-      "season_hr": 4,
-      "season_avg": 0.262,
-      "season_ops": 0.68,
-      "ops_site": {
-        "pa": 144,
-        "ab": 130,
-        "hits": 38,
-        "doubles": 10,
-        "hr": 3,
-        "avg": 0.292,
-        "ops": 0.797,
-        "prob_1p5_tb": 0.429,
-        "fair_odds": "+133"
-      },
-      "ops_vs_pitcher_hand": {
-        "pa": 153,
-        "ab": 134,
-        "hits": 34,
-        "doubles": 5,
-        "hr": 3,
-        "avg": 0.254,
-        "ops": 0.676,
-        "prob_1p5_tb": 0.314,
-        "fair_odds": "+218"
-      },
-      "ops_last_7_days": {
-        "pa": 5,
-        "ab": 4,
-        "hits": 1,
-        "doubles": 0,
-        "hr": 0,
-        "avg": 0.25,
-        "ops": 1,
-        "prob_1p5_tb": 0.181,
-        "fair_odds": "+453"
-      },
-      "site": "Home",
-      "score": 55,
-      "score_wtb2": 55,
-      "prob_1p5_tb_projected": 0.319,
-      "fair_odds_projected": "+213",
-      "score_weight_breakdown": {
-        "baseline": 63.3,
-        "h2h": 7,
-        "vs_hand": 15.8,
-        "home_away": 7.9,
-        "last7": 1,
-        "pitcher_vs_hand": 5
-      },
-      "gamePk": 813063,
-      "gameDate": "2025-10-04",
-      "opponentTeamName": "Toronto Blue Jays",
-      "probablePitcherName": "Luis Gil",
-      "game_in_progress": true,
-      "lineup_confirmed": false
-    },
-    {
       "id": 676914,
       "name": "Davis Schneider",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/676914/headshot/67/current",
@@ -6454,7 +6356,9 @@
       "gameDate": "2025-10-04",
       "opponentTeamName": "Chicago Cubs",
       "probablePitcherName": "Freddy Peralta",
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 0,
+      "game_total_bases_met": false
     },
     {
       "id": 691176,
@@ -6615,7 +6519,7 @@
         }
       },
       "projectedBattingOrder": 4,
-      "confirmed": false,
+      "confirmed": true,
       "projected_pa": 4.22,
       "ops_vs_pitcher": {
         "pa": 9,
@@ -6694,7 +6598,7 @@
       "opponentTeamName": "Toronto Blue Jays",
       "probablePitcherName": "Luis Gil",
       "game_in_progress": true,
-      "lineup_confirmed": false
+      "lineup_confirmed": true
     },
     {
       "id": 624424,
@@ -7173,7 +7077,9 @@
       "gameDate": "2025-10-04",
       "opponentTeamName": "Chicago Cubs",
       "probablePitcherName": "Freddy Peralta",
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 1,
+      "game_total_bases_met": false
     },
     {
       "id": 664023,
@@ -7292,7 +7198,9 @@
       "gameDate": "2025-10-04",
       "opponentTeamName": "Chicago Cubs",
       "probablePitcherName": "Freddy Peralta",
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 4,
+      "game_total_bases_met": true
     },
     {
       "id": 665862,
@@ -8008,7 +7916,9 @@
       "gameDate": "2025-10-04",
       "opponentTeamName": "Milwaukee Brewers",
       "probablePitcherName": "Matthew Boyd",
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 0,
+      "game_total_bases_met": false
     },
     {
       "id": 687221,
