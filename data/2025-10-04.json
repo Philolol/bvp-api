@@ -120,6 +120,7 @@
       "gameDate": "2025-10-04",
       "opponentTeamName": "New York Yankees",
       "probablePitcherName": "Kevin Gausman",
+      "game_in_progress": true,
       "lineup_confirmed": true
     },
     {
@@ -716,6 +717,7 @@
       "gameDate": "2025-10-04",
       "opponentTeamName": "New York Yankees",
       "probablePitcherName": "Kevin Gausman",
+      "game_in_progress": true,
       "lineup_confirmed": true
     },
     {
@@ -1075,6 +1077,7 @@
       "gameDate": "2025-10-04",
       "opponentTeamName": "Toronto Blue Jays",
       "probablePitcherName": "Luis Gil",
+      "game_in_progress": true,
       "lineup_confirmed": true
     },
     {
@@ -1909,6 +1912,7 @@
       "gameDate": "2025-10-04",
       "opponentTeamName": "Toronto Blue Jays",
       "probablePitcherName": "Luis Gil",
+      "game_in_progress": true,
       "lineup_confirmed": true
     },
     {
@@ -2148,13 +2152,14 @@
       "gameDate": "2025-10-04",
       "opponentTeamName": "Toronto Blue Jays",
       "probablePitcherName": "Luis Gil",
+      "game_in_progress": true,
       "lineup_confirmed": true
     },
     {
       "id": 593871,
       "name": "Jorge Polanco",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/593871/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 675512,
         "name": "Troy Melton",
@@ -2188,9 +2193,9 @@
           "ops": 0.553
         }
       },
-      "projectedBattingOrder": 4,
-      "confirmed": false,
-      "projected_pa": 4.22,
+      "projectedBattingOrder": 5,
+      "confirmed": true,
+      "projected_pa": 4.12,
       "ops_vs_pitcher": {
         "pa": 0,
         "ab": null,
@@ -2267,7 +2272,7 @@
       "gameDate": "2025-10-04",
       "opponentTeamName": "Seattle Mariners",
       "probablePitcherName": "Troy Melton",
-      "lineup_confirmed": false
+      "lineup_confirmed": true
     },
     {
       "id": 686555,
@@ -2506,13 +2511,14 @@
       "gameDate": "2025-10-04",
       "opponentTeamName": "New York Yankees",
       "probablePitcherName": "Kevin Gausman",
+      "game_in_progress": true,
       "lineup_confirmed": false
     },
     {
       "id": 668227,
       "name": "Randy Arozarena",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/668227/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 675512,
         "name": "Troy Melton",
@@ -2547,7 +2553,7 @@
         }
       },
       "projectedBattingOrder": 1,
-      "confirmed": false,
+      "confirmed": true,
       "projected_pa": 4.54,
       "ops_vs_pitcher": {
         "pa": 0,
@@ -2625,7 +2631,7 @@
       "gameDate": "2025-10-04",
       "opponentTeamName": "Seattle Mariners",
       "probablePitcherName": "Troy Melton",
-      "lineup_confirmed": false
+      "lineup_confirmed": true
     },
     {
       "id": 663757,
@@ -2744,6 +2750,7 @@
       "gameDate": "2025-10-04",
       "opponentTeamName": "New York Yankees",
       "probablePitcherName": "Kevin Gausman",
+      "game_in_progress": true,
       "lineup_confirmed": true
     },
     {
@@ -2866,6 +2873,125 @@
       "lineup_confirmed": true
     },
     {
+      "id": 647304,
+      "name": "Josh Naylor",
+      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/647304/headshot/67/current",
+      "lineup_announced": true,
+      "probable_pitcher_splits": {
+        "id": 675512,
+        "name": "Troy Melton",
+        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/675512/headshot/67/current",
+        "hitsPer9Inn": 6.11,
+        "hitsPer9Inn_site": 6.94,
+        "walksPer9Inn": 2.96,
+        "expected_woba": 0.308,
+        "hand": "R",
+        "batterSideForGame": "LHB",
+        "prob_1p5_tb_vs_lhb": 0.346,
+        "prob_1p5_tb_vs_rhb": 0.277,
+        "fair_odds_vs_lhb": "+189",
+        "fair_odds_vs_rhb": "+262",
+        "vs_lhb": {
+          "pa": 96,
+          "ab": 85,
+          "hits": 17,
+          "doubles": 3,
+          "hr": 4,
+          "avg": 0.2,
+          "ops": 0.657
+        },
+        "vs_rhb": {
+          "pa": 84,
+          "ab": 77,
+          "hits": 14,
+          "doubles": 1,
+          "hr": 3,
+          "avg": 0.182,
+          "ops": 0.553
+        }
+      },
+      "projectedBattingOrder": 4,
+      "confirmed": true,
+      "projected_pa": 4.22,
+      "ops_vs_pitcher": {
+        "pa": 0,
+        "ab": null,
+        "hits": null,
+        "doubles": null,
+        "hr": null,
+        "bb": null,
+        "k": null,
+        "avg": null,
+        "ops": null,
+        "prob_1p5_tb": null,
+        "fair_odds": null
+      },
+      "ops_vs_pitcher_ops_ab3": null,
+      "ops_vs_pitcher_ops_ab5": null,
+      "ops_vs_pitcher_ops_ab10": null,
+      "wtb2_percent": 0.469,
+      "prob_1p5_tb_overall": 0.419,
+      "fair_odds_overall": "+139",
+      "season_pa": 604,
+      "season_ab": 543,
+      "season_hits": 160,
+      "season_doubles": 29,
+      "season_hr": 20,
+      "season_avg": 0.295,
+      "season_ops": 0.815,
+      "ops_site": {
+        "pa": 305,
+        "ab": 271,
+        "hits": 91,
+        "doubles": 20,
+        "hr": 10,
+        "avg": 0.336,
+        "ops": 0.907,
+        "prob_1p5_tb": 0.481,
+        "fair_odds": "+108"
+      },
+      "ops_vs_pitcher_hand": {
+        "pa": 412,
+        "ab": 362,
+        "hits": 108,
+        "doubles": 22,
+        "hr": 14,
+        "avg": 0.298,
+        "ops": 0.843,
+        "prob_1p5_tb": 0.423,
+        "fair_odds": "+137"
+      },
+      "ops_last_7_days": {
+        "pa": 0,
+        "ab": null,
+        "hits": null,
+        "doubles": null,
+        "hr": null,
+        "avg": null,
+        "ops": null,
+        "prob_1p5_tb": null,
+        "fair_odds": null
+      },
+      "site": "Home",
+      "score": 65,
+      "score_wtb2": 65,
+      "prob_1p5_tb_projected": 0.404,
+      "fair_odds_projected": "+147",
+      "score_weight_breakdown": {
+        "baseline": 69.1,
+        "h2h": 0,
+        "vs_hand": 17.3,
+        "home_away": 8.6,
+        "last7": 0,
+        "pitcher_vs_hand": 5
+      },
+      "gamePk": 813058,
+      "gameDate": "2025-10-04",
+      "opponentTeamName": "Seattle Mariners",
+      "probablePitcherName": "Troy Melton",
+      "lineup_confirmed": true
+    },
+    {
       "id": 680718,
       "name": "Addison Barger",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/680718/headshot/67/current",
@@ -2982,6 +3108,7 @@
       "gameDate": "2025-10-04",
       "opponentTeamName": "Toronto Blue Jays",
       "probablePitcherName": "Luis Gil",
+      "game_in_progress": true,
       "lineup_confirmed": true
     },
     {
@@ -3345,7 +3472,7 @@
       "id": 663728,
       "name": "Cal Raleigh",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/663728/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 675512,
         "name": "Troy Melton",
@@ -3380,7 +3507,7 @@
         }
       },
       "projectedBattingOrder": 2,
-      "confirmed": false,
+      "confirmed": true,
       "projected_pa": 4.43,
       "ops_vs_pitcher": {
         "pa": 0,
@@ -3458,7 +3585,7 @@
       "gameDate": "2025-10-04",
       "opponentTeamName": "Seattle Mariners",
       "probablePitcherName": "Troy Melton",
-      "lineup_confirmed": false
+      "lineup_confirmed": true
     },
     {
       "id": 661388,
@@ -3584,7 +3711,7 @@
       "id": 553993,
       "name": "Eugenio Suárez",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/553993/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 675512,
         "name": "Troy Melton",
@@ -3618,9 +3745,9 @@
           "ops": 0.553
         }
       },
-      "projectedBattingOrder": 5,
-      "confirmed": false,
-      "projected_pa": 4.12,
+      "projectedBattingOrder": 6,
+      "confirmed": true,
+      "projected_pa": 4.01,
       "ops_vs_pitcher": {
         "pa": 3,
         "ab": 3,
@@ -3697,7 +3824,7 @@
       "gameDate": "2025-10-04",
       "opponentTeamName": "Seattle Mariners",
       "probablePitcherName": "Troy Melton",
-      "lineup_confirmed": false
+      "lineup_confirmed": true
     },
     {
       "id": 662139,
@@ -3816,6 +3943,7 @@
       "gameDate": "2025-10-04",
       "opponentTeamName": "Toronto Blue Jays",
       "probablePitcherName": "Luis Gil",
+      "game_in_progress": true,
       "lineup_confirmed": true
     },
     {
@@ -4060,7 +4188,7 @@
       "id": 677594,
       "name": "Julio Rodríguez",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/677594/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 675512,
         "name": "Troy Melton",
@@ -4095,7 +4223,7 @@
         }
       },
       "projectedBattingOrder": 3,
-      "confirmed": false,
+      "confirmed": true,
       "projected_pa": 4.32,
       "ops_vs_pitcher": {
         "pa": 0,
@@ -4173,7 +4301,7 @@
       "gameDate": "2025-10-04",
       "opponentTeamName": "Seattle Mariners",
       "probablePitcherName": "Troy Melton",
-      "lineup_confirmed": false
+      "lineup_confirmed": true
     },
     {
       "id": 664770,
@@ -4292,6 +4420,7 @@
       "gameDate": "2025-10-04",
       "opponentTeamName": "Toronto Blue Jays",
       "probablePitcherName": "Luis Gil",
+      "game_in_progress": true,
       "lineup_confirmed": true
     },
     {
@@ -5129,6 +5258,7 @@
       "gameDate": "2025-10-04",
       "opponentTeamName": "New York Yankees",
       "probablePitcherName": "Kevin Gausman",
+      "game_in_progress": true,
       "lineup_confirmed": false
     },
     {
@@ -5724,6 +5854,7 @@
       "gameDate": "2025-10-04",
       "opponentTeamName": "New York Yankees",
       "probablePitcherName": "Kevin Gausman",
+      "game_in_progress": true,
       "lineup_confirmed": true
     },
     {
@@ -5843,6 +5974,7 @@
       "gameDate": "2025-10-04",
       "opponentTeamName": "Toronto Blue Jays",
       "probablePitcherName": "Luis Gil",
+      "game_in_progress": true,
       "lineup_confirmed": false
     },
     {
@@ -5962,125 +6094,7 @@
       "gameDate": "2025-10-04",
       "opponentTeamName": "Toronto Blue Jays",
       "probablePitcherName": "Luis Gil",
-      "lineup_confirmed": false
-    },
-    {
-      "id": 641487,
-      "name": "J.P. Crawford",
-      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/641487/headshot/67/current",
-      "lineup_announced": false,
-      "probable_pitcher_splits": {
-        "id": 675512,
-        "name": "Troy Melton",
-        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/675512/headshot/67/current",
-        "hitsPer9Inn": 6.11,
-        "hitsPer9Inn_site": 6.94,
-        "walksPer9Inn": 2.96,
-        "expected_woba": 0.308,
-        "hand": "R",
-        "batterSideForGame": "LHB",
-        "prob_1p5_tb_vs_lhb": 0.346,
-        "prob_1p5_tb_vs_rhb": 0.277,
-        "fair_odds_vs_lhb": "+189",
-        "fair_odds_vs_rhb": "+262",
-        "vs_lhb": {
-          "pa": 96,
-          "ab": 85,
-          "hits": 17,
-          "doubles": 3,
-          "hr": 4,
-          "avg": 0.2,
-          "ops": 0.657
-        },
-        "vs_rhb": {
-          "pa": 84,
-          "ab": 77,
-          "hits": 14,
-          "doubles": 1,
-          "hr": 3,
-          "avg": 0.182,
-          "ops": 0.553
-        }
-      },
-      "projectedBattingOrder": 6,
-      "confirmed": false,
-      "projected_pa": 4.01,
-      "ops_vs_pitcher": {
-        "pa": 0,
-        "ab": null,
-        "hits": null,
-        "doubles": null,
-        "hr": null,
-        "bb": null,
-        "k": null,
-        "avg": null,
-        "ops": null,
-        "prob_1p5_tb": null,
-        "fair_odds": null
-      },
-      "ops_vs_pitcher_ops_ab3": null,
-      "ops_vs_pitcher_ops_ab5": null,
-      "ops_vs_pitcher_ops_ab10": null,
-      "wtb2_percent": 0.377,
-      "prob_1p5_tb_overall": 0.33,
-      "fair_odds_overall": "+203",
-      "season_pa": 654,
-      "season_ab": 570,
-      "season_hits": 151,
-      "season_doubles": 24,
-      "season_hr": 12,
-      "season_avg": 0.265,
-      "season_ops": 0.722,
-      "ops_site": {
-        "pa": 308,
-        "ab": 269,
-        "hits": 73,
-        "doubles": 15,
-        "hr": 6,
-        "avg": 0.271,
-        "ops": 0.751,
-        "prob_1p5_tb": 0.361,
-        "fair_odds": "+177"
-      },
-      "ops_vs_pitcher_hand": {
-        "pa": 441,
-        "ab": 387,
-        "hits": 108,
-        "doubles": 16,
-        "hr": 8,
-        "avg": 0.279,
-        "ops": 0.743,
-        "prob_1p5_tb": 0.347,
-        "fair_odds": "+188"
-      },
-      "ops_last_7_days": {
-        "pa": 4,
-        "ab": 4,
-        "hits": 1,
-        "doubles": 0,
-        "hr": 0,
-        "avg": 0.25,
-        "ops": 0.5,
-        "prob_1p5_tb": 0.262,
-        "fair_odds": "+282"
-      },
-      "site": "Home",
-      "score": 54,
-      "score_wtb2": 54,
-      "prob_1p5_tb_projected": 0.322,
-      "fair_odds_projected": "+210",
-      "score_weight_breakdown": {
-        "baseline": 68.4,
-        "h2h": 0,
-        "vs_hand": 17.1,
-        "home_away": 8.5,
-        "last7": 1,
-        "pitcher_vs_hand": 5
-      },
-      "gamePk": 813058,
-      "gameDate": "2025-10-04",
-      "opponentTeamName": "Seattle Mariners",
-      "probablePitcherName": "Troy Melton",
+      "game_in_progress": true,
       "lineup_confirmed": false
     },
     {
@@ -6320,6 +6334,7 @@
       "gameDate": "2025-10-04",
       "opponentTeamName": "New York Yankees",
       "probablePitcherName": "Kevin Gausman",
+      "game_in_progress": true,
       "lineup_confirmed": false
     },
     {
@@ -6439,6 +6454,7 @@
       "gameDate": "2025-10-04",
       "opponentTeamName": "Toronto Blue Jays",
       "probablePitcherName": "Luis Gil",
+      "game_in_progress": true,
       "lineup_confirmed": false
     },
     {
@@ -6677,6 +6693,7 @@
       "gameDate": "2025-10-04",
       "opponentTeamName": "New York Yankees",
       "probablePitcherName": "Kevin Gausman",
+      "game_in_progress": true,
       "lineup_confirmed": true
     },
     {
@@ -7155,6 +7172,7 @@
       "gameDate": "2025-10-04",
       "opponentTeamName": "New York Yankees",
       "probablePitcherName": "Kevin Gausman",
+      "game_in_progress": true,
       "lineup_confirmed": true
     },
     {
@@ -7518,7 +7536,7 @@
       "id": 641598,
       "name": "Mitch Garver",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/641598/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 675512,
         "name": "Troy Melton",
