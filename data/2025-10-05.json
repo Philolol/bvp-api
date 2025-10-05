@@ -1,7 +1,7 @@
 {
   "date": "2025-10-05",
   "gamesAnalyzed": 2,
-  "hitterCount": 34,
+  "hitterCount": 33,
   "hitters": [
     {
       "id": 592450,
@@ -124,10 +124,129 @@
       "lineup_confirmed": true
     },
     {
+      "id": 682985,
+      "name": "Riley Greene",
+      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/682985/headshot/67/current",
+      "lineup_announced": true,
+      "probable_pitcher_splits": {
+        "id": 622491,
+        "name": "Luis Castillo",
+        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/622491/headshot/67/current",
+        "hitsPer9Inn": 8.37,
+        "hitsPer9Inn_site": 6.28,
+        "walksPer9Inn": 2.29,
+        "expected_woba": 0.322,
+        "hand": "R",
+        "batterSideForGame": "LHB",
+        "prob_1p5_tb_vs_lhb": 0.472,
+        "prob_1p5_tb_vs_rhb": 0.353,
+        "fair_odds_vs_lhb": "+112",
+        "fair_odds_vs_rhb": "+183",
+        "vs_lhb": {
+          "pa": 376,
+          "ab": 335,
+          "hits": 93,
+          "doubles": 23,
+          "hr": 12,
+          "avg": 0.278,
+          "ops": 0.814
+        },
+        "vs_rhb": {
+          "pa": 369,
+          "ab": 354,
+          "hits": 75,
+          "doubles": 11,
+          "hr": 11,
+          "avg": 0.212,
+          "ops": 0.586
+        }
+      },
+      "projectedBattingOrder": 3,
+      "confirmed": true,
+      "projected_pa": 4.5,
+      "ops_vs_pitcher": {
+        "pa": 8,
+        "ab": 8,
+        "hits": 4,
+        "doubles": 1,
+        "hr": 0,
+        "bb": 0,
+        "k": 1,
+        "avg": 0.5,
+        "ops": 1.375,
+        "prob_1p5_tb": 0.801,
+        "fair_odds": "-402"
+      },
+      "ops_vs_pitcher_ops_ab3": 1.375,
+      "ops_vs_pitcher_ops_ab5": 1.375,
+      "ops_vs_pitcher_ops_ab10": null,
+      "wtb2_percent": 0.47,
+      "prob_1p5_tb_overall": 0.47,
+      "fair_odds_overall": "+113",
+      "season_pa": 655,
+      "season_ab": 600,
+      "season_hits": 155,
+      "season_doubles": 31,
+      "season_hr": 36,
+      "season_avg": 0.258,
+      "season_ops": 0.806,
+      "ops_site": {
+        "pa": 328,
+        "ab": 299,
+        "hits": 77,
+        "doubles": 18,
+        "hr": 21,
+        "avg": 0.258,
+        "ops": 0.845,
+        "prob_1p5_tb": 0.494,
+        "fair_odds": "+102"
+      },
+      "ops_vs_pitcher_hand": {
+        "pa": 455,
+        "ab": 421,
+        "hits": 116,
+        "doubles": 23,
+        "hr": 32,
+        "avg": 0.276,
+        "ops": 0.886,
+        "prob_1p5_tb": 0.517,
+        "fair_odds": "-107"
+      },
+      "ops_last_7_days": {
+        "pa": 0,
+        "ab": null,
+        "hits": null,
+        "doubles": null,
+        "hr": null,
+        "avg": null,
+        "ops": null,
+        "prob_1p5_tb": null,
+        "fair_odds": null
+      },
+      "site": "Away",
+      "score": 90,
+      "score_wtb2": 90,
+      "prob_1p5_tb_projected": 0.575,
+      "fair_odds_projected": "-135",
+      "score_weight_breakdown": {
+        "baseline": 13.6,
+        "h2h": 20,
+        "vs_hand": 54.5,
+        "home_away": 6.8,
+        "last7": 0,
+        "pitcher_vs_hand": 5
+      },
+      "gamePk": 813057,
+      "gameDate": "2025-10-05",
+      "opponentTeamName": "Detroit Tigers",
+      "probablePitcherName": "Luis Castillo",
+      "lineup_confirmed": true
+    },
+    {
       "id": 681481,
       "name": "Kerry Carpenter",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/681481/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 622491,
         "name": "Luis Castillo",
@@ -162,7 +281,7 @@
         }
       },
       "projectedBattingOrder": 2,
-      "confirmed": false,
+      "confirmed": true,
       "projected_pa": 4.62,
       "ops_vs_pitcher": {
         "pa": 5,
@@ -240,126 +359,7 @@
       "gameDate": "2025-10-05",
       "opponentTeamName": "Detroit Tigers",
       "probablePitcherName": "Luis Castillo",
-      "lineup_confirmed": false
-    },
-    {
-      "id": 682985,
-      "name": "Riley Greene",
-      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/682985/headshot/67/current",
-      "lineup_announced": false,
-      "probable_pitcher_splits": {
-        "id": 622491,
-        "name": "Luis Castillo",
-        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/622491/headshot/67/current",
-        "hitsPer9Inn": 8.37,
-        "hitsPer9Inn_site": 6.28,
-        "walksPer9Inn": 2.29,
-        "expected_woba": 0.322,
-        "hand": "R",
-        "batterSideForGame": "LHB",
-        "prob_1p5_tb_vs_lhb": 0.472,
-        "prob_1p5_tb_vs_rhb": 0.353,
-        "fair_odds_vs_lhb": "+112",
-        "fair_odds_vs_rhb": "+183",
-        "vs_lhb": {
-          "pa": 376,
-          "ab": 335,
-          "hits": 93,
-          "doubles": 23,
-          "hr": 12,
-          "avg": 0.278,
-          "ops": 0.814
-        },
-        "vs_rhb": {
-          "pa": 369,
-          "ab": 354,
-          "hits": 75,
-          "doubles": 11,
-          "hr": 11,
-          "avg": 0.212,
-          "ops": 0.586
-        }
-      },
-      "projectedBattingOrder": 5,
-      "confirmed": false,
-      "projected_pa": 4.29,
-      "ops_vs_pitcher": {
-        "pa": 8,
-        "ab": 8,
-        "hits": 4,
-        "doubles": 1,
-        "hr": 0,
-        "bb": 0,
-        "k": 1,
-        "avg": 0.5,
-        "ops": 1.375,
-        "prob_1p5_tb": 0.75,
-        "fair_odds": "-300"
-      },
-      "ops_vs_pitcher_ops_ab3": 1.375,
-      "ops_vs_pitcher_ops_ab5": 1.375,
-      "ops_vs_pitcher_ops_ab10": null,
-      "wtb2_percent": 0.47,
-      "prob_1p5_tb_overall": 0.424,
-      "fair_odds_overall": "+136",
-      "season_pa": 655,
-      "season_ab": 600,
-      "season_hits": 155,
-      "season_doubles": 31,
-      "season_hr": 36,
-      "season_avg": 0.258,
-      "season_ops": 0.806,
-      "ops_site": {
-        "pa": 328,
-        "ab": 299,
-        "hits": 77,
-        "doubles": 18,
-        "hr": 21,
-        "avg": 0.258,
-        "ops": 0.845,
-        "prob_1p5_tb": 0.449,
-        "fair_odds": "+123"
-      },
-      "ops_vs_pitcher_hand": {
-        "pa": 455,
-        "ab": 421,
-        "hits": 116,
-        "doubles": 23,
-        "hr": 32,
-        "avg": 0.276,
-        "ops": 0.886,
-        "prob_1p5_tb": 0.47,
-        "fair_odds": "+113"
-      },
-      "ops_last_7_days": {
-        "pa": 0,
-        "ab": null,
-        "hits": null,
-        "doubles": null,
-        "hr": null,
-        "avg": null,
-        "ops": null,
-        "prob_1p5_tb": null,
-        "fair_odds": null
-      },
-      "site": "Away",
-      "score": 84,
-      "score_wtb2": 84,
-      "prob_1p5_tb_projected": 0.529,
-      "fair_odds_projected": "-112",
-      "score_weight_breakdown": {
-        "baseline": 13.6,
-        "h2h": 20,
-        "vs_hand": 54.5,
-        "home_away": 6.8,
-        "last7": 0,
-        "pitcher_vs_hand": 5
-      },
-      "gamePk": 813057,
-      "gameDate": "2025-10-05",
-      "opponentTeamName": "Detroit Tigers",
-      "probablePitcherName": "Luis Castillo",
-      "lineup_confirmed": false
+      "lineup_confirmed": true
     },
     {
       "id": 543807,
@@ -725,7 +725,7 @@
       "id": 672761,
       "name": "Wenceel Pérez",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/672761/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 622491,
         "name": "Luis Castillo",
@@ -1437,125 +1437,6 @@
       "lineup_confirmed": true
     },
     {
-      "id": 678009,
-      "name": "Parker Meadows",
-      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/678009/headshot/67/current",
-      "lineup_announced": false,
-      "probable_pitcher_splits": {
-        "id": 622491,
-        "name": "Luis Castillo",
-        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/622491/headshot/67/current",
-        "hitsPer9Inn": 8.37,
-        "hitsPer9Inn_site": 6.28,
-        "walksPer9Inn": 2.29,
-        "expected_woba": 0.322,
-        "hand": "R",
-        "batterSideForGame": "LHB",
-        "prob_1p5_tb_vs_lhb": 0.472,
-        "prob_1p5_tb_vs_rhb": 0.353,
-        "fair_odds_vs_lhb": "+112",
-        "fair_odds_vs_rhb": "+183",
-        "vs_lhb": {
-          "pa": 376,
-          "ab": 335,
-          "hits": 93,
-          "doubles": 23,
-          "hr": 12,
-          "avg": 0.278,
-          "ops": 0.814
-        },
-        "vs_rhb": {
-          "pa": 369,
-          "ab": 354,
-          "hits": 75,
-          "doubles": 11,
-          "hr": 11,
-          "avg": 0.212,
-          "ops": 0.586
-        }
-      },
-      "projectedBattingOrder": 1,
-      "confirmed": false,
-      "projected_pa": 4.73,
-      "ops_vs_pitcher": {
-        "pa": 5,
-        "ab": 5,
-        "hits": 2,
-        "doubles": 0,
-        "hr": 0,
-        "bb": 0,
-        "k": 2,
-        "avg": 0.4,
-        "ops": 0.8,
-        "prob_1p5_tb": 0.663,
-        "fair_odds": "-197"
-      },
-      "ops_vs_pitcher_ops_ab3": 0.8,
-      "ops_vs_pitcher_ops_ab5": 0.8,
-      "ops_vs_pitcher_ops_ab10": null,
-      "wtb2_percent": 0.328,
-      "prob_1p5_tb_overall": 0.367,
-      "fair_odds_overall": "+172",
-      "season_pa": 213,
-      "season_ab": 191,
-      "season_hits": 41,
-      "season_doubles": 6,
-      "season_hr": 4,
-      "season_avg": 0.215,
-      "season_ops": 0.621,
-      "ops_site": {
-        "pa": 118,
-        "ab": 105,
-        "hits": 23,
-        "doubles": 4,
-        "hr": 3,
-        "avg": 0.219,
-        "ops": 0.659,
-        "prob_1p5_tb": 0.377,
-        "fair_odds": "+165"
-      },
-      "ops_vs_pitcher_hand": {
-        "pa": 167,
-        "ab": 150,
-        "hits": 33,
-        "doubles": 5,
-        "hr": 4,
-        "avg": 0.22,
-        "ops": 0.653,
-        "prob_1p5_tb": 0.37,
-        "fair_odds": "+171"
-      },
-      "ops_last_7_days": {
-        "pa": 5,
-        "ab": 4,
-        "hits": 2,
-        "doubles": 0,
-        "hr": 0,
-        "avg": 0.5,
-        "ops": 1.1,
-        "prob_1p5_tb": 0.663,
-        "fair_odds": "-197"
-      },
-      "site": "Away",
-      "score": 67,
-      "score_wtb2": 67,
-      "prob_1p5_tb_projected": 0.42,
-      "fair_odds_projected": "+138",
-      "score_weight_breakdown": {
-        "baseline": 59.6,
-        "h2h": 12,
-        "vs_hand": 14.9,
-        "home_away": 7.5,
-        "last7": 1,
-        "pitcher_vs_hand": 5
-      },
-      "gamePk": 813057,
-      "gameDate": "2025-10-05",
-      "opponentTeamName": "Detroit Tigers",
-      "probablePitcherName": "Luis Castillo",
-      "lineup_confirmed": false
-    },
-    {
       "id": 700250,
       "name": "Ben Rice",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/700250/headshot/67/current",
@@ -2039,7 +1920,7 @@
       "id": 693307,
       "name": "Dillon Dingler",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/693307/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 622491,
         "name": "Luis Castillo",
@@ -2074,7 +1955,7 @@
         }
       },
       "projectedBattingOrder": 6,
-      "confirmed": false,
+      "confirmed": true,
       "projected_pa": 4.18,
       "ops_vs_pitcher": {
         "pa": 5,
@@ -2152,7 +2033,7 @@
       "gameDate": "2025-10-05",
       "opponentTeamName": "Detroit Tigers",
       "probablePitcherName": "Luis Castillo",
-      "lineup_confirmed": false
+      "lineup_confirmed": true
     },
     {
       "id": 665862,
@@ -2278,7 +2159,7 @@
       "id": 663330,
       "name": "Jahmai Jones",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/663330/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 622491,
         "name": "Luis Castillo",
@@ -2397,7 +2278,7 @@
       "id": 690993,
       "name": "Colt Keith",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/690993/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 622491,
         "name": "Luis Castillo",
@@ -2432,7 +2313,7 @@
         }
       },
       "projectedBattingOrder": 5,
-      "confirmed": false,
+      "confirmed": true,
       "projected_pa": 4.29,
       "ops_vs_pitcher": {
         "pa": 9,
@@ -2510,7 +2391,7 @@
       "gameDate": "2025-10-05",
       "opponentTeamName": "Detroit Tigers",
       "probablePitcherName": "Luis Castillo",
-      "lineup_confirmed": false
+      "lineup_confirmed": true
     },
     {
       "id": 553993,
@@ -2874,7 +2755,7 @@
       "id": 679529,
       "name": "Spencer Torkelson",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/679529/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 622491,
         "name": "Luis Castillo",
@@ -2909,7 +2790,7 @@
         }
       },
       "projectedBattingOrder": 4,
-      "confirmed": false,
+      "confirmed": true,
       "projected_pa": 4.4,
       "ops_vs_pitcher": {
         "pa": 7,
@@ -2987,7 +2868,7 @@
       "gameDate": "2025-10-05",
       "opponentTeamName": "Detroit Tigers",
       "probablePitcherName": "Luis Castillo",
-      "lineup_confirmed": false
+      "lineup_confirmed": true
     },
     {
       "id": 664770,
@@ -3353,7 +3234,7 @@
       "id": 650402,
       "name": "Gleyber Torres",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/650402/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 622491,
         "name": "Luis Castillo",
@@ -3388,7 +3269,7 @@
         }
       },
       "projectedBattingOrder": 1,
-      "confirmed": false,
+      "confirmed": true,
       "projected_pa": 4.73,
       "ops_vs_pitcher": {
         "pa": 17,
@@ -3466,7 +3347,7 @@
       "gameDate": "2025-10-05",
       "opponentTeamName": "Detroit Tigers",
       "probablePitcherName": "Luis Castillo",
-      "lineup_confirmed": false
+      "lineup_confirmed": true
     },
     {
       "id": 676914,
@@ -3712,7 +3593,7 @@
       "id": 628451,
       "name": "Andy Ibáñez",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/628451/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 622491,
         "name": "Luis Castillo",
@@ -3831,7 +3712,7 @@
       "id": 669234,
       "name": "Justyn-Henry Malloy",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/669234/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 622491,
         "name": "Luis Castillo",
