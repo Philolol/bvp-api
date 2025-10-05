@@ -1,7 +1,7 @@
 {
   "date": "2025-10-05",
   "gamesAnalyzed": 2,
-  "hitterCount": 33,
+  "hitterCount": 32,
   "hitters": [
     {
       "id": 592450,
@@ -120,8 +120,9 @@
       "gameDate": "2025-10-05",
       "opponentTeamName": "New York Yankees",
       "probablePitcherName": "Trey Yesavage",
-      "game_in_progress": true,
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 2,
+      "game_total_bases_met": true
     },
     {
       "id": 682985,
@@ -478,8 +479,9 @@
       "gameDate": "2025-10-05",
       "opponentTeamName": "Toronto Blue Jays",
       "probablePitcherName": "Max Fried",
-      "game_in_progress": true,
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 6,
+      "game_total_bases_met": true
     },
     {
       "id": 676391,
@@ -598,8 +600,9 @@
       "gameDate": "2025-10-05",
       "opponentTeamName": "Toronto Blue Jays",
       "probablePitcherName": "Max Fried",
-      "game_in_progress": true,
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 6,
+      "game_total_bases_met": true
     },
     {
       "id": 519317,
@@ -718,8 +721,9 @@
       "gameDate": "2025-10-05",
       "opponentTeamName": "New York Yankees",
       "probablePitcherName": "Trey Yesavage",
-      "game_in_progress": true,
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 3,
+      "game_total_bases_met": true
     },
     {
       "id": 672761,
@@ -1433,8 +1437,9 @@
       "gameDate": "2025-10-05",
       "opponentTeamName": "Toronto Blue Jays",
       "probablePitcherName": "Max Fried",
-      "game_in_progress": true,
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 6,
+      "game_total_bases_met": true
     },
     {
       "id": 700250,
@@ -1553,8 +1558,9 @@
       "gameDate": "2025-10-05",
       "opponentTeamName": "New York Yankees",
       "probablePitcherName": "Trey Yesavage",
-      "game_in_progress": true,
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 3,
+      "game_total_bases_met": true
     },
     {
       "id": 663757,
@@ -1673,128 +1679,9 @@
       "gameDate": "2025-10-05",
       "opponentTeamName": "New York Yankees",
       "probablePitcherName": "Trey Yesavage",
-      "game_in_progress": true,
-      "lineup_confirmed": true
-    },
-    {
-      "id": 502671,
-      "name": "Paul Goldschmidt",
-      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/502671/headshot/67/current",
-      "lineup_announced": true,
-      "probable_pitcher_splits": {
-        "id": 702056,
-        "name": "Trey Yesavage",
-        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/702056/headshot/67/current",
-        "hitsPer9Inn": 8.36,
-        "hitsPer9Inn_site": 9,
-        "walksPer9Inn": 4.5,
-        "expected_woba": 0.325,
-        "hand": "R",
-        "batterSideForGame": "RHB",
-        "prob_1p5_tb_vs_lhb": 0.201,
-        "prob_1p5_tb_vs_rhb": 0.451,
-        "fair_odds_vs_lhb": "+398",
-        "fair_odds_vs_rhb": "+121",
-        "vs_lhb": {
-          "pa": 35,
-          "ab": 31,
-          "hits": 5,
-          "doubles": 1,
-          "hr": 0,
-          "avg": 0.161,
-          "ops": 0.451
-        },
-        "vs_rhb": {
-          "pa": 27,
-          "ab": 24,
-          "hits": 8,
-          "doubles": 1,
-          "hr": 0,
-          "avg": 0.333,
-          "ops": 0.782
-        }
-      },
-      "projectedBattingOrder": 4,
-      "confirmed": false,
-      "projected_pa": 4.4,
-      "ops_vs_pitcher": {
-        "pa": 0,
-        "ab": null,
-        "hits": null,
-        "doubles": null,
-        "hr": null,
-        "bb": null,
-        "k": null,
-        "avg": null,
-        "ops": null,
-        "prob_1p5_tb": null,
-        "fair_odds": null
-      },
-      "ops_vs_pitcher_ops_ab3": null,
-      "ops_vs_pitcher_ops_ab5": null,
-      "ops_vs_pitcher_ops_ab10": null,
-      "wtb2_percent": 0.444,
-      "prob_1p5_tb_overall": 0.396,
-      "fair_odds_overall": "+153",
-      "season_pa": 534,
-      "season_ab": 489,
-      "season_hits": 134,
-      "season_doubles": 31,
-      "season_hr": 10,
-      "season_avg": 0.274,
-      "season_ops": 0.731,
-      "ops_site": {
-        "pa": 280,
-        "ab": 258,
-        "hits": 83,
-        "doubles": 19,
-        "hr": 6,
-        "avg": 0.322,
-        "ops": 0.842,
-        "prob_1p5_tb": 0.466,
-        "fair_odds": "+114"
-      },
-      "ops_vs_pitcher_hand": {
-        "pa": 366,
-        "ab": 340,
-        "hits": 84,
-        "doubles": 17,
-        "hr": 3,
-        "avg": 0.247,
-        "ops": 0.618,
-        "prob_1p5_tb": 0.328,
-        "fair_odds": "+205"
-      },
-      "ops_last_7_days": {
-        "pa": 0,
-        "ab": 0,
-        "hits": 0,
-        "doubles": 0,
-        "hr": 0,
-        "avg": 0,
-        "ops": 0,
-        "prob_1p5_tb": null,
-        "fair_odds": null
-      },
-      "site": "Away",
-      "score": 62,
-      "score_wtb2": 62,
-      "prob_1p5_tb_projected": 0.361,
-      "fair_odds_projected": "+177",
-      "score_weight_breakdown": {
-        "baseline": 17.3,
-        "h2h": 0,
-        "vs_hand": 69.1,
-        "home_away": 8.6,
-        "last7": 0,
-        "pitcher_vs_hand": 5
-      },
-      "gamePk": 813062,
-      "gameDate": "2025-10-05",
-      "opponentTeamName": "New York Yankees",
-      "probablePitcherName": "Trey Yesavage",
-      "game_in_progress": true,
-      "lineup_confirmed": false
+      "lineup_confirmed": true,
+      "game_total_bases": 1,
+      "game_total_bases_met": false
     },
     {
       "id": 641355,
@@ -1913,8 +1800,9 @@
       "gameDate": "2025-10-05",
       "opponentTeamName": "New York Yankees",
       "probablePitcherName": "Trey Yesavage",
-      "game_in_progress": true,
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 4,
+      "game_total_bases_met": true
     },
     {
       "id": 693307,
@@ -2152,8 +2040,9 @@
       "gameDate": "2025-10-05",
       "opponentTeamName": "New York Yankees",
       "probablePitcherName": "Trey Yesavage",
-      "game_in_progress": true,
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 0,
+      "game_total_bases_met": false
     },
     {
       "id": 663330,
@@ -2629,7 +2518,6 @@
       "gameDate": "2025-10-05",
       "opponentTeamName": "New York Yankees",
       "probablePitcherName": "Trey Yesavage",
-      "game_in_progress": true,
       "lineup_confirmed": false
     },
     {
@@ -2908,9 +2796,9 @@
           "ops": 0.598
         }
       },
-      "projectedBattingOrder": 4,
-      "confirmed": false,
-      "projected_pa": 4.22,
+      "projectedBattingOrder": 2,
+      "confirmed": true,
+      "projected_pa": 4.43,
       "ops_vs_pitcher": {
         "pa": 6,
         "ab": 5,
@@ -2987,8 +2875,9 @@
       "gameDate": "2025-10-05",
       "opponentTeamName": "Toronto Blue Jays",
       "probablePitcherName": "Max Fried",
-      "game_in_progress": true,
-      "lineup_confirmed": false
+      "lineup_confirmed": true,
+      "game_total_bases": 0,
+      "game_total_bases_met": false
     },
     {
       "id": 672386,
@@ -3107,8 +2996,9 @@
       "gameDate": "2025-10-05",
       "opponentTeamName": "Toronto Blue Jays",
       "probablePitcherName": "Max Fried",
-      "game_in_progress": true,
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 1,
+      "game_total_bases_met": false
     },
     {
       "id": 662139,
@@ -3227,8 +3117,9 @@
       "gameDate": "2025-10-05",
       "opponentTeamName": "Toronto Blue Jays",
       "probablePitcherName": "Max Fried",
-      "game_in_progress": true,
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 12,
+      "game_total_bases_met": true
     },
     {
       "id": 650402,
@@ -3466,8 +3357,9 @@
       "gameDate": "2025-10-05",
       "opponentTeamName": "Toronto Blue Jays",
       "probablePitcherName": "Max Fried",
-      "game_in_progress": true,
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 1,
+      "game_total_bases_met": false
     },
     {
       "id": 623993,
@@ -3586,7 +3478,6 @@
       "gameDate": "2025-10-05",
       "opponentTeamName": "Toronto Blue Jays",
       "probablePitcherName": "Max Fried",
-      "game_in_progress": true,
       "lineup_confirmed": false
     },
     {
