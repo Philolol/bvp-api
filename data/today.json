@@ -1,7 +1,7 @@
 {
   "date": "2025-10-06",
   "gamesAnalyzed": 2,
-  "hitterCount": 28,
+  "hitterCount": 29,
   "hitters": [
     {
       "id": 694192,
@@ -126,7 +126,7 @@
       "id": 663538,
       "name": "Nico Hoerner",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/663538/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 676879,
         "name": "Aaron Ashby",
@@ -161,7 +161,7 @@
         }
       },
       "projectedBattingOrder": 2,
-      "confirmed": false,
+      "confirmed": true,
       "projected_pa": 4.62,
       "ops_vs_pitcher": {
         "pa": 5,
@@ -239,7 +239,7 @@
       "gameDate": "2025-10-06",
       "opponentTeamName": "Chicago Cubs",
       "probablePitcherName": "Aaron Ashby",
-      "lineup_confirmed": false
+      "lineup_confirmed": true
     },
     {
       "id": 606192,
@@ -358,6 +358,7 @@
       "gameDate": "2025-10-06",
       "opponentTeamName": "Los Angeles Dodgers",
       "probablePitcherName": "Jesús Luzardo",
+      "game_in_progress": true,
       "lineup_confirmed": true
     },
     {
@@ -477,6 +478,7 @@
       "gameDate": "2025-10-06",
       "opponentTeamName": "Los Angeles Dodgers",
       "probablePitcherName": "Jesús Luzardo",
+      "game_in_progress": true,
       "lineup_confirmed": true
     },
     {
@@ -596,6 +598,7 @@
       "gameDate": "2025-10-06",
       "opponentTeamName": "Los Angeles Dodgers",
       "probablePitcherName": "Jesús Luzardo",
+      "game_in_progress": true,
       "lineup_confirmed": true
     },
     {
@@ -715,6 +718,7 @@
       "gameDate": "2025-10-06",
       "opponentTeamName": "Philadelphia Phillies",
       "probablePitcherName": "Blake Snell",
+      "game_in_progress": true,
       "lineup_confirmed": true
     },
     {
@@ -840,7 +844,7 @@
       "id": 673548,
       "name": "Seiya Suzuki",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/673548/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 676879,
         "name": "Aaron Ashby",
@@ -874,9 +878,9 @@
           "ops": 0.66
         }
       },
-      "projectedBattingOrder": 5,
-      "confirmed": false,
-      "projected_pa": 4.29,
+      "projectedBattingOrder": 4,
+      "confirmed": true,
+      "projected_pa": 4.4,
       "ops_vs_pitcher": {
         "pa": 7,
         "ab": 6,
@@ -953,7 +957,7 @@
       "gameDate": "2025-10-06",
       "opponentTeamName": "Chicago Cubs",
       "probablePitcherName": "Aaron Ashby",
-      "lineup_confirmed": false
+      "lineup_confirmed": true
     },
     {
       "id": 605141,
@@ -1072,6 +1076,7 @@
       "gameDate": "2025-10-06",
       "opponentTeamName": "Los Angeles Dodgers",
       "probablePitcherName": "Jesús Luzardo",
+      "game_in_progress": true,
       "lineup_confirmed": true
     },
     {
@@ -1191,126 +1196,8 @@
       "gameDate": "2025-10-06",
       "opponentTeamName": "Philadelphia Phillies",
       "probablePitcherName": "Blake Snell",
+      "game_in_progress": true,
       "lineup_confirmed": true
-    },
-    {
-      "id": 664023,
-      "name": "Ian Happ",
-      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/664023/headshot/67/current",
-      "lineup_announced": false,
-      "probable_pitcher_splits": {
-        "id": 676879,
-        "name": "Aaron Ashby",
-        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/676879/headshot/67/current",
-        "hitsPer9Inn": 7.29,
-        "hitsPer9Inn_site": 6.08,
-        "walksPer9Inn": 3.24,
-        "expected_woba": 0.278,
-        "hand": "L",
-        "batterSideForGame": "RHB",
-        "prob_1p5_tb_vs_lhb": 0.205,
-        "prob_1p5_tb_vs_rhb": 0.371,
-        "fair_odds_vs_lhb": "+389",
-        "fair_odds_vs_rhb": "+170",
-        "vs_lhb": {
-          "pa": 99,
-          "ab": 83,
-          "hits": 16,
-          "doubles": 1,
-          "hr": 1,
-          "avg": 0.193,
-          "ops": 0.54
-        },
-        "vs_rhb": {
-          "pa": 171,
-          "ab": 155,
-          "hits": 38,
-          "doubles": 6,
-          "hr": 2,
-          "avg": 0.245,
-          "ops": 0.66
-        }
-      },
-      "projectedBattingOrder": 3,
-      "confirmed": false,
-      "projected_pa": 4.5,
-      "ops_vs_pitcher": {
-        "pa": 10,
-        "ab": 10,
-        "hits": 3,
-        "doubles": 0,
-        "hr": 1,
-        "bb": 0,
-        "k": 3,
-        "avg": 0.3,
-        "ops": 0.9,
-        "prob_1p5_tb": 0.539,
-        "fair_odds": "-117"
-      },
-      "ops_vs_pitcher_ops_ab3": 0.9,
-      "ops_vs_pitcher_ops_ab5": 0.9,
-      "ops_vs_pitcher_ops_ab10": 0.9,
-      "wtb2_percent": 0.4,
-      "prob_1p5_tb_overall": 0.4,
-      "fair_odds_overall": "+150",
-      "season_pa": 663,
-      "season_ab": 569,
-      "season_hits": 138,
-      "season_doubles": 32,
-      "season_hr": 23,
-      "season_avg": 0.243,
-      "season_ops": 0.762,
-      "ops_site": {
-        "pa": 341,
-        "ab": 298,
-        "hits": 71,
-        "doubles": 15,
-        "hr": 11,
-        "avg": 0.238,
-        "ops": 0.727,
-        "prob_1p5_tb": 0.387,
-        "fair_odds": "+158"
-      },
-      "ops_vs_pitcher_hand": {
-        "pa": 182,
-        "ab": 160,
-        "hits": 37,
-        "doubles": 7,
-        "hr": 5,
-        "avg": 0.231,
-        "ops": 0.688,
-        "prob_1p5_tb": 0.361,
-        "fair_odds": "+177"
-      },
-      "ops_last_7_days": {
-        "pa": 0,
-        "ab": null,
-        "hits": null,
-        "doubles": null,
-        "hr": null,
-        "avg": null,
-        "ops": null,
-        "prob_1p5_tb": null,
-        "fair_odds": null
-      },
-      "site": "Away",
-      "score": 66,
-      "score_wtb2": 66,
-      "prob_1p5_tb_projected": 0.408,
-      "fair_odds_projected": "+145",
-      "score_weight_breakdown": {
-        "baseline": 54.5,
-        "h2h": 20,
-        "vs_hand": 13.6,
-        "home_away": 6.8,
-        "last7": 0,
-        "pitcher_vs_hand": 5
-      },
-      "gamePk": 813048,
-      "gameDate": "2025-10-06",
-      "opponentTeamName": "Chicago Cubs",
-      "probablePitcherName": "Aaron Ashby",
-      "lineup_confirmed": false
     },
     {
       "id": 592663,
@@ -1429,6 +1316,126 @@
       "gameDate": "2025-10-06",
       "opponentTeamName": "Philadelphia Phillies",
       "probablePitcherName": "Blake Snell",
+      "game_in_progress": true,
+      "lineup_confirmed": true
+    },
+    {
+      "id": 457759,
+      "name": "Justin Turner",
+      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/457759/headshot/67/current",
+      "lineup_announced": true,
+      "probable_pitcher_splits": {
+        "id": 676879,
+        "name": "Aaron Ashby",
+        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/676879/headshot/67/current",
+        "hitsPer9Inn": 7.29,
+        "hitsPer9Inn_site": 6.08,
+        "walksPer9Inn": 3.24,
+        "expected_woba": 0.278,
+        "hand": "L",
+        "batterSideForGame": "RHB",
+        "prob_1p5_tb_vs_lhb": 0.205,
+        "prob_1p5_tb_vs_rhb": 0.371,
+        "fair_odds_vs_lhb": "+389",
+        "fair_odds_vs_rhb": "+170",
+        "vs_lhb": {
+          "pa": 99,
+          "ab": 83,
+          "hits": 16,
+          "doubles": 1,
+          "hr": 1,
+          "avg": 0.193,
+          "ops": 0.54
+        },
+        "vs_rhb": {
+          "pa": 171,
+          "ab": 155,
+          "hits": 38,
+          "doubles": 6,
+          "hr": 2,
+          "avg": 0.245,
+          "ops": 0.66
+        }
+      },
+      "projectedBattingOrder": 1,
+      "confirmed": true,
+      "projected_pa": 4.73,
+      "ops_vs_pitcher": {
+        "pa": 3,
+        "ab": 3,
+        "hits": 0,
+        "doubles": 0,
+        "hr": 0,
+        "bb": 0,
+        "k": 0,
+        "avg": 0,
+        "ops": 0,
+        "prob_1p5_tb": 0,
+        "fair_odds": "+999900"
+      },
+      "ops_vs_pitcher_ops_ab3": 0,
+      "ops_vs_pitcher_ops_ab5": null,
+      "ops_vs_pitcher_ops_ab10": null,
+      "wtb2_percent": 0.321,
+      "prob_1p5_tb_overall": 0.361,
+      "fair_odds_overall": "+177",
+      "season_pa": 191,
+      "season_ab": 169,
+      "season_hits": 37,
+      "season_doubles": 7,
+      "season_hr": 3,
+      "season_avg": 0.219,
+      "season_ops": 0.602,
+      "ops_site": {
+        "pa": 103,
+        "ab": 92,
+        "hits": 22,
+        "doubles": 4,
+        "hr": 2,
+        "avg": 0.239,
+        "ops": 0.649,
+        "prob_1p5_tb": 0.402,
+        "fair_odds": "+149"
+      },
+      "ops_vs_pitcher_hand": {
+        "pa": 109,
+        "ab": 98,
+        "hits": 27,
+        "doubles": 6,
+        "hr": 3,
+        "avg": 0.276,
+        "ops": 0.759,
+        "prob_1p5_tb": 0.495,
+        "fair_odds": "+102"
+      },
+      "ops_last_7_days": {
+        "pa": 0,
+        "ab": null,
+        "hits": null,
+        "doubles": null,
+        "hr": null,
+        "avg": null,
+        "ops": null,
+        "prob_1p5_tb": null,
+        "fair_odds": null
+      },
+      "site": "Away",
+      "score": 63,
+      "score_wtb2": 63,
+      "prob_1p5_tb_projected": 0.412,
+      "fair_odds_projected": "+143",
+      "score_weight_breakdown": {
+        "baseline": 16,
+        "h2h": 7,
+        "vs_hand": 64,
+        "home_away": 8,
+        "last7": 0,
+        "pitcher_vs_hand": 5
+      },
+      "gamePk": 813048,
+      "gameDate": "2025-10-06",
+      "opponentTeamName": "Chicago Cubs",
+      "probablePitcherName": "Aaron Ashby",
       "lineup_confirmed": true
     },
     {
@@ -1551,10 +1558,129 @@
       "lineup_confirmed": false
     },
     {
+      "id": 663656,
+      "name": "Kyle Tucker",
+      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/663656/headshot/67/current",
+      "lineup_announced": true,
+      "probable_pitcher_splits": {
+        "id": 676879,
+        "name": "Aaron Ashby",
+        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/676879/headshot/67/current",
+        "hitsPer9Inn": 7.29,
+        "hitsPer9Inn_site": 6.08,
+        "walksPer9Inn": 3.24,
+        "expected_woba": 0.278,
+        "hand": "L",
+        "batterSideForGame": "LHB",
+        "prob_1p5_tb_vs_lhb": 0.205,
+        "prob_1p5_tb_vs_rhb": 0.371,
+        "fair_odds_vs_lhb": "+389",
+        "fair_odds_vs_rhb": "+170",
+        "vs_lhb": {
+          "pa": 99,
+          "ab": 83,
+          "hits": 16,
+          "doubles": 1,
+          "hr": 1,
+          "avg": 0.193,
+          "ops": 0.54
+        },
+        "vs_rhb": {
+          "pa": 171,
+          "ab": 155,
+          "hits": 38,
+          "doubles": 6,
+          "hr": 2,
+          "avg": 0.245,
+          "ops": 0.66
+        }
+      },
+      "projectedBattingOrder": 3,
+      "confirmed": true,
+      "projected_pa": 4.5,
+      "ops_vs_pitcher": {
+        "pa": 1,
+        "ab": 0,
+        "hits": 0,
+        "doubles": 0,
+        "hr": 0,
+        "bb": 1,
+        "k": 0,
+        "avg": 0,
+        "ops": 1,
+        "prob_1p5_tb": 0,
+        "fair_odds": "+999900"
+      },
+      "ops_vs_pitcher_ops_ab3": null,
+      "ops_vs_pitcher_ops_ab5": null,
+      "ops_vs_pitcher_ops_ab10": null,
+      "wtb2_percent": 0.421,
+      "prob_1p5_tb_overall": 0.421,
+      "fair_odds_overall": "+137",
+      "season_pa": 597,
+      "season_ab": 500,
+      "season_hits": 133,
+      "season_doubles": 25,
+      "season_hr": 22,
+      "season_avg": 0.266,
+      "season_ops": 0.841,
+      "ops_site": {
+        "pa": 316,
+        "ab": 267,
+        "hits": 78,
+        "doubles": 17,
+        "hr": 15,
+        "avg": 0.292,
+        "ops": 0.923,
+        "prob_1p5_tb": 0.476,
+        "fair_odds": "+110"
+      },
+      "ops_vs_pitcher_hand": {
+        "pa": 193,
+        "ab": 167,
+        "hits": 45,
+        "doubles": 6,
+        "hr": 8,
+        "avg": 0.269,
+        "ops": 0.826,
+        "prob_1p5_tb": 0.411,
+        "fair_odds": "+143"
+      },
+      "ops_last_7_days": {
+        "pa": 0,
+        "ab": null,
+        "hits": null,
+        "doubles": null,
+        "hr": null,
+        "avg": null,
+        "ops": null,
+        "prob_1p5_tb": null,
+        "fair_odds": null
+      },
+      "site": "Away",
+      "score": 62,
+      "score_wtb2": 62,
+      "prob_1p5_tb_projected": 0.385,
+      "fair_odds_projected": "+160",
+      "score_weight_breakdown": {
+        "baseline": 67.6,
+        "h2h": 2,
+        "vs_hand": 16.9,
+        "home_away": 8.5,
+        "last7": 0,
+        "pitcher_vs_hand": 5
+      },
+      "gamePk": 813048,
+      "gameDate": "2025-10-06",
+      "opponentTeamName": "Chicago Cubs",
+      "probablePitcherName": "Aaron Ashby",
+      "lineup_confirmed": true
+    },
+    {
       "id": 608348,
       "name": "Carson Kelly",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/608348/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 676879,
         "name": "Aaron Ashby",
@@ -1589,7 +1715,7 @@
         }
       },
       "projectedBattingOrder": 6,
-      "confirmed": false,
+      "confirmed": true,
       "projected_pa": 4.18,
       "ops_vs_pitcher": {
         "pa": 4,
@@ -1667,7 +1793,7 @@
       "gameDate": "2025-10-06",
       "opponentTeamName": "Chicago Cubs",
       "probablePitcherName": "Aaron Ashby",
-      "lineup_confirmed": false
+      "lineup_confirmed": true
     },
     {
       "id": 661388,
@@ -1789,6 +1915,125 @@
       "lineup_confirmed": false
     },
     {
+      "id": 664023,
+      "name": "Ian Happ",
+      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/664023/headshot/67/current",
+      "lineup_announced": true,
+      "probable_pitcher_splits": {
+        "id": 676879,
+        "name": "Aaron Ashby",
+        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/676879/headshot/67/current",
+        "hitsPer9Inn": 7.29,
+        "hitsPer9Inn_site": 6.08,
+        "walksPer9Inn": 3.24,
+        "expected_woba": 0.278,
+        "hand": "L",
+        "batterSideForGame": "RHB",
+        "prob_1p5_tb_vs_lhb": 0.205,
+        "prob_1p5_tb_vs_rhb": 0.371,
+        "fair_odds_vs_lhb": "+389",
+        "fair_odds_vs_rhb": "+170",
+        "vs_lhb": {
+          "pa": 99,
+          "ab": 83,
+          "hits": 16,
+          "doubles": 1,
+          "hr": 1,
+          "avg": 0.193,
+          "ops": 0.54
+        },
+        "vs_rhb": {
+          "pa": 171,
+          "ab": 155,
+          "hits": 38,
+          "doubles": 6,
+          "hr": 2,
+          "avg": 0.245,
+          "ops": 0.66
+        }
+      },
+      "projectedBattingOrder": 5,
+      "confirmed": true,
+      "projected_pa": 4.29,
+      "ops_vs_pitcher": {
+        "pa": 10,
+        "ab": 10,
+        "hits": 3,
+        "doubles": 0,
+        "hr": 1,
+        "bb": 0,
+        "k": 3,
+        "avg": 0.3,
+        "ops": 0.9,
+        "prob_1p5_tb": 0.486,
+        "fair_odds": "+106"
+      },
+      "ops_vs_pitcher_ops_ab3": 0.9,
+      "ops_vs_pitcher_ops_ab5": 0.9,
+      "ops_vs_pitcher_ops_ab10": 0.9,
+      "wtb2_percent": 0.4,
+      "prob_1p5_tb_overall": 0.358,
+      "fair_odds_overall": "+179",
+      "season_pa": 663,
+      "season_ab": 569,
+      "season_hits": 138,
+      "season_doubles": 32,
+      "season_hr": 23,
+      "season_avg": 0.243,
+      "season_ops": 0.762,
+      "ops_site": {
+        "pa": 341,
+        "ab": 298,
+        "hits": 71,
+        "doubles": 15,
+        "hr": 11,
+        "avg": 0.238,
+        "ops": 0.727,
+        "prob_1p5_tb": 0.345,
+        "fair_odds": "+190"
+      },
+      "ops_vs_pitcher_hand": {
+        "pa": 182,
+        "ab": 160,
+        "hits": 37,
+        "doubles": 7,
+        "hr": 5,
+        "avg": 0.231,
+        "ops": 0.688,
+        "prob_1p5_tb": 0.319,
+        "fair_odds": "+213"
+      },
+      "ops_last_7_days": {
+        "pa": 0,
+        "ab": null,
+        "hits": null,
+        "doubles": null,
+        "hr": null,
+        "avg": null,
+        "ops": null,
+        "prob_1p5_tb": null,
+        "fair_odds": null
+      },
+      "site": "Away",
+      "score": 61,
+      "score_wtb2": 61,
+      "prob_1p5_tb_projected": 0.367,
+      "fair_odds_projected": "+173",
+      "score_weight_breakdown": {
+        "baseline": 54.5,
+        "h2h": 20,
+        "vs_hand": 13.6,
+        "home_away": 6.8,
+        "last7": 0,
+        "pitcher_vs_hand": 5
+      },
+      "gamePk": 813048,
+      "gameDate": "2025-10-06",
+      "opponentTeamName": "Chicago Cubs",
+      "probablePitcherName": "Aaron Ashby",
+      "lineup_confirmed": true
+    },
+    {
       "id": 669242,
       "name": "Tommy Edman",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/669242/headshot/67/current",
@@ -1905,6 +2150,7 @@
       "gameDate": "2025-10-06",
       "opponentTeamName": "Los Angeles Dodgers",
       "probablePitcherName": "Jesús Luzardo",
+      "game_in_progress": true,
       "lineup_confirmed": true
     },
     {
@@ -2143,6 +2389,7 @@
       "gameDate": "2025-10-06",
       "opponentTeamName": "Philadelphia Phillies",
       "probablePitcherName": "Blake Snell",
+      "game_in_progress": true,
       "lineup_confirmed": true
     },
     {
@@ -2262,13 +2509,14 @@
       "gameDate": "2025-10-06",
       "opponentTeamName": "Philadelphia Phillies",
       "probablePitcherName": "Blake Snell",
+      "game_in_progress": true,
       "lineup_confirmed": true
     },
     {
       "id": 683737,
       "name": "Michael Busch",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/683737/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 676879,
         "name": "Aaron Ashby",
@@ -2374,125 +2622,6 @@
         "h2h": 7,
         "vs_hand": 64,
         "home_away": 8,
-        "last7": 0,
-        "pitcher_vs_hand": 5
-      },
-      "gamePk": 813048,
-      "gameDate": "2025-10-06",
-      "opponentTeamName": "Chicago Cubs",
-      "probablePitcherName": "Aaron Ashby",
-      "lineup_confirmed": false
-    },
-    {
-      "id": 663656,
-      "name": "Kyle Tucker",
-      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/663656/headshot/67/current",
-      "lineup_announced": false,
-      "probable_pitcher_splits": {
-        "id": 676879,
-        "name": "Aaron Ashby",
-        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/676879/headshot/67/current",
-        "hitsPer9Inn": 7.29,
-        "hitsPer9Inn_site": 6.08,
-        "walksPer9Inn": 3.24,
-        "expected_woba": 0.278,
-        "hand": "L",
-        "batterSideForGame": "LHB",
-        "prob_1p5_tb_vs_lhb": 0.205,
-        "prob_1p5_tb_vs_rhb": 0.371,
-        "fair_odds_vs_lhb": "+389",
-        "fair_odds_vs_rhb": "+170",
-        "vs_lhb": {
-          "pa": 99,
-          "ab": 83,
-          "hits": 16,
-          "doubles": 1,
-          "hr": 1,
-          "avg": 0.193,
-          "ops": 0.54
-        },
-        "vs_rhb": {
-          "pa": 171,
-          "ab": 155,
-          "hits": 38,
-          "doubles": 6,
-          "hr": 2,
-          "avg": 0.245,
-          "ops": 0.66
-        }
-      },
-      "projectedBattingOrder": 4,
-      "confirmed": false,
-      "projected_pa": 4.4,
-      "ops_vs_pitcher": {
-        "pa": 1,
-        "ab": 0,
-        "hits": 0,
-        "doubles": 0,
-        "hr": 0,
-        "bb": 1,
-        "k": 0,
-        "avg": 0,
-        "ops": 1,
-        "prob_1p5_tb": 0,
-        "fair_odds": "+999900"
-      },
-      "ops_vs_pitcher_ops_ab3": null,
-      "ops_vs_pitcher_ops_ab5": null,
-      "ops_vs_pitcher_ops_ab10": null,
-      "wtb2_percent": 0.421,
-      "prob_1p5_tb_overall": 0.377,
-      "fair_odds_overall": "+165",
-      "season_pa": 597,
-      "season_ab": 500,
-      "season_hits": 133,
-      "season_doubles": 25,
-      "season_hr": 22,
-      "season_avg": 0.266,
-      "season_ops": 0.841,
-      "ops_site": {
-        "pa": 316,
-        "ab": 267,
-        "hits": 78,
-        "doubles": 17,
-        "hr": 15,
-        "avg": 0.292,
-        "ops": 0.923,
-        "prob_1p5_tb": 0.429,
-        "fair_odds": "+133"
-      },
-      "ops_vs_pitcher_hand": {
-        "pa": 193,
-        "ab": 167,
-        "hits": 45,
-        "doubles": 6,
-        "hr": 8,
-        "avg": 0.269,
-        "ops": 0.826,
-        "prob_1p5_tb": 0.364,
-        "fair_odds": "+174"
-      },
-      "ops_last_7_days": {
-        "pa": 0,
-        "ab": null,
-        "hits": null,
-        "doubles": null,
-        "hr": null,
-        "avg": null,
-        "ops": null,
-        "prob_1p5_tb": null,
-        "fair_odds": null
-      },
-      "site": "Away",
-      "score": 57,
-      "score_wtb2": 57,
-      "prob_1p5_tb_projected": 0.345,
-      "fair_odds_projected": "+190",
-      "score_weight_breakdown": {
-        "baseline": 67.6,
-        "h2h": 2,
-        "vs_hand": 16.9,
-        "home_away": 8.5,
         "last7": 0,
         "pitcher_vs_hand": 5
       },
@@ -2976,6 +3105,7 @@
       "gameDate": "2025-10-06",
       "opponentTeamName": "Los Angeles Dodgers",
       "probablePitcherName": "Jesús Luzardo",
+      "game_in_progress": true,
       "lineup_confirmed": true
     },
     {
@@ -3095,6 +3225,7 @@
       "gameDate": "2025-10-06",
       "opponentTeamName": "Philadelphia Phillies",
       "probablePitcherName": "Blake Snell",
+      "game_in_progress": true,
       "lineup_confirmed": true
     },
     {
@@ -3333,6 +3464,7 @@
       "gameDate": "2025-10-06",
       "opponentTeamName": "Philadelphia Phillies",
       "probablePitcherName": "Blake Snell",
+      "game_in_progress": true,
       "lineup_confirmed": false
     }
   ]
