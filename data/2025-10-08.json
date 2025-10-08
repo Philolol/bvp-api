@@ -1,7 +1,7 @@
 {
   "date": "2025-10-08",
   "gamesAnalyzed": 4,
-  "hitterCount": 64,
+  "hitterCount": 61,
   "hitters": [
     {
       "id": 694192,
@@ -120,13 +120,14 @@
       "gameDate": "2025-10-08",
       "opponentTeamName": "Milwaukee Brewers",
       "probablePitcherName": "Jameson Taillon",
+      "game_in_progress": true,
       "lineup_confirmed": true
     },
     {
       "id": 660271,
       "name": "Shohei Ohtani",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/660271/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 605400,
         "name": "Aaron Nola",
@@ -161,7 +162,7 @@
         }
       },
       "projectedBattingOrder": 1,
-      "confirmed": false,
+      "confirmed": true,
       "projected_pa": 4.54,
       "ops_vs_pitcher": {
         "pa": 9,
@@ -239,7 +240,7 @@
       "gameDate": "2025-10-08",
       "opponentTeamName": "Los Angeles Dodgers",
       "probablePitcherName": "Aaron Nola",
-      "lineup_confirmed": false
+      "lineup_confirmed": true
     },
     {
       "id": 683737,
@@ -358,6 +359,7 @@
       "gameDate": "2025-10-08",
       "opponentTeamName": "Chicago Cubs",
       "probablePitcherName": "Quinn Priester",
+      "game_in_progress": true,
       "lineup_confirmed": true
     },
     {
@@ -1553,6 +1555,7 @@
       "gameDate": "2025-10-08",
       "opponentTeamName": "Milwaukee Brewers",
       "probablePitcherName": "Jameson Taillon",
+      "game_in_progress": true,
       "lineup_confirmed": true
     },
     {
@@ -1791,13 +1794,14 @@
       "gameDate": "2025-10-08",
       "opponentTeamName": "Milwaukee Brewers",
       "probablePitcherName": "Jameson Taillon",
+      "game_in_progress": true,
       "lineup_confirmed": false
     },
     {
       "id": 605141,
       "name": "Mookie Betts",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/605141/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 605400,
         "name": "Aaron Nola",
@@ -1832,7 +1836,7 @@
         }
       },
       "projectedBattingOrder": 2,
-      "confirmed": false,
+      "confirmed": true,
       "projected_pa": 4.43,
       "ops_vs_pitcher": {
         "pa": 23,
@@ -1910,7 +1914,7 @@
       "gameDate": "2025-10-08",
       "opponentTeamName": "Los Angeles Dodgers",
       "probablePitcherName": "Aaron Nola",
-      "lineup_confirmed": false
+      "lineup_confirmed": true
     },
     {
       "id": 553993,
@@ -2036,7 +2040,7 @@
       "id": 518692,
       "name": "Freddie Freeman",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/518692/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 605400,
         "name": "Aaron Nola",
@@ -2070,9 +2074,9 @@
           "ops": 0.715
         }
       },
-      "projectedBattingOrder": 3,
-      "confirmed": false,
-      "projected_pa": 4.32,
+      "projectedBattingOrder": 4,
+      "confirmed": true,
+      "projected_pa": 4.22,
       "ops_vs_pitcher": {
         "pa": 86,
         "ab": 76,
@@ -2149,7 +2153,7 @@
       "gameDate": "2025-10-08",
       "opponentTeamName": "Los Angeles Dodgers",
       "probablePitcherName": "Aaron Nola",
-      "lineup_confirmed": false
+      "lineup_confirmed": true
     },
     {
       "id": 700250,
@@ -2388,125 +2392,6 @@
       "opponentTeamName": "Toronto Blue Jays",
       "probablePitcherName": "Cam Schlittler",
       "lineup_confirmed": true
-    },
-    {
-      "id": 681624,
-      "name": "Andy Pages",
-      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/681624/headshot/67/current",
-      "lineup_announced": false,
-      "probable_pitcher_splits": {
-        "id": 605400,
-        "name": "Aaron Nola",
-        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/605400/headshot/67/current",
-        "hitsPer9Inn": 9.45,
-        "hitsPer9Inn_site": 10.23,
-        "walksPer9Inn": 2.67,
-        "expected_woba": 0.327,
-        "hand": "R",
-        "batterSideForGame": "RHB",
-        "prob_1p5_tb_vs_lhb": 0.485,
-        "prob_1p5_tb_vs_rhb": 0.448,
-        "fair_odds_vs_lhb": "+106",
-        "fair_odds_vs_rhb": "+123",
-        "vs_lhb": {
-          "pa": 250,
-          "ab": 226,
-          "hits": 61,
-          "doubles": 11,
-          "hr": 14,
-          "avg": 0.27,
-          "ops": 0.862
-        },
-        "vs_rhb": {
-          "pa": 154,
-          "ab": 145,
-          "hits": 38,
-          "doubles": 8,
-          "hr": 4,
-          "avg": 0.262,
-          "ops": 0.715
-        }
-      },
-      "projectedBattingOrder": 6,
-      "confirmed": false,
-      "projected_pa": 4.01,
-      "ops_vs_pitcher": {
-        "pa": 8,
-        "ab": 8,
-        "hits": 1,
-        "doubles": 1,
-        "hr": 0,
-        "bb": 0,
-        "k": 3,
-        "avg": 0.125,
-        "ops": 0.375,
-        "prob_1p5_tb": 0.414,
-        "fair_odds": "+142"
-      },
-      "ops_vs_pitcher_ops_ab3": 0.375,
-      "ops_vs_pitcher_ops_ab5": 0.375,
-      "ops_vs_pitcher_ops_ab10": null,
-      "wtb2_percent": 0.462,
-      "prob_1p5_tb_overall": 0.414,
-      "fair_odds_overall": "+142",
-      "season_pa": 624,
-      "season_ab": 581,
-      "season_hits": 158,
-      "season_doubles": 27,
-      "season_hr": 27,
-      "season_avg": 0.272,
-      "season_ops": 0.774,
-      "ops_site": {
-        "pa": 309,
-        "ab": 283,
-        "hits": 92,
-        "doubles": 19,
-        "hr": 19,
-        "avg": 0.325,
-        "ops": 0.963,
-        "prob_1p5_tb": 0.515,
-        "fair_odds": "-106"
-      },
-      "ops_vs_pitcher_hand": {
-        "pa": 470,
-        "ab": 434,
-        "hits": 112,
-        "doubles": 19,
-        "hr": 24,
-        "avg": 0.258,
-        "ops": 0.774,
-        "prob_1p5_tb": 0.404,
-        "fair_odds": "+148"
-      },
-      "ops_last_7_days": {
-        "pa": 0,
-        "ab": null,
-        "hits": null,
-        "doubles": null,
-        "hr": null,
-        "avg": null,
-        "ops": null,
-        "prob_1p5_tb": null,
-        "fair_odds": null
-      },
-      "site": "Home",
-      "score": 70,
-      "score_wtb2": 70,
-      "prob_1p5_tb_projected": 0.425,
-      "fair_odds_projected": "+135",
-      "score_weight_breakdown": {
-        "baseline": 54.5,
-        "h2h": 20,
-        "vs_hand": 13.6,
-        "home_away": 6.8,
-        "last7": 0,
-        "pitcher_vs_hand": 5
-      },
-      "gamePk": 813041,
-      "gameDate": "2025-10-08",
-      "opponentTeamName": "Los Angeles Dodgers",
-      "probablePitcherName": "Aaron Nola",
-      "lineup_confirmed": false
     },
     {
       "id": 677594,
@@ -2865,6 +2750,7 @@
       "gameDate": "2025-10-08",
       "opponentTeamName": "Milwaukee Brewers",
       "probablePitcherName": "Jameson Taillon",
+      "game_in_progress": true,
       "lineup_confirmed": true
     },
     {
@@ -3224,6 +3110,7 @@
       "gameDate": "2025-10-08",
       "opponentTeamName": "Chicago Cubs",
       "probablePitcherName": "Quinn Priester",
+      "game_in_progress": true,
       "lineup_confirmed": true
     },
     {
@@ -3584,6 +3471,125 @@
       "lineup_confirmed": false
     },
     {
+      "id": 571771,
+      "name": "Enrique Hernández",
+      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/571771/headshot/67/current",
+      "lineup_announced": true,
+      "probable_pitcher_splits": {
+        "id": 605400,
+        "name": "Aaron Nola",
+        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/605400/headshot/67/current",
+        "hitsPer9Inn": 9.45,
+        "hitsPer9Inn_site": 10.23,
+        "walksPer9Inn": 2.67,
+        "expected_woba": 0.327,
+        "hand": "R",
+        "batterSideForGame": "RHB",
+        "prob_1p5_tb_vs_lhb": 0.485,
+        "prob_1p5_tb_vs_rhb": 0.448,
+        "fair_odds_vs_lhb": "+106",
+        "fair_odds_vs_rhb": "+123",
+        "vs_lhb": {
+          "pa": 250,
+          "ab": 226,
+          "hits": 61,
+          "doubles": 11,
+          "hr": 14,
+          "avg": 0.27,
+          "ops": 0.862
+        },
+        "vs_rhb": {
+          "pa": 154,
+          "ab": 145,
+          "hits": 38,
+          "doubles": 8,
+          "hr": 4,
+          "avg": 0.262,
+          "ops": 0.715
+        }
+      },
+      "projectedBattingOrder": 6,
+      "confirmed": true,
+      "projected_pa": 4.01,
+      "ops_vs_pitcher": {
+        "pa": 11,
+        "ab": 11,
+        "hits": 4,
+        "doubles": 0,
+        "hr": 3,
+        "bb": 0,
+        "k": 0,
+        "avg": 0.364,
+        "ops": 1.546,
+        "prob_1p5_tb": 0.742,
+        "fair_odds": "-288"
+      },
+      "ops_vs_pitcher_ops_ab3": 1.546,
+      "ops_vs_pitcher_ops_ab5": 1.546,
+      "ops_vs_pitcher_ops_ab10": 1.546,
+      "wtb2_percent": 0.347,
+      "prob_1p5_tb_overall": 0.309,
+      "fair_odds_overall": "+223",
+      "season_pa": 256,
+      "season_ab": 232,
+      "season_hits": 47,
+      "season_doubles": 8,
+      "season_hr": 10,
+      "season_avg": 0.203,
+      "season_ops": 0.621,
+      "ops_site": {
+        "pa": 124,
+        "ab": 109,
+        "hits": 23,
+        "doubles": 2,
+        "hr": 4,
+        "avg": 0.211,
+        "ops": 0.615,
+        "prob_1p5_tb": 0.264,
+        "fair_odds": "+279"
+      },
+      "ops_vs_pitcher_hand": {
+        "pa": 148,
+        "ab": 138,
+        "hits": 28,
+        "doubles": 6,
+        "hr": 4,
+        "avg": 0.203,
+        "ops": 0.578,
+        "prob_1p5_tb": 0.308,
+        "fair_odds": "+224"
+      },
+      "ops_last_7_days": {
+        "pa": 0,
+        "ab": null,
+        "hits": null,
+        "doubles": null,
+        "hr": null,
+        "avg": null,
+        "ops": null,
+        "prob_1p5_tb": null,
+        "fair_odds": null
+      },
+      "site": "Home",
+      "score": 67,
+      "score_wtb2": 67,
+      "prob_1p5_tb_projected": 0.408,
+      "fair_odds_projected": "+145",
+      "score_weight_breakdown": {
+        "baseline": 53.8,
+        "h2h": 21,
+        "vs_hand": 13.5,
+        "home_away": 6.7,
+        "last7": 0,
+        "pitcher_vs_hand": 5
+      },
+      "gamePk": 813041,
+      "gameDate": "2025-10-08",
+      "opponentTeamName": "Los Angeles Dodgers",
+      "probablePitcherName": "Aaron Nola",
+      "lineup_confirmed": true
+    },
+    {
       "id": 663538,
       "name": "Nico Hoerner",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/663538/headshot/67/current",
@@ -3700,6 +3706,7 @@
       "gameDate": "2025-10-08",
       "opponentTeamName": "Chicago Cubs",
       "probablePitcherName": "Quinn Priester",
+      "game_in_progress": true,
       "lineup_confirmed": true
     },
     {
@@ -3825,7 +3832,7 @@
       "id": 606192,
       "name": "Teoscar Hernández",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/606192/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 605400,
         "name": "Aaron Nola",
@@ -3859,9 +3866,9 @@
           "ops": 0.715
         }
       },
-      "projectedBattingOrder": 4,
-      "confirmed": false,
-      "projected_pa": 4.22,
+      "projectedBattingOrder": 3,
+      "confirmed": true,
+      "projected_pa": 4.32,
       "ops_vs_pitcher": {
         "pa": 15,
         "ab": 14,
@@ -3938,7 +3945,7 @@
       "gameDate": "2025-10-08",
       "opponentTeamName": "Los Angeles Dodgers",
       "probablePitcherName": "Aaron Nola",
-      "lineup_confirmed": false
+      "lineup_confirmed": true
     },
     {
       "id": 664023,
@@ -4057,6 +4064,7 @@
       "gameDate": "2025-10-08",
       "opponentTeamName": "Chicago Cubs",
       "probablePitcherName": "Quinn Priester",
+      "game_in_progress": true,
       "lineup_confirmed": true
     },
     {
@@ -4415,246 +4423,6 @@
       "opponentTeamName": "New York Yankees",
       "probablePitcherName": "Louis Varland",
       "lineup_confirmed": true
-    },
-    {
-      "id": 663330,
-      "name": "Jahmai Jones",
-      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/663330/headshot/67/current",
-      "lineup_announced": true,
-      "probable_pitcher_splits": {
-        "id": 682243,
-        "name": "Bryce Miller",
-        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/682243/headshot/67/current",
-        "hitsPer9Inn": 9.27,
-        "hitsPer9Inn_site": 9.53,
-        "walksPer9Inn": 3.39,
-        "expected_woba": 0.358,
-        "hand": "R",
-        "batterSideForGame": "RHB",
-        "prob_1p5_tb_vs_lhb": 0.485,
-        "prob_1p5_tb_vs_rhb": 0.456,
-        "fair_odds_vs_lhb": "+106",
-        "fair_odds_vs_rhb": "+119",
-        "vs_lhb": {
-          "pa": 171,
-          "ab": 151,
-          "hits": 39,
-          "doubles": 9,
-          "hr": 10,
-          "avg": 0.258,
-          "ops": 0.863
-        },
-        "vs_rhb": {
-          "pa": 221,
-          "ab": 197,
-          "hits": 54,
-          "doubles": 13,
-          "hr": 7,
-          "avg": 0.274,
-          "ops": 0.78
-        }
-      },
-      "projectedBattingOrder": 5,
-      "confirmed": false,
-      "projected_pa": 4.12,
-      "ops_vs_pitcher": {
-        "pa": 0,
-        "ab": null,
-        "hits": null,
-        "doubles": null,
-        "hr": null,
-        "bb": null,
-        "k": null,
-        "avg": null,
-        "ops": null,
-        "prob_1p5_tb": null,
-        "fair_odds": null
-      },
-      "ops_vs_pitcher_ops_ab3": null,
-      "ops_vs_pitcher_ops_ab5": null,
-      "ops_vs_pitcher_ops_ab10": null,
-      "wtb2_percent": 0.518,
-      "prob_1p5_tb_overall": 0.473,
-      "fair_odds_overall": "+112",
-      "season_pa": 150,
-      "season_ab": 129,
-      "season_hits": 37,
-      "season_doubles": 11,
-      "season_hr": 7,
-      "season_avg": 0.287,
-      "season_ops": 0.937,
-      "ops_site": {
-        "pa": 81,
-        "ab": 65,
-        "hits": 21,
-        "doubles": 5,
-        "hr": 5,
-        "avg": 0.323,
-        "ops": 1.119,
-        "prob_1p5_tb": 0.478,
-        "fair_odds": "+109"
-      },
-      "ops_vs_pitcher_hand": {
-        "pa": 28,
-        "ab": 25,
-        "hits": 7,
-        "doubles": 2,
-        "hr": 0,
-        "avg": 0.28,
-        "ops": 0.797,
-        "prob_1p5_tb": 0.382,
-        "fair_odds": "+162"
-      },
-      "ops_last_7_days": {
-        "pa": 0,
-        "ab": null,
-        "hits": null,
-        "doubles": null,
-        "hr": null,
-        "avg": null,
-        "ops": null,
-        "prob_1p5_tb": null,
-        "fair_odds": null
-      },
-      "site": "Home",
-      "score": 63,
-      "score_wtb2": 63,
-      "prob_1p5_tb_projected": 0.414,
-      "fair_odds_projected": "+142",
-      "score_weight_breakdown": {
-        "baseline": 17.3,
-        "h2h": 0,
-        "vs_hand": 69.1,
-        "home_away": 8.6,
-        "last7": 0,
-        "pitcher_vs_hand": 5
-      },
-      "gamePk": 813055,
-      "gameDate": "2025-10-08",
-      "opponentTeamName": "Detroit Tigers",
-      "probablePitcherName": "Bryce Miller",
-      "game_in_progress": true,
-      "lineup_confirmed": false
-    },
-    {
-      "id": 672761,
-      "name": "Wenceel Pérez",
-      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/672761/headshot/67/current",
-      "lineup_announced": true,
-      "probable_pitcher_splits": {
-        "id": 682243,
-        "name": "Bryce Miller",
-        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/682243/headshot/67/current",
-        "hitsPer9Inn": 9.27,
-        "hitsPer9Inn_site": 9.53,
-        "walksPer9Inn": 3.39,
-        "expected_woba": 0.358,
-        "hand": "R",
-        "batterSideForGame": "LHB",
-        "prob_1p5_tb_vs_lhb": 0.485,
-        "prob_1p5_tb_vs_rhb": 0.456,
-        "fair_odds_vs_lhb": "+106",
-        "fair_odds_vs_rhb": "+119",
-        "vs_lhb": {
-          "pa": 171,
-          "ab": 151,
-          "hits": 39,
-          "doubles": 9,
-          "hr": 10,
-          "avg": 0.258,
-          "ops": 0.863
-        },
-        "vs_rhb": {
-          "pa": 221,
-          "ab": 197,
-          "hits": 54,
-          "doubles": 13,
-          "hr": 7,
-          "avg": 0.274,
-          "ops": 0.78
-        }
-      },
-      "projectedBattingOrder": 5,
-      "confirmed": false,
-      "projected_pa": 4.12,
-      "ops_vs_pitcher": {
-        "pa": 0,
-        "ab": null,
-        "hits": null,
-        "doubles": null,
-        "hr": null,
-        "bb": null,
-        "k": null,
-        "avg": null,
-        "ops": null,
-        "prob_1p5_tb": null,
-        "fair_odds": null
-      },
-      "ops_vs_pitcher_ops_ab3": null,
-      "ops_vs_pitcher_ops_ab5": null,
-      "ops_vs_pitcher_ops_ab10": null,
-      "wtb2_percent": 0.424,
-      "prob_1p5_tb_overall": 0.38,
-      "fair_odds_overall": "+163",
-      "season_pa": 383,
-      "season_ab": 344,
-      "season_hits": 84,
-      "season_doubles": 17,
-      "season_hr": 13,
-      "season_avg": 0.244,
-      "season_ops": 0.738,
-      "ops_site": {
-        "pa": 188,
-        "ab": 168,
-        "hits": 41,
-        "doubles": 8,
-        "hr": 7,
-        "avg": 0.244,
-        "ops": 0.778,
-        "prob_1p5_tb": 0.362,
-        "fair_odds": "+176"
-      },
-      "ops_vs_pitcher_hand": {
-        "pa": 275,
-        "ab": 246,
-        "hits": 56,
-        "doubles": 11,
-        "hr": 8,
-        "avg": 0.228,
-        "ops": 0.688,
-        "prob_1p5_tb": 0.326,
-        "fair_odds": "+207"
-      },
-      "ops_last_7_days": {
-        "pa": 0,
-        "ab": null,
-        "hits": null,
-        "doubles": null,
-        "hr": null,
-        "avg": null,
-        "ops": null,
-        "prob_1p5_tb": null,
-        "fair_odds": null
-      },
-      "site": "Home",
-      "score": 63,
-      "score_wtb2": 63,
-      "prob_1p5_tb_projected": 0.357,
-      "fair_odds_projected": "+180",
-      "score_weight_breakdown": {
-        "baseline": 17.3,
-        "h2h": 0,
-        "vs_hand": 69.1,
-        "home_away": 8.6,
-        "last7": 0,
-        "pitcher_vs_hand": 5
-      },
-      "gamePk": 813055,
-      "gameDate": "2025-10-08",
-      "opponentTeamName": "Detroit Tigers",
-      "probablePitcherName": "Bryce Miller",
-      "game_in_progress": true,
-      "lineup_confirmed": false
     },
     {
       "id": 690993,
@@ -5131,6 +4899,7 @@
       "gameDate": "2025-10-08",
       "opponentTeamName": "Milwaukee Brewers",
       "probablePitcherName": "Jameson Taillon",
+      "game_in_progress": true,
       "lineup_confirmed": false
     },
     {
@@ -5250,6 +5019,126 @@
       "gameDate": "2025-10-08",
       "opponentTeamName": "Milwaukee Brewers",
       "probablePitcherName": "Jameson Taillon",
+      "game_in_progress": true,
+      "lineup_confirmed": true
+    },
+    {
+      "id": 669257,
+      "name": "Will Smith",
+      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/669257/headshot/67/current",
+      "lineup_announced": true,
+      "probable_pitcher_splits": {
+        "id": 605400,
+        "name": "Aaron Nola",
+        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/605400/headshot/67/current",
+        "hitsPer9Inn": 9.45,
+        "hitsPer9Inn_site": 10.23,
+        "walksPer9Inn": 2.67,
+        "expected_woba": 0.327,
+        "hand": "R",
+        "batterSideForGame": "RHB",
+        "prob_1p5_tb_vs_lhb": 0.485,
+        "prob_1p5_tb_vs_rhb": 0.448,
+        "fair_odds_vs_lhb": "+106",
+        "fair_odds_vs_rhb": "+123",
+        "vs_lhb": {
+          "pa": 250,
+          "ab": 226,
+          "hits": 61,
+          "doubles": 11,
+          "hr": 14,
+          "avg": 0.27,
+          "ops": 0.862
+        },
+        "vs_rhb": {
+          "pa": 154,
+          "ab": 145,
+          "hits": 38,
+          "doubles": 8,
+          "hr": 4,
+          "avg": 0.262,
+          "ops": 0.715
+        }
+      },
+      "projectedBattingOrder": 5,
+      "confirmed": true,
+      "projected_pa": 4.12,
+      "ops_vs_pitcher": {
+        "pa": 20,
+        "ab": 20,
+        "hits": 2,
+        "doubles": 0,
+        "hr": 1,
+        "bb": 0,
+        "k": 6,
+        "avg": 0.1,
+        "ops": 0.35,
+        "prob_1p5_tb": 0.198,
+        "fair_odds": "+405"
+      },
+      "ops_vs_pitcher_ops_ab3": 0.35,
+      "ops_vs_pitcher_ops_ab5": 0.35,
+      "ops_vs_pitcher_ops_ab10": 0.35,
+      "wtb2_percent": 0.451,
+      "prob_1p5_tb_overall": 0.404,
+      "fair_odds_overall": "+148",
+      "season_pa": 436,
+      "season_ab": 362,
+      "season_hits": 107,
+      "season_doubles": 20,
+      "season_hr": 17,
+      "season_avg": 0.296,
+      "season_ops": 0.901,
+      "ops_site": {
+        "pa": 222,
+        "ab": 183,
+        "hits": 56,
+        "doubles": 9,
+        "hr": 12,
+        "avg": 0.306,
+        "ops": 0.971,
+        "prob_1p5_tb": 0.424,
+        "fair_odds": "+136"
+      },
+      "ops_vs_pitcher_hand": {
+        "pa": 324,
+        "ab": 269,
+        "hits": 83,
+        "doubles": 14,
+        "hr": 13,
+        "avg": 0.309,
+        "ops": 0.923,
+        "prob_1p5_tb": 0.409,
+        "fair_odds": "+144"
+      },
+      "ops_last_7_days": {
+        "pa": 0,
+        "ab": null,
+        "hits": null,
+        "doubles": null,
+        "hr": null,
+        "avg": null,
+        "ops": null,
+        "prob_1p5_tb": null,
+        "fair_odds": null
+      },
+      "site": "Home",
+      "score": 60,
+      "score_wtb2": 60,
+      "prob_1p5_tb_projected": 0.35,
+      "fair_odds_projected": "+186",
+      "score_weight_breakdown": {
+        "baseline": 47.3,
+        "h2h": 30,
+        "vs_hand": 11.8,
+        "home_away": 5.9,
+        "last7": 0,
+        "pitcher_vs_hand": 5
+      },
+      "gamePk": 813041,
+      "gameDate": "2025-10-08",
+      "opponentTeamName": "Los Angeles Dodgers",
+      "probablePitcherName": "Aaron Nola",
       "lineup_confirmed": true
     },
     {
@@ -5491,125 +5380,6 @@
       "lineup_confirmed": false
     },
     {
-      "id": 571970,
-      "name": "Max Muncy",
-      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/571970/headshot/67/current",
-      "lineup_announced": false,
-      "probable_pitcher_splits": {
-        "id": 605400,
-        "name": "Aaron Nola",
-        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/605400/headshot/67/current",
-        "hitsPer9Inn": 9.45,
-        "hitsPer9Inn_site": 10.23,
-        "walksPer9Inn": 2.67,
-        "expected_woba": 0.327,
-        "hand": "R",
-        "batterSideForGame": "LHB",
-        "prob_1p5_tb_vs_lhb": 0.485,
-        "prob_1p5_tb_vs_rhb": 0.448,
-        "fair_odds_vs_lhb": "+106",
-        "fair_odds_vs_rhb": "+123",
-        "vs_lhb": {
-          "pa": 250,
-          "ab": 226,
-          "hits": 61,
-          "doubles": 11,
-          "hr": 14,
-          "avg": 0.27,
-          "ops": 0.862
-        },
-        "vs_rhb": {
-          "pa": 154,
-          "ab": 145,
-          "hits": 38,
-          "doubles": 8,
-          "hr": 4,
-          "avg": 0.262,
-          "ops": 0.715
-        }
-      },
-      "projectedBattingOrder": 5,
-      "confirmed": false,
-      "projected_pa": 4.12,
-      "ops_vs_pitcher": {
-        "pa": 25,
-        "ab": 24,
-        "hits": 4,
-        "doubles": 1,
-        "hr": 0,
-        "bb": 1,
-        "k": 11,
-        "avg": 0.167,
-        "ops": 0.408,
-        "prob_1p5_tb": 0.218,
-        "fair_odds": "+359"
-      },
-      "ops_vs_pitcher_ops_ab3": 0.408,
-      "ops_vs_pitcher_ops_ab5": 0.408,
-      "ops_vs_pitcher_ops_ab10": 0.408,
-      "wtb2_percent": 0.381,
-      "prob_1p5_tb_overall": 0.341,
-      "fair_odds_overall": "+194",
-      "season_pa": 388,
-      "season_ab": 313,
-      "season_hits": 76,
-      "season_doubles": 10,
-      "season_hr": 19,
-      "season_avg": 0.243,
-      "season_ops": 0.846,
-      "ops_site": {
-        "pa": 209,
-        "ab": 163,
-        "hits": 41,
-        "doubles": 3,
-        "hr": 15,
-        "avg": 0.252,
-        "ops": 0.968,
-        "prob_1p5_tb": 0.354,
-        "fair_odds": "+183"
-      },
-      "ops_vs_pitcher_hand": {
-        "pa": 308,
-        "ab": 243,
-        "hits": 65,
-        "doubles": 8,
-        "hr": 16,
-        "avg": 0.267,
-        "ops": 0.923,
-        "prob_1p5_tb": 0.351,
-        "fair_odds": "+185"
-      },
-      "ops_last_7_days": {
-        "pa": 0,
-        "ab": null,
-        "hits": null,
-        "doubles": null,
-        "hr": null,
-        "avg": null,
-        "ops": null,
-        "prob_1p5_tb": null,
-        "fair_odds": null
-      },
-      "site": "Home",
-      "score": 58,
-      "score_wtb2": 58,
-      "prob_1p5_tb_projected": 0.322,
-      "fair_odds_projected": "+210",
-      "score_weight_breakdown": {
-        "baseline": 47.3,
-        "h2h": 30,
-        "vs_hand": 11.8,
-        "home_away": 5.9,
-        "last7": 0,
-        "pitcher_vs_hand": 5
-      },
-      "gamePk": 813041,
-      "gameDate": "2025-10-08",
-      "opponentTeamName": "Los Angeles Dodgers",
-      "probablePitcherName": "Aaron Nola",
-      "lineup_confirmed": false
-    },
-    {
       "id": 661388,
       "name": "William Contreras",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/661388/headshot/67/current",
@@ -5726,6 +5496,7 @@
       "gameDate": "2025-10-08",
       "opponentTeamName": "Milwaukee Brewers",
       "probablePitcherName": "Jameson Taillon",
+      "game_in_progress": true,
       "lineup_confirmed": true
     },
     {
@@ -5845,6 +5616,7 @@
       "gameDate": "2025-10-08",
       "opponentTeamName": "Chicago Cubs",
       "probablePitcherName": "Quinn Priester",
+      "game_in_progress": true,
       "lineup_confirmed": true
     },
     {
@@ -6444,125 +6216,6 @@
       "lineup_confirmed": true
     },
     {
-      "id": 669242,
-      "name": "Tommy Edman",
-      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/669242/headshot/67/current",
-      "lineup_announced": false,
-      "probable_pitcher_splits": {
-        "id": 605400,
-        "name": "Aaron Nola",
-        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/605400/headshot/67/current",
-        "hitsPer9Inn": 9.45,
-        "hitsPer9Inn_site": 10.23,
-        "walksPer9Inn": 2.67,
-        "expected_woba": 0.327,
-        "hand": "R",
-        "batterSideForGame": "LHB",
-        "prob_1p5_tb_vs_lhb": 0.485,
-        "prob_1p5_tb_vs_rhb": 0.448,
-        "fair_odds_vs_lhb": "+106",
-        "fair_odds_vs_rhb": "+123",
-        "vs_lhb": {
-          "pa": 250,
-          "ab": 226,
-          "hits": 61,
-          "doubles": 11,
-          "hr": 14,
-          "avg": 0.27,
-          "ops": 0.862
-        },
-        "vs_rhb": {
-          "pa": 154,
-          "ab": 145,
-          "hits": 38,
-          "doubles": 8,
-          "hr": 4,
-          "avg": 0.262,
-          "ops": 0.715
-        }
-      },
-      "projectedBattingOrder": 5,
-      "confirmed": false,
-      "projected_pa": 4.12,
-      "ops_vs_pitcher": {
-        "pa": 19,
-        "ab": 19,
-        "hits": 1,
-        "doubles": 1,
-        "hr": 0,
-        "bb": 0,
-        "k": 0,
-        "avg": 0.053,
-        "ops": 0.158,
-        "prob_1p5_tb": 0.194,
-        "fair_odds": "+414"
-      },
-      "ops_vs_pitcher_ops_ab3": 0.158,
-      "ops_vs_pitcher_ops_ab5": 0.158,
-      "ops_vs_pitcher_ops_ab10": 0.158,
-      "wtb2_percent": 0.376,
-      "prob_1p5_tb_overall": 0.334,
-      "fair_odds_overall": "+199",
-      "season_pa": 377,
-      "season_ab": 346,
-      "season_hits": 78,
-      "season_doubles": 13,
-      "season_hr": 13,
-      "season_avg": 0.225,
-      "season_ops": 0.656,
-      "ops_site": {
-        "pa": 194,
-        "ab": 175,
-        "hits": 44,
-        "doubles": 9,
-        "hr": 8,
-        "avg": 0.251,
-        "ops": 0.746,
-        "prob_1p5_tb": 0.385,
-        "fair_odds": "+160"
-      },
-      "ops_vs_pitcher_hand": {
-        "pa": 255,
-        "ab": 230,
-        "hits": 53,
-        "doubles": 8,
-        "hr": 6,
-        "avg": 0.23,
-        "ops": 0.635,
-        "prob_1p5_tb": 0.302,
-        "fair_odds": "+231"
-      },
-      "ops_last_7_days": {
-        "pa": 0,
-        "ab": null,
-        "hits": null,
-        "doubles": null,
-        "hr": null,
-        "avg": null,
-        "ops": null,
-        "prob_1p5_tb": null,
-        "fair_odds": null
-      },
-      "site": "Home",
-      "score": 56,
-      "score_wtb2": 56,
-      "prob_1p5_tb_projected": 0.31,
-      "fair_odds_projected": "+223",
-      "score_weight_breakdown": {
-        "baseline": 48,
-        "h2h": 29,
-        "vs_hand": 12,
-        "home_away": 6,
-        "last7": 0,
-        "pitcher_vs_hand": 5
-      },
-      "gamePk": 813041,
-      "gameDate": "2025-10-08",
-      "opponentTeamName": "Los Angeles Dodgers",
-      "probablePitcherName": "Aaron Nola",
-      "lineup_confirmed": false
-    },
-    {
       "id": 663656,
       "name": "Kyle Tucker",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/663656/headshot/67/current",
@@ -6679,6 +6332,7 @@
       "gameDate": "2025-10-08",
       "opponentTeamName": "Chicago Cubs",
       "probablePitcherName": "Quinn Priester",
+      "game_in_progress": true,
       "lineup_confirmed": true
     },
     {
@@ -6917,6 +6571,7 @@
       "gameDate": "2025-10-08",
       "opponentTeamName": "Milwaukee Brewers",
       "probablePitcherName": "Jameson Taillon",
+      "game_in_progress": true,
       "lineup_confirmed": true
     },
     {
@@ -7635,6 +7290,7 @@
       "gameDate": "2025-10-08",
       "opponentTeamName": "Chicago Cubs",
       "probablePitcherName": "Quinn Priester",
+      "game_in_progress": true,
       "lineup_confirmed": false
     }
   ]
