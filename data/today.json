@@ -1,7 +1,7 @@
 {
   "date": "2025-10-08",
   "gamesAnalyzed": 4,
-  "hitterCount": 61,
+  "hitterCount": 59,
   "hitters": [
     {
       "id": 694192,
@@ -120,8 +120,9 @@
       "gameDate": "2025-10-08",
       "opponentTeamName": "Milwaukee Brewers",
       "probablePitcherName": "Jameson Taillon",
-      "game_in_progress": true,
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 2,
+      "game_total_bases_met": true
     },
     {
       "id": 660271,
@@ -240,6 +241,7 @@
       "gameDate": "2025-10-08",
       "opponentTeamName": "Los Angeles Dodgers",
       "probablePitcherName": "Aaron Nola",
+      "game_in_progress": true,
       "lineup_confirmed": true
     },
     {
@@ -359,8 +361,9 @@
       "gameDate": "2025-10-08",
       "opponentTeamName": "Chicago Cubs",
       "probablePitcherName": "Quinn Priester",
-      "game_in_progress": true,
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 4,
+      "game_total_bases_met": true
     },
     {
       "id": 607208,
@@ -479,6 +482,7 @@
       "gameDate": "2025-10-08",
       "opponentTeamName": "Philadelphia Phillies",
       "probablePitcherName": "Yoshinobu Yamamoto",
+      "game_in_progress": true,
       "lineup_confirmed": true
     },
     {
@@ -1563,8 +1567,9 @@
       "gameDate": "2025-10-08",
       "opponentTeamName": "Milwaukee Brewers",
       "probablePitcherName": "Jameson Taillon",
-      "game_in_progress": true,
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 2,
+      "game_total_bases_met": true
     },
     {
       "id": 519317,
@@ -1687,126 +1692,6 @@
       "lineup_confirmed": true
     },
     {
-      "id": 683734,
-      "name": "Andrew Vaughn",
-      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/683734/headshot/67/current",
-      "lineup_announced": true,
-      "probable_pitcher_splits": {
-        "id": 592791,
-        "name": "Jameson Taillon",
-        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/592791/headshot/67/current",
-        "hitsPer9Inn": 7.63,
-        "hitsPer9Inn_site": 6.71,
-        "walksPer9Inn": 1.87,
-        "expected_woba": 0.314,
-        "hand": "R",
-        "batterSideForGame": "RHB",
-        "prob_1p5_tb_vs_lhb": 0.344,
-        "prob_1p5_tb_vs_rhb": 0.504,
-        "fair_odds_vs_lhb": "+191",
-        "fair_odds_vs_rhb": "-102",
-        "vs_lhb": {
-          "pa": 262,
-          "ab": 241,
-          "hits": 46,
-          "doubles": 7,
-          "hr": 10,
-          "avg": 0.191,
-          "ops": 0.61
-        },
-        "vs_rhb": {
-          "pa": 257,
-          "ab": 248,
-          "hits": 64,
-          "doubles": 16,
-          "hr": 14,
-          "avg": 0.258,
-          "ops": 0.773
-        }
-      },
-      "projectedBattingOrder": 5,
-      "confirmed": false,
-      "projected_pa": 4.29,
-      "ops_vs_pitcher": {
-        "pa": 9,
-        "ab": 9,
-        "hits": 3,
-        "doubles": 0,
-        "hr": 1,
-        "bb": 0,
-        "k": 2,
-        "avg": 0.333,
-        "ops": 1,
-        "prob_1p5_tb": 0.539,
-        "fair_odds": "-117"
-      },
-      "ops_vs_pitcher_ops_ab3": 1,
-      "ops_vs_pitcher_ops_ab5": 1,
-      "ops_vs_pitcher_ops_ab10": null,
-      "wtb2_percent": 0.422,
-      "prob_1p5_tb_overall": 0.376,
-      "fair_odds_overall": "+166",
-      "season_pa": 447,
-      "season_ab": 406,
-      "season_hits": 103,
-      "season_doubles": 22,
-      "season_hr": 14,
-      "season_avg": 0.254,
-      "season_ops": 0.718,
-      "ops_site": {
-        "pa": 238,
-        "ab": 213,
-        "hits": 51,
-        "doubles": 11,
-        "hr": 4,
-        "avg": 0.239,
-        "ops": 0.654,
-        "prob_1p5_tb": 0.325,
-        "fair_odds": "+207"
-      },
-      "ops_vs_pitcher_hand": {
-        "pa": 315,
-        "ab": 291,
-        "hits": 67,
-        "doubles": 13,
-        "hr": 11,
-        "avg": 0.23,
-        "ops": 0.661,
-        "prob_1p5_tb": 0.349,
-        "fair_odds": "+186"
-      },
-      "ops_last_7_days": {
-        "pa": 0,
-        "ab": null,
-        "hits": null,
-        "doubles": null,
-        "hr": null,
-        "avg": null,
-        "ops": null,
-        "prob_1p5_tb": null,
-        "fair_odds": null
-      },
-      "site": "Away",
-      "score": 73,
-      "score_wtb2": 73,
-      "prob_1p5_tb_projected": 0.428,
-      "fair_odds_projected": "+133",
-      "score_weight_breakdown": {
-        "baseline": 54.5,
-        "h2h": 20,
-        "vs_hand": 13.6,
-        "home_away": 6.8,
-        "last7": 0,
-        "pitcher_vs_hand": 5
-      },
-      "gamePk": 813049,
-      "gameDate": "2025-10-08",
-      "opponentTeamName": "Milwaukee Brewers",
-      "probablePitcherName": "Jameson Taillon",
-      "game_in_progress": true,
-      "lineup_confirmed": false
-    },
-    {
       "id": 605141,
       "name": "Mookie Betts",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/605141/headshot/67/current",
@@ -1923,6 +1808,7 @@
       "gameDate": "2025-10-08",
       "opponentTeamName": "Los Angeles Dodgers",
       "probablePitcherName": "Aaron Nola",
+      "game_in_progress": true,
       "lineup_confirmed": true
     },
     {
@@ -2163,6 +2049,7 @@
       "gameDate": "2025-10-08",
       "opponentTeamName": "Los Angeles Dodgers",
       "probablePitcherName": "Aaron Nola",
+      "game_in_progress": true,
       "lineup_confirmed": true
     },
     {
@@ -2764,8 +2651,9 @@
       "gameDate": "2025-10-08",
       "opponentTeamName": "Milwaukee Brewers",
       "probablePitcherName": "Jameson Taillon",
-      "game_in_progress": true,
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 1,
+      "game_total_bases_met": false
     },
     {
       "id": 647304,
@@ -3126,8 +3014,9 @@
       "gameDate": "2025-10-08",
       "opponentTeamName": "Chicago Cubs",
       "probablePitcherName": "Quinn Priester",
-      "game_in_progress": true,
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 2,
+      "game_total_bases_met": true
     },
     {
       "id": 663757,
@@ -3486,6 +3375,7 @@
       "gameDate": "2025-10-08",
       "opponentTeamName": "Philadelphia Phillies",
       "probablePitcherName": "Yoshinobu Yamamoto",
+      "game_in_progress": true,
       "lineup_confirmed": true
     },
     {
@@ -3605,6 +3495,7 @@
       "gameDate": "2025-10-08",
       "opponentTeamName": "Los Angeles Dodgers",
       "probablePitcherName": "Aaron Nola",
+      "game_in_progress": true,
       "lineup_confirmed": true
     },
     {
@@ -3724,8 +3615,9 @@
       "gameDate": "2025-10-08",
       "opponentTeamName": "Chicago Cubs",
       "probablePitcherName": "Quinn Priester",
-      "game_in_progress": true,
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 2,
+      "game_total_bases_met": true
     },
     {
       "id": 664770,
@@ -3964,6 +3856,7 @@
       "gameDate": "2025-10-08",
       "opponentTeamName": "Los Angeles Dodgers",
       "probablePitcherName": "Aaron Nola",
+      "game_in_progress": true,
       "lineup_confirmed": true
     },
     {
@@ -4083,8 +3976,9 @@
       "gameDate": "2025-10-08",
       "opponentTeamName": "Chicago Cubs",
       "probablePitcherName": "Quinn Priester",
-      "game_in_progress": true,
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 0,
+      "game_total_bases_met": false
     },
     {
       "id": 680718,
@@ -4684,6 +4578,7 @@
       "gameDate": "2025-10-08",
       "opponentTeamName": "Philadelphia Phillies",
       "probablePitcherName": "Yoshinobu Yamamoto",
+      "game_in_progress": true,
       "lineup_confirmed": true
     },
     {
@@ -4803,127 +4698,8 @@
       "gameDate": "2025-10-08",
       "opponentTeamName": "Philadelphia Phillies",
       "probablePitcherName": "Yoshinobu Yamamoto",
-      "lineup_confirmed": true
-    },
-    {
-      "id": 686555,
-      "name": "Isaac Collins",
-      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/686555/headshot/67/current",
-      "lineup_announced": true,
-      "probable_pitcher_splits": {
-        "id": 592791,
-        "name": "Jameson Taillon",
-        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/592791/headshot/67/current",
-        "hitsPer9Inn": 7.63,
-        "hitsPer9Inn_site": 6.71,
-        "walksPer9Inn": 1.87,
-        "expected_woba": 0.314,
-        "hand": "R",
-        "batterSideForGame": "LHB",
-        "prob_1p5_tb_vs_lhb": 0.344,
-        "prob_1p5_tb_vs_rhb": 0.504,
-        "fair_odds_vs_lhb": "+191",
-        "fair_odds_vs_rhb": "-102",
-        "vs_lhb": {
-          "pa": 262,
-          "ab": 241,
-          "hits": 46,
-          "doubles": 7,
-          "hr": 10,
-          "avg": 0.191,
-          "ops": 0.61
-        },
-        "vs_rhb": {
-          "pa": 257,
-          "ab": 248,
-          "hits": 64,
-          "doubles": 16,
-          "hr": 14,
-          "avg": 0.258,
-          "ops": 0.773
-        }
-      },
-      "projectedBattingOrder": 1,
-      "confirmed": false,
-      "projected_pa": 4.73,
-      "ops_vs_pitcher": {
-        "pa": 7,
-        "ab": 6,
-        "hits": 0,
-        "doubles": 0,
-        "hr": 0,
-        "bb": 1,
-        "k": 3,
-        "avg": 0,
-        "ops": 0.143,
-        "prob_1p5_tb": 0,
-        "fair_odds": "+999900"
-      },
-      "ops_vs_pitcher_ops_ab3": 0.143,
-      "ops_vs_pitcher_ops_ab5": 0.143,
-      "ops_vs_pitcher_ops_ab10": null,
-      "wtb2_percent": 0.405,
-      "prob_1p5_tb_overall": 0.45,
-      "fair_odds_overall": "+122",
-      "season_pa": 441,
-      "season_ab": 372,
-      "season_hits": 98,
-      "season_doubles": 22,
-      "season_hr": 9,
-      "season_avg": 0.263,
-      "season_ops": 0.779,
-      "ops_site": {
-        "pa": 205,
-        "ab": 172,
-        "hits": 52,
-        "doubles": 11,
-        "hr": 7,
-        "avg": 0.302,
-        "ops": 0.91,
-        "prob_1p5_tb": 0.511,
-        "fair_odds": "-105"
-      },
-      "ops_vs_pitcher_hand": {
-        "pa": 296,
-        "ab": 247,
-        "hits": 69,
-        "doubles": 14,
-        "hr": 5,
-        "avg": 0.279,
-        "ops": 0.802,
-        "prob_1p5_tb": 0.443,
-        "fair_odds": "+126"
-      },
-      "ops_last_7_days": {
-        "pa": 0,
-        "ab": null,
-        "hits": null,
-        "doubles": null,
-        "hr": null,
-        "avg": null,
-        "ops": null,
-        "prob_1p5_tb": null,
-        "fair_odds": null
-      },
-      "site": "Away",
-      "score": 60,
-      "score_wtb2": 60,
-      "prob_1p5_tb_projected": 0.365,
-      "fair_odds_projected": "+174",
-      "score_weight_breakdown": {
-        "baseline": 58.2,
-        "h2h": 15,
-        "vs_hand": 14.5,
-        "home_away": 7.3,
-        "last7": 0,
-        "pitcher_vs_hand": 5
-      },
-      "gamePk": 813049,
-      "gameDate": "2025-10-08",
-      "opponentTeamName": "Milwaukee Brewers",
-      "probablePitcherName": "Jameson Taillon",
       "game_in_progress": true,
-      "lineup_confirmed": false
+      "lineup_confirmed": true
     },
     {
       "id": 668930,
@@ -5042,8 +4818,9 @@
       "gameDate": "2025-10-08",
       "opponentTeamName": "Milwaukee Brewers",
       "probablePitcherName": "Jameson Taillon",
-      "game_in_progress": true,
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 0,
+      "game_total_bases_met": false
     },
     {
       "id": 669257,
@@ -5162,6 +4939,7 @@
       "gameDate": "2025-10-08",
       "opponentTeamName": "Los Angeles Dodgers",
       "probablePitcherName": "Aaron Nola",
+      "game_in_progress": true,
       "lineup_confirmed": true
     },
     {
@@ -5281,6 +5059,7 @@
       "gameDate": "2025-10-08",
       "opponentTeamName": "Philadelphia Phillies",
       "probablePitcherName": "Yoshinobu Yamamoto",
+      "game_in_progress": true,
       "lineup_confirmed": false
     },
     {
@@ -5400,6 +5179,7 @@
       "gameDate": "2025-10-08",
       "opponentTeamName": "Philadelphia Phillies",
       "probablePitcherName": "Yoshinobu Yamamoto",
+      "game_in_progress": true,
       "lineup_confirmed": true
     },
     {
@@ -5519,8 +5299,9 @@
       "gameDate": "2025-10-08",
       "opponentTeamName": "Milwaukee Brewers",
       "probablePitcherName": "Jameson Taillon",
-      "game_in_progress": true,
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 1,
+      "game_total_bases_met": false
     },
     {
       "id": 608348,
@@ -5639,8 +5420,9 @@
       "gameDate": "2025-10-08",
       "opponentTeamName": "Chicago Cubs",
       "probablePitcherName": "Quinn Priester",
-      "game_in_progress": true,
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 0,
+      "game_total_bases_met": false
     },
     {
       "id": 643396,
@@ -6360,8 +6142,9 @@
       "gameDate": "2025-10-08",
       "opponentTeamName": "Chicago Cubs",
       "probablePitcherName": "Quinn Priester",
-      "game_in_progress": true,
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 2,
+      "game_total_bases_met": true
     },
     {
       "id": 664761,
@@ -6480,6 +6263,7 @@
       "gameDate": "2025-10-08",
       "opponentTeamName": "Philadelphia Phillies",
       "probablePitcherName": "Yoshinobu Yamamoto",
+      "game_in_progress": true,
       "lineup_confirmed": true
     },
     {
@@ -6599,8 +6383,9 @@
       "gameDate": "2025-10-08",
       "opponentTeamName": "Milwaukee Brewers",
       "probablePitcherName": "Jameson Taillon",
-      "game_in_progress": true,
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 1,
+      "game_total_bases_met": false
     },
     {
       "id": 668670,
@@ -6957,6 +6742,7 @@
       "gameDate": "2025-10-08",
       "opponentTeamName": "Philadelphia Phillies",
       "probablePitcherName": "Yoshinobu Yamamoto",
+      "game_in_progress": true,
       "lineup_confirmed": false
     },
     {
@@ -7314,7 +7100,6 @@
       "gameDate": "2025-10-08",
       "opponentTeamName": "Chicago Cubs",
       "probablePitcherName": "Quinn Priester",
-      "game_in_progress": true,
       "lineup_confirmed": false
     }
   ]
