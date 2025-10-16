@@ -4,143 +4,6 @@
   "hitterCount": 31,
   "hitters": [
     {
-      "id": 680718,
-      "name": "Addison Barger",
-      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/680718/headshot/67/current",
-      "lineup_announced": false,
-      "probable_pitcher_splits": {
-        "id": 622491,
-        "name": "Luis Castillo",
-        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/622491/headshot/67/current",
-        "hitsPer9Inn": 8.37,
-        "hitsPer9Inn_site": 6.28,
-        "walksPer9Inn": 2.29,
-        "expected_woba": 0.322,
-        "hand": "R",
-        "batterSideForGame": "LHB",
-        "prob_1p5_tb_vs_lhb": 0.472,
-        "prob_1p5_tb_vs_rhb": 0.353,
-        "prob_4_tb_vs_lhb": 0.12,
-        "prob_4_tb_vs_rhb": 0.063,
-        "fair_odds_vs_lhb": "+112",
-        "fair_odds_vs_rhb": "+183",
-        "fair_odds_4_tb_vs_lhb": "+735",
-        "fair_odds_4_tb_vs_rhb": "+1497",
-        "vs_lhb": {
-          "pa": 376,
-          "ab": 335,
-          "hits": 93,
-          "doubles": 23,
-          "hr": 12,
-          "avg": 0.278,
-          "ops": 0.814
-        },
-        "vs_rhb": {
-          "pa": 369,
-          "ab": 354,
-          "hits": 75,
-          "doubles": 11,
-          "hr": 11,
-          "avg": 0.212,
-          "ops": 0.586
-        }
-      },
-      "projectedBattingOrder": 4,
-      "confirmed": false,
-      "projected_pa": 4.4,
-      "ops_vs_pitcher": {
-        "pa": 8,
-        "ab": 7,
-        "hits": 3,
-        "doubles": 3,
-        "hr": 0,
-        "bb": 1,
-        "k": 1,
-        "avg": 0.429,
-        "ops": 1.357,
-        "prob_1p5_tb": 0.847,
-        "fair_odds": "-555",
-        "prob_4_tb": 0.42,
-        "fair_odds_4_tb": "+138"
-      },
-      "ops_vs_pitcher_ops_ab3": 1.357,
-      "ops_vs_pitcher_ops_ab5": 1.357,
-      "ops_vs_pitcher_ops_ab10": null,
-      "wtb2_percent": 0.463,
-      "wtb4_percent": 0.121,
-      "prob_1p5_tb_overall": 0.419,
-      "prob_4_tb_overall": 0.114,
-      "fair_odds_overall": "+139",
-      "fair_odds_4_tb_overall": "+778",
-      "season_pa": 502,
-      "season_ab": 460,
-      "season_hits": 112,
-      "season_doubles": 32,
-      "season_hr": 21,
-      "season_avg": 0.243,
-      "season_ops": 0.755,
-      "ops_site": {
-        "pa": 252,
-        "ab": 233,
-        "hits": 54,
-        "doubles": 17,
-        "hr": 9,
-        "avg": 0.232,
-        "ops": 0.711,
-        "prob_1p5_tb": 0.403,
-        "fair_odds": "+148",
-        "prob_4_tb": 0.095,
-        "fair_odds_4_tb": "+954"
-      },
-      "ops_vs_pitcher_hand": {
-        "pa": 413,
-        "ab": 377,
-        "hits": 94,
-        "doubles": 27,
-        "hr": 20,
-        "avg": 0.249,
-        "ops": 0.788,
-        "prob_1p5_tb": 0.434,
-        "fair_odds": "+130",
-        "prob_4_tb": 0.13,
-        "fair_odds_4_tb": "+668"
-      },
-      "ops_last_7_days": {
-        "pa": 0,
-        "ab": null,
-        "hits": null,
-        "doubles": null,
-        "hr": null,
-        "avg": null,
-        "ops": null,
-        "prob_1p5_tb": null,
-        "fair_odds": null,
-        "prob_4_tb": null,
-        "fair_odds_4_tb": null
-      },
-      "site": "Away",
-      "score": 83,
-      "score_wtb2": 83,
-      "score_tb4": 80,
-      "prob_1p5_tb_projected": 0.519,
-      "prob_4_tb_projected": 0.169,
-      "fair_odds_projected": "-108",
-      "fair_odds_4_tb_projected": "+491",
-      "score_weight_breakdown": {
-        "baseline": 54.5,
-        "h2h": 20,
-        "vs_hand": 13.6,
-        "home_away": 6.8,
-        "last7": 0,
-        "pitcher_vs_hand": 5
-      },
-      "gamePk": 813035,
-      "gameDate": "2025-10-16",
-      "opponentTeamName": "Toronto Blue Jays",
-      "probablePitcherName": "Luis Castillo",
-      "lineup_confirmed": false
-    },
-    {
       "id": 660271,
       "name": "Shohei Ohtani",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/660271/headshot/67/current",
@@ -281,7 +144,7 @@
       "id": 664770,
       "name": "Nathan Lukes",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/664770/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 622491,
         "name": "Luis Castillo",
@@ -320,7 +183,7 @@
         }
       },
       "projectedBattingOrder": 2,
-      "confirmed": false,
+      "confirmed": true,
       "projected_pa": 4.62,
       "ops_vs_pitcher": {
         "pa": 5,
@@ -412,7 +275,7 @@
       "gameDate": "2025-10-16",
       "opponentTeamName": "Toronto Blue Jays",
       "probablePitcherName": "Luis Castillo",
-      "lineup_confirmed": false
+      "lineup_confirmed": true
     },
     {
       "id": 593871,
@@ -692,7 +555,7 @@
       "id": 543807,
       "name": "George Springer",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/543807/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 622491,
         "name": "Luis Castillo",
@@ -731,7 +594,7 @@
         }
       },
       "projectedBattingOrder": 1,
-      "confirmed": false,
+      "confirmed": true,
       "projected_pa": 4.73,
       "ops_vs_pitcher": {
         "pa": 15,
@@ -823,7 +686,7 @@
       "gameDate": "2025-10-16",
       "opponentTeamName": "Toronto Blue Jays",
       "probablePitcherName": "Luis Castillo",
-      "lineup_confirmed": false
+      "lineup_confirmed": true
     },
     {
       "id": 663728,
@@ -1240,7 +1103,7 @@
       "id": 662139,
       "name": "Daulton Varsho",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/662139/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 622491,
         "name": "Luis Castillo",
@@ -1278,9 +1141,9 @@
           "ops": 0.586
         }
       },
-      "projectedBattingOrder": 6,
-      "confirmed": false,
-      "projected_pa": 4.18,
+      "projectedBattingOrder": 5,
+      "confirmed": true,
+      "projected_pa": 4.29,
       "ops_vs_pitcher": {
         "pa": 13,
         "ab": 12,
@@ -1293,8 +1156,8 @@
         "ops": 0.321,
         "prob_1p5_tb": 0.274,
         "fair_odds": "+265",
-        "prob_4_tb": 0.004,
-        "fair_odds_4_tb": "+23240"
+        "prob_4_tb": 0.005,
+        "fair_odds_4_tb": "+21217"
       },
       "ops_vs_pitcher_ops_ab3": 0.321,
       "ops_vs_pitcher_ops_ab5": 0.321,
@@ -1302,9 +1165,9 @@
       "wtb2_percent": 0.499,
       "wtb4_percent": 0.192,
       "prob_1p5_tb_overall": 0.456,
-      "prob_4_tb_overall": 0.161,
+      "prob_4_tb_overall": 0.171,
       "fair_odds_overall": "+119",
-      "fair_odds_4_tb_overall": "+521",
+      "fair_odds_4_tb_overall": "+483",
       "season_pa": 271,
       "season_ab": 248,
       "season_hits": 59,
@@ -1322,8 +1185,8 @@
         "ops": 0.851,
         "prob_1p5_tb": 0.446,
         "fair_odds": "+124",
-        "prob_4_tb": 0.169,
-        "fair_odds_4_tb": "+493"
+        "prob_4_tb": 0.18,
+        "fair_odds_4_tb": "+457"
       },
       "ops_vs_pitcher_hand": {
         "pa": 215,
@@ -1335,8 +1198,8 @@
         "ops": 0.865,
         "prob_1p5_tb": 0.483,
         "fair_odds": "+107",
-        "prob_4_tb": 0.18,
-        "fair_odds_4_tb": "+455"
+        "prob_4_tb": 0.192,
+        "fair_odds_4_tb": "+422"
       },
       "ops_last_7_days": {
         "pa": 0,
@@ -1354,11 +1217,11 @@
       "site": "Away",
       "score": 71,
       "score_wtb2": 71,
-      "score_tb4": 70,
+      "score_tb4": 72,
       "prob_1p5_tb_projected": 0.426,
-      "prob_4_tb_projected": 0.121,
+      "prob_4_tb_projected": 0.128,
       "fair_odds_projected": "+135",
-      "fair_odds_4_tb_projected": "+728",
+      "fair_odds_4_tb_projected": "+679",
       "score_weight_breakdown": {
         "baseline": 52.4,
         "h2h": 23,
@@ -1371,13 +1234,13 @@
       "gameDate": "2025-10-16",
       "opponentTeamName": "Toronto Blue Jays",
       "probablePitcherName": "Luis Castillo",
-      "lineup_confirmed": false
+      "lineup_confirmed": true
     },
     {
       "id": 665489,
       "name": "Vladimir Guerrero Jr.",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/665489/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 622491,
         "name": "Luis Castillo",
@@ -1416,7 +1279,7 @@
         }
       },
       "projectedBattingOrder": 3,
-      "confirmed": false,
+      "confirmed": true,
       "projected_pa": 4.5,
       "ops_vs_pitcher": {
         "pa": 18,
@@ -1508,7 +1371,7 @@
       "gameDate": "2025-10-16",
       "opponentTeamName": "Toronto Blue Jays",
       "probablePitcherName": "Luis Castillo",
-      "lineup_confirmed": false
+      "lineup_confirmed": true
     },
     {
       "id": 668227,
@@ -1925,7 +1788,7 @@
       "id": 672386,
       "name": "Alejandro Kirk",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/672386/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 622491,
         "name": "Luis Castillo",
@@ -1963,9 +1826,9 @@
           "ops": 0.586
         }
       },
-      "projectedBattingOrder": 5,
-      "confirmed": false,
-      "projected_pa": 4.29,
+      "projectedBattingOrder": 4,
+      "confirmed": true,
+      "projected_pa": 4.4,
       "ops_vs_pitcher": {
         "pa": 5,
         "ab": 5,
@@ -1978,8 +1841,8 @@
         "ops": 1.8,
         "prob_1p5_tb": 0.872,
         "fair_odds": "-681",
-        "prob_4_tb": 0.755,
-        "fair_odds_4_tb": "-308"
+        "prob_4_tb": 0.772,
+        "fair_odds_4_tb": "-339"
       },
       "ops_vs_pitcher_ops_ab3": 1.8,
       "ops_vs_pitcher_ops_ab5": 1.8,
@@ -1987,9 +1850,9 @@
       "wtb2_percent": 0.422,
       "wtb4_percent": 0.092,
       "prob_1p5_tb_overall": 0.373,
-      "prob_4_tb_overall": 0.08,
+      "prob_4_tb_overall": 0.086,
       "fair_odds_overall": "+168",
-      "fair_odds_4_tb_overall": "+1145",
+      "fair_odds_4_tb_overall": "+1061",
       "season_pa": 506,
       "season_ab": 451,
       "season_hits": 127,
@@ -2007,8 +1870,8 @@
         "ops": 0.773,
         "prob_1p5_tb": 0.39,
         "fair_odds": "+156",
-        "prob_4_tb": 0.078,
-        "fair_odds_4_tb": "+1184"
+        "prob_4_tb": 0.084,
+        "fair_odds_4_tb": "+1096"
       },
       "ops_vs_pitcher_hand": {
         "pa": 362,
@@ -2020,8 +1883,8 @@
         "ops": 0.771,
         "prob_1p5_tb": 0.374,
         "fair_odds": "+167",
-        "prob_4_tb": 0.082,
-        "fair_odds_4_tb": "+1118"
+        "prob_4_tb": 0.088,
+        "fair_odds_4_tb": "+1036"
       },
       "ops_last_7_days": {
         "pa": 0,
@@ -2039,11 +1902,11 @@
       "site": "Away",
       "score": 67,
       "score_wtb2": 67,
-      "score_tb4": 77,
+      "score_tb4": 78,
       "prob_1p5_tb_projected": 0.416,
-      "prob_4_tb_projected": 0.152,
+      "prob_4_tb_projected": 0.159,
       "fair_odds_projected": "+140",
-      "fair_odds_4_tb_projected": "+556",
+      "fair_odds_4_tb_projected": "+529",
       "score_weight_breakdown": {
         "baseline": 60.4,
         "h2h": 12,
@@ -2056,7 +1919,7 @@
       "gameDate": "2025-10-16",
       "opponentTeamName": "Toronto Blue Jays",
       "probablePitcherName": "Luis Castillo",
-      "lineup_confirmed": false
+      "lineup_confirmed": true
     },
     {
       "id": 553993,
@@ -2747,7 +2610,7 @@
       "id": 623168,
       "name": "Tyler Heineman",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/623168/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 622491,
         "name": "Luis Castillo",
@@ -3021,7 +2884,7 @@
       "id": 664702,
       "name": "Myles Straw",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/664702/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 622491,
         "name": "Luis Castillo",
@@ -3289,6 +3152,143 @@
       "gameDate": "2025-10-16",
       "opponentTeamName": "Los Angeles Dodgers",
       "probablePitcherName": "Aaron Ashby",
+      "lineup_confirmed": true
+    },
+    {
+      "id": 676391,
+      "name": "Ernie Clement",
+      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/676391/headshot/67/current",
+      "lineup_announced": true,
+      "probable_pitcher_splits": {
+        "id": 622491,
+        "name": "Luis Castillo",
+        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/622491/headshot/67/current",
+        "hitsPer9Inn": 8.37,
+        "hitsPer9Inn_site": 6.28,
+        "walksPer9Inn": 2.29,
+        "expected_woba": 0.322,
+        "hand": "R",
+        "batterSideForGame": "RHB",
+        "prob_1p5_tb_vs_lhb": 0.472,
+        "prob_1p5_tb_vs_rhb": 0.353,
+        "prob_4_tb_vs_lhb": 0.12,
+        "prob_4_tb_vs_rhb": 0.063,
+        "fair_odds_vs_lhb": "+112",
+        "fair_odds_vs_rhb": "+183",
+        "fair_odds_4_tb_vs_lhb": "+735",
+        "fair_odds_4_tb_vs_rhb": "+1497",
+        "vs_lhb": {
+          "pa": 376,
+          "ab": 335,
+          "hits": 93,
+          "doubles": 23,
+          "hr": 12,
+          "avg": 0.278,
+          "ops": 0.814
+        },
+        "vs_rhb": {
+          "pa": 369,
+          "ab": 354,
+          "hits": 75,
+          "doubles": 11,
+          "hr": 11,
+          "avg": 0.212,
+          "ops": 0.586
+        }
+      },
+      "projectedBattingOrder": 6,
+      "confirmed": true,
+      "projected_pa": 4.18,
+      "ops_vs_pitcher": {
+        "pa": 5,
+        "ab": 5,
+        "hits": 1,
+        "doubles": 0,
+        "hr": 0,
+        "bb": 0,
+        "k": 0,
+        "avg": 0.2,
+        "ops": 0.4,
+        "prob_1p5_tb": 0.181,
+        "fair_odds": "+453",
+        "prob_4_tb": 0.011,
+        "fair_odds_4_tb": "+9397"
+      },
+      "ops_vs_pitcher_ops_ab3": 0.4,
+      "ops_vs_pitcher_ops_ab5": 0.4,
+      "ops_vs_pitcher_ops_ab10": null,
+      "wtb2_percent": 0.451,
+      "wtb4_percent": 0.087,
+      "prob_1p5_tb_overall": 0.402,
+      "prob_4_tb_overall": 0.071,
+      "fair_odds_overall": "+149",
+      "fair_odds_4_tb_overall": "+1306",
+      "season_pa": 588,
+      "season_ab": 545,
+      "season_hits": 151,
+      "season_doubles": 35,
+      "season_hr": 9,
+      "season_avg": 0.277,
+      "season_ops": 0.711,
+      "ops_site": {
+        "pa": 303,
+        "ab": 278,
+        "hits": 76,
+        "doubles": 19,
+        "hr": 5,
+        "avg": 0.273,
+        "ops": 0.721,
+        "prob_1p5_tb": 0.396,
+        "fair_odds": "+152",
+        "prob_4_tb": 0.068,
+        "fair_odds_4_tb": "+1374"
+      },
+      "ops_vs_pitcher_hand": {
+        "pa": 401,
+        "ab": 370,
+        "hits": 94,
+        "doubles": 16,
+        "hr": 3,
+        "avg": 0.254,
+        "ops": 0.622,
+        "prob_1p5_tb": 0.321,
+        "fair_odds": "+212",
+        "prob_4_tb": 0.037,
+        "fair_odds_4_tb": "+2575"
+      },
+      "ops_last_7_days": {
+        "pa": 0,
+        "ab": null,
+        "hits": null,
+        "doubles": null,
+        "hr": null,
+        "avg": null,
+        "ops": null,
+        "prob_1p5_tb": null,
+        "fair_odds": null,
+        "prob_4_tb": null,
+        "fair_odds_4_tb": null
+      },
+      "site": "Away",
+      "score": 52,
+      "score_wtb2": 52,
+      "score_tb4": 35,
+      "prob_1p5_tb_projected": 0.311,
+      "prob_4_tb_projected": 0.041,
+      "fair_odds_projected": "+222",
+      "fair_odds_4_tb_projected": "+2359",
+      "score_weight_breakdown": {
+        "baseline": 15.1,
+        "h2h": 12,
+        "vs_hand": 60.4,
+        "home_away": 7.5,
+        "last7": 0,
+        "pitcher_vs_hand": 5
+      },
+      "gamePk": 813035,
+      "gameDate": "2025-10-16",
+      "opponentTeamName": "Toronto Blue Jays",
+      "probablePitcherName": "Luis Castillo",
       "lineup_confirmed": true
     },
     {
@@ -3706,7 +3706,7 @@
       "id": 623993,
       "name": "Anthony Santander",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/623993/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 622491,
         "name": "Luis Castillo",
