@@ -1,7 +1,7 @@
 {
   "date": "2025-11-01",
   "gamesAnalyzed": 1,
-  "hitterCount": 15,
+  "hitterCount": 16,
   "hitters": [
     {
       "id": 543807,
@@ -138,8 +138,10 @@
       "gameDate": "2025-11-01",
       "opponentTeamName": "Toronto Blue Jays",
       "probablePitcherName": "Shohei Ohtani",
-      "game_in_progress": true,
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 3,
+      "game_total_bases_met": true,
+      "game_total_bases_met_4": false
     },
     {
       "id": 660271,
@@ -276,8 +278,10 @@
       "gameDate": "2025-11-01",
       "opponentTeamName": "Los Angeles Dodgers",
       "probablePitcherName": "Max Scherzer",
-      "game_in_progress": true,
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 2,
+      "game_total_bases_met": true,
+      "game_total_bases_met_4": false
     },
     {
       "id": 518692,
@@ -414,8 +418,10 @@
       "gameDate": "2025-11-01",
       "opponentTeamName": "Los Angeles Dodgers",
       "probablePitcherName": "Max Scherzer",
-      "game_in_progress": true,
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 1,
+      "game_total_bases_met": false,
+      "game_total_bases_met_4": false
     },
     {
       "id": 666182,
@@ -552,8 +558,10 @@
       "gameDate": "2025-11-01",
       "opponentTeamName": "Toronto Blue Jays",
       "probablePitcherName": "Shohei Ohtani",
-      "game_in_progress": true,
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 5,
+      "game_total_bases_met": true,
+      "game_total_bases_met_4": true
     },
     {
       "id": 669257,
@@ -690,8 +698,10 @@
       "gameDate": "2025-11-01",
       "opponentTeamName": "Los Angeles Dodgers",
       "probablePitcherName": "Max Scherzer",
-      "game_in_progress": true,
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 6,
+      "game_total_bases_met": true,
+      "game_total_bases_met_4": true
     },
     {
       "id": 665489,
@@ -828,8 +838,10 @@
       "gameDate": "2025-11-01",
       "opponentTeamName": "Toronto Blue Jays",
       "probablePitcherName": "Shohei Ohtani",
-      "game_in_progress": true,
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 2,
+      "game_total_bases_met": true,
+      "game_total_bases_met_4": false
     },
     {
       "id": 605141,
@@ -966,8 +978,10 @@
       "gameDate": "2025-11-01",
       "opponentTeamName": "Los Angeles Dodgers",
       "probablePitcherName": "Max Scherzer",
-      "game_in_progress": true,
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 0,
+      "game_total_bases_met": false,
+      "game_total_bases_met_4": false
     },
     {
       "id": 664034,
@@ -1104,7 +1118,6 @@
       "gameDate": "2025-11-01",
       "opponentTeamName": "Toronto Blue Jays",
       "probablePitcherName": "Shohei Ohtani",
-      "game_in_progress": true,
       "lineup_confirmed": false
     },
     {
@@ -1242,8 +1255,10 @@
       "gameDate": "2025-11-01",
       "opponentTeamName": "Toronto Blue Jays",
       "probablePitcherName": "Shohei Ohtani",
-      "game_in_progress": true,
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 2,
+      "game_total_bases_met": true,
+      "game_total_bases_met_4": false
     },
     {
       "id": 571970,
@@ -1380,8 +1395,150 @@
       "gameDate": "2025-11-01",
       "opponentTeamName": "Los Angeles Dodgers",
       "probablePitcherName": "Max Scherzer",
-      "game_in_progress": true,
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 6,
+      "game_total_bases_met": true,
+      "game_total_bases_met_4": true
+    },
+    {
+      "id": 643396,
+      "name": "Isiah Kiner-Falefa",
+      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/643396/headshot/67/current",
+      "lineup_announced": true,
+      "probable_pitcher_splits": {
+        "id": 660271,
+        "name": "Shohei Ohtani",
+        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/660271/headshot/67/current",
+        "hitsPer9Inn": 7.66,
+        "hitsPer9Inn_site": 10.04,
+        "walksPer9Inn": 1.72,
+        "expected_woba": 0.253,
+        "hand": "R",
+        "batterSideForGame": "RHB",
+        "prob_1p5_tb_vs_lhb": 0.224,
+        "prob_1p5_tb_vs_rhb": 0.42,
+        "prob_4_tb_vs_lhb": 0.012,
+        "prob_4_tb_vs_rhb": 0.089,
+        "fair_odds_vs_lhb": "+347",
+        "fair_odds_vs_rhb": "+138",
+        "fair_odds_4_tb_vs_lhb": "+8295",
+        "fair_odds_4_tb_vs_rhb": "+1024",
+        "vs_lhb": {
+          "pa": 83,
+          "ab": 78,
+          "hits": 14,
+          "doubles": 2,
+          "hr": 0,
+          "avg": 0.179,
+          "ops": 0.422
+        },
+        "vs_rhb": {
+          "pa": 105,
+          "ab": 98,
+          "hits": 26,
+          "doubles": 4,
+          "hr": 3,
+          "avg": 0.265,
+          "ops": 0.693
+        }
+      },
+      "projectedBattingOrder": 4,
+      "confirmed": true,
+      "projected_pa": 4.22,
+      "ops_vs_pitcher": {
+        "pa": 13,
+        "ab": 12,
+        "hits": 3,
+        "doubles": 1,
+        "hr": 0,
+        "bb": 1,
+        "k": 3,
+        "avg": 0.25,
+        "ops": 0.641,
+        "prob_1p5_tb": 0.37,
+        "fair_odds": "+170",
+        "prob_4_tb": 0.043,
+        "fair_odds_4_tb": "+2229"
+      },
+      "ops_vs_pitcher_ops_ab3": 0.641,
+      "ops_vs_pitcher_ops_ab5": 0.641,
+      "ops_vs_pitcher_ops_ab10": 0.641,
+      "wtb2_percent": 0.398,
+      "wtb4_percent": 0.055,
+      "prob_1p5_tb_overall": 0.349,
+      "prob_4_tb_overall": 0.046,
+      "fair_odds_overall": "+187",
+      "fair_odds_4_tb_overall": "+2097",
+      "season_pa": 459,
+      "season_ab": 431,
+      "season_hits": 113,
+      "season_doubles": 21,
+      "season_hr": 2,
+      "season_avg": 0.262,
+      "season_ops": 0.631,
+      "ops_site": {
+        "pa": 212,
+        "ab": 201,
+        "hits": 53,
+        "doubles": 9,
+        "hr": 1,
+        "avg": 0.264,
+        "ops": 0.615,
+        "prob_1p5_tb": 0.341,
+        "fair_odds": "+193",
+        "prob_4_tb": 0.042,
+        "fair_odds_4_tb": "+2254"
+      },
+      "ops_vs_pitcher_hand": {
+        "pa": 335,
+        "ab": 312,
+        "hits": 86,
+        "doubles": 20,
+        "hr": 0,
+        "avg": 0.276,
+        "ops": 0.668,
+        "prob_1p5_tb": 0.371,
+        "fair_odds": "+169",
+        "prob_4_tb": 0.047,
+        "fair_odds_4_tb": "+2041"
+      },
+      "ops_last_7_days": {
+        "pa": 0,
+        "ab": null,
+        "hits": null,
+        "doubles": null,
+        "hr": null,
+        "avg": null,
+        "ops": null,
+        "prob_1p5_tb": null,
+        "fair_odds": null,
+        "prob_4_tb": null,
+        "fair_odds_4_tb": null
+      },
+      "site": "Home",
+      "score": 61,
+      "score_wtb2": 61,
+      "score_tb4": 35,
+      "prob_1p5_tb_projected": 0.36,
+      "prob_4_tb_projected": 0.045,
+      "fair_odds_projected": "+178",
+      "fair_odds_4_tb_projected": "+2137",
+      "score_weight_breakdown": {
+        "baseline": 52.4,
+        "h2h": 23,
+        "vs_hand": 13.1,
+        "home_away": 6.5,
+        "last7": 0,
+        "pitcher_vs_hand": 5
+      },
+      "gamePk": 813024,
+      "gameDate": "2025-11-01",
+      "opponentTeamName": "Toronto Blue Jays",
+      "probablePitcherName": "Shohei Ohtani",
+      "lineup_confirmed": true,
+      "game_total_bases": 0,
+      "game_total_bases_met": false,
+      "game_total_bases_met_4": false
     },
     {
       "id": 672386,
@@ -1518,8 +1675,10 @@
       "gameDate": "2025-11-01",
       "opponentTeamName": "Toronto Blue Jays",
       "probablePitcherName": "Shohei Ohtani",
-      "game_in_progress": true,
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 2,
+      "game_total_bases_met": true,
+      "game_total_bases_met_4": false
     },
     {
       "id": 606192,
@@ -1656,8 +1815,10 @@
       "gameDate": "2025-11-01",
       "opponentTeamName": "Los Angeles Dodgers",
       "probablePitcherName": "Max Scherzer",
-      "game_in_progress": true,
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 0,
+      "game_total_bases_met": false,
+      "game_total_bases_met_4": false
     },
     {
       "id": 664770,
@@ -1794,8 +1955,10 @@
       "gameDate": "2025-11-01",
       "opponentTeamName": "Toronto Blue Jays",
       "probablePitcherName": "Shohei Ohtani",
-      "game_in_progress": true,
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 0,
+      "game_total_bases_met": false,
+      "game_total_bases_met_4": false
     },
     {
       "id": 676914,
@@ -1932,8 +2095,10 @@
       "gameDate": "2025-11-01",
       "opponentTeamName": "Toronto Blue Jays",
       "probablePitcherName": "Shohei Ohtani",
-      "game_in_progress": true,
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 0,
+      "game_total_bases_met": false,
+      "game_total_bases_met_4": false
     },
     {
       "id": 664702,
@@ -2070,8 +2235,10 @@
       "gameDate": "2025-11-01",
       "opponentTeamName": "Toronto Blue Jays",
       "probablePitcherName": "Shohei Ohtani",
-      "game_in_progress": true,
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 0,
+      "game_total_bases_met": false,
+      "game_total_bases_met_4": false
     }
   ]
 }
