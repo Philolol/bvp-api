@@ -1,8 +1,145 @@
 {
   "date": "2026-06-30",
   "gamesAnalyzed": 15,
-  "hitterCount": 198,
+  "hitterCount": 209,
   "hitters": [
+    {
+      "id": 650333,
+      "name": "Luis Arraez",
+      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/650333/headshot/67/current",
+      "lineup_announced": true,
+      "probable_pitcher_splits": {
+        "id": 694297,
+        "name": "Brandon Pfaadt",
+        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/694297/headshot/67/current",
+        "hitsPer9Inn": 9.47,
+        "hitsPer9Inn_site": 8.75,
+        "walksPer9Inn": 4.03,
+        "expected_woba": 0.352,
+        "hand": "R",
+        "batterSideForGame": "LHB",
+        "prob_1p5_tb_vs_lhb": 0.5,
+        "prob_1p5_tb_vs_rhb": 0.421,
+        "prob_4_tb_vs_lhb": 0.191,
+        "prob_4_tb_vs_rhb": 0.056,
+        "fair_odds_vs_lhb": "-100",
+        "fair_odds_vs_rhb": "+138",
+        "fair_odds_4_tb_vs_lhb": "+425",
+        "fair_odds_4_tb_vs_rhb": "+1671",
+        "vs_lhb": {
+          "pa": 92,
+          "ab": 79,
+          "hits": 25,
+          "doubles": 3,
+          "hr": 6,
+          "avg": 0.316,
+          "ops": 0.962
+        },
+        "vs_rhb": {
+          "pa": 79,
+          "ab": 69,
+          "hits": 15,
+          "doubles": 7,
+          "hr": 1,
+          "avg": 0.217,
+          "ops": 0.678
+        }
+      },
+      "projectedBattingOrder": 1,
+      "confirmed": true,
+      "projected_pa": 4.73,
+      "ops_vs_pitcher": {
+        "pa": 22,
+        "ab": 21,
+        "hits": 10,
+        "doubles": 2,
+        "hr": 0,
+        "bb": 1,
+        "k": 3,
+        "avg": 0.476,
+        "ops": 1.071,
+        "prob_1p5_tb": 0.791,
+        "fair_odds": "-378",
+        "prob_4_tb": 0.26,
+        "fair_odds_4_tb": "+285"
+      },
+      "ops_vs_pitcher_ops_ab3": 1.071,
+      "ops_vs_pitcher_ops_ab5": 1.071,
+      "ops_vs_pitcher_ops_ab10": 1.071,
+      "wtb2_percent": 0.499,
+      "wtb4_percent": 0.112,
+      "prob_1p5_tb_overall": 0.553,
+      "prob_4_tb_overall": 0.127,
+      "fair_odds_overall": "-124",
+      "fair_odds_4_tb_overall": "+686",
+      "season_pa": 349,
+      "season_ab": 313,
+      "season_hits": 102,
+      "season_doubles": 18,
+      "season_hr": 3,
+      "season_avg": 0.326,
+      "season_ops": 0.812,
+      "ops_site": {
+        "pa": 196,
+        "ab": 176,
+        "hits": 56,
+        "doubles": 12,
+        "hr": 3,
+        "avg": 0.318,
+        "ops": 0.806,
+        "prob_1p5_tb": 0.542,
+        "fair_odds": "-118",
+        "prob_4_tb": 0.118,
+        "fair_odds_4_tb": "+746"
+      },
+      "ops_vs_pitcher_hand": {
+        "pa": 239,
+        "ab": 215,
+        "hits": 72,
+        "doubles": 13,
+        "hr": 2,
+        "avg": 0.335,
+        "ops": 0.825,
+        "prob_1p5_tb": 0.549,
+        "fair_odds": "-122",
+        "prob_4_tb": 0.109,
+        "fair_odds_4_tb": "+819"
+      },
+      "ops_last_7_days": {
+        "pa": 19,
+        "ab": 16,
+        "hits": 7,
+        "doubles": 2,
+        "hr": 0,
+        "avg": 0.438,
+        "ops": 1.007,
+        "prob_1p5_tb": 0.69,
+        "fair_odds": "-223",
+        "prob_4_tb": 0.189,
+        "fair_odds_4_tb": "+430"
+      },
+      "site": "Away",
+      "score": 100,
+      "score_wtb2": 100,
+      "score_tb4": 84,
+      "prob_1p5_tb_projected": 0.666,
+      "prob_4_tb_projected": 0.174,
+      "fair_odds_projected": "-200",
+      "fair_odds_4_tb_projected": "+475",
+      "score_weight_breakdown": {
+        "baseline": 40,
+        "h2h": 30,
+        "vs_hand": 10,
+        "home_away": 5,
+        "last7": 10,
+        "pitcher_vs_hand": 5
+      },
+      "gamePk": 825066,
+      "gameDate": "2026-06-30",
+      "opponentTeamName": "San Francisco Giants",
+      "probablePitcherName": "Brandon Pfaadt",
+      "lineup_confirmed": true
+    },
     {
       "id": 502671,
       "name": "Paul Goldschmidt",
@@ -144,7 +281,7 @@
       "id": 592518,
       "name": "Manny Machado",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/592518/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 571510,
         "name": "Matthew Boyd",
@@ -183,7 +320,7 @@
         }
       },
       "projectedBattingOrder": 3,
-      "confirmed": false,
+      "confirmed": true,
       "projected_pa": 4.5,
       "ops_vs_pitcher": {
         "pa": 17,
@@ -275,13 +412,13 @@
       "gameDate": "2026-06-30",
       "opponentTeamName": "San Diego Padres",
       "probablePitcherName": "Matthew Boyd",
-      "lineup_confirmed": false
+      "lineup_confirmed": true
     },
     {
       "id": 672640,
       "name": "Otto Lopez",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/672640/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 685299,
         "name": "Tanner Gordon",
@@ -418,7 +555,7 @@
       "id": 666126,
       "name": "Carlos Cortes",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/666126/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 680736,
         "name": "Justin Wrobleski",
@@ -826,10 +963,147 @@
       "lineup_confirmed": true
     },
     {
+      "id": 689414,
+      "name": "Liam Hicks",
+      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/689414/headshot/67/current",
+      "lineup_announced": true,
+      "probable_pitcher_splits": {
+        "id": 685299,
+        "name": "Tanner Gordon",
+        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/685299/headshot/67/current",
+        "hitsPer9Inn": 11.97,
+        "hitsPer9Inn_site": 14.33,
+        "walksPer9Inn": 2.04,
+        "expected_woba": 0.337,
+        "hand": "R",
+        "batterSideForGame": "LHB",
+        "prob_1p5_tb_vs_lhb": 0.675,
+        "prob_1p5_tb_vs_rhb": 0.497,
+        "prob_4_tb_vs_lhb": 0.371,
+        "prob_4_tb_vs_rhb": 0.085,
+        "fair_odds_vs_lhb": "-208",
+        "fair_odds_vs_rhb": "+101",
+        "fair_odds_4_tb_vs_lhb": "+169",
+        "fair_odds_4_tb_vs_rhb": "+1082",
+        "vs_lhb": {
+          "pa": 73,
+          "ab": 69,
+          "hits": 25,
+          "doubles": 7,
+          "hr": 6,
+          "avg": 0.362,
+          "ops": 1.122
+        },
+        "vs_rhb": {
+          "pa": 85,
+          "ab": 77,
+          "hits": 22,
+          "doubles": 9,
+          "hr": 0,
+          "avg": 0.286,
+          "ops": 0.728
+        }
+      },
+      "projectedBattingOrder": 1,
+      "confirmed": true,
+      "projected_pa": 4.73,
+      "ops_vs_pitcher": {
+        "pa": 3,
+        "ab": 3,
+        "hits": 1,
+        "doubles": 0,
+        "hr": 1,
+        "bb": 0,
+        "k": 1,
+        "avg": 0.333,
+        "ops": 1.666,
+        "prob_1p5_tb": 0.868,
+        "fair_odds": "-659",
+        "prob_4_tb": 0.874,
+        "fair_odds_4_tb": "-695"
+      },
+      "ops_vs_pitcher_ops_ab3": 1.666,
+      "ops_vs_pitcher_ops_ab5": null,
+      "ops_vs_pitcher_ops_ab10": null,
+      "wtb2_percent": 0.42,
+      "wtb4_percent": 0.113,
+      "prob_1p5_tb_overall": 0.467,
+      "prob_4_tb_overall": 0.129,
+      "fair_odds_overall": "+114",
+      "fair_odds_4_tb_overall": "+675",
+      "season_pa": 288,
+      "season_ab": 248,
+      "season_hits": 69,
+      "season_doubles": 7,
+      "season_hr": 13,
+      "season_avg": 0.278,
+      "season_ops": 0.831,
+      "ops_site": {
+        "pa": 143,
+        "ab": 123,
+        "hits": 32,
+        "doubles": 2,
+        "hr": 6,
+        "avg": 0.26,
+        "ops": 0.768,
+        "prob_1p5_tb": 0.414,
+        "fair_odds": "+142",
+        "prob_4_tb": 0.096,
+        "fair_odds_4_tb": "+939"
+      },
+      "ops_vs_pitcher_hand": {
+        "pa": 234,
+        "ab": 201,
+        "hits": 60,
+        "doubles": 7,
+        "hr": 12,
+        "avg": 0.299,
+        "ops": 0.898,
+        "prob_1p5_tb": 0.505,
+        "fair_odds": "-102",
+        "prob_4_tb": 0.158,
+        "fair_odds_4_tb": "+533"
+      },
+      "ops_last_7_days": {
+        "pa": 0,
+        "ab": null,
+        "hits": null,
+        "doubles": null,
+        "hr": null,
+        "avg": null,
+        "ops": null,
+        "prob_1p5_tb": null,
+        "fair_odds": null,
+        "prob_4_tb": null,
+        "fair_odds_4_tb": null
+      },
+      "site": "Away",
+      "score": 86,
+      "score_wtb2": 86,
+      "score_tb4": 93,
+      "prob_1p5_tb_projected": 0.533,
+      "prob_4_tb_projected": 0.205,
+      "fair_odds_projected": "-114",
+      "fair_odds_4_tb_projected": "+388",
+      "score_weight_breakdown": {
+        "baseline": 64,
+        "h2h": 7,
+        "vs_hand": 16,
+        "home_away": 8,
+        "last7": 0,
+        "pitcher_vs_hand": 5
+      },
+      "gamePk": 824338,
+      "gameDate": "2026-06-30",
+      "opponentTeamName": "Miami Marlins",
+      "probablePitcherName": "Tanner Gordon",
+      "lineup_confirmed": true
+    },
+    {
       "id": 664983,
       "name": "Jake McCarthy",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/664983/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 691587,
         "name": "Eury Pérez",
@@ -868,7 +1142,7 @@
         }
       },
       "projectedBattingOrder": 1,
-      "confirmed": false,
+      "confirmed": true,
       "projected_pa": 4.54,
       "ops_vs_pitcher": {
         "pa": 5,
@@ -960,7 +1234,7 @@
       "gameDate": "2026-06-30",
       "opponentTeamName": "Colorado Rockies",
       "probablePitcherName": "Eury Pérez",
-      "lineup_confirmed": false
+      "lineup_confirmed": true
     },
     {
       "id": 621439,
@@ -1514,7 +1788,7 @@
       "id": 665487,
       "name": "Fernando Tatis Jr.",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/665487/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 571510,
         "name": "Matthew Boyd",
@@ -1553,7 +1827,7 @@
         }
       },
       "projectedBattingOrder": 1,
-      "confirmed": false,
+      "confirmed": true,
       "projected_pa": 4.73,
       "ops_vs_pitcher": {
         "pa": 9,
@@ -1645,13 +1919,150 @@
       "gameDate": "2026-06-30",
       "opponentTeamName": "San Diego Padres",
       "probablePitcherName": "Matthew Boyd",
-      "lineup_confirmed": false
+      "lineup_confirmed": true
+    },
+    {
+      "id": 808982,
+      "name": "Jung Hoo Lee",
+      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/808982/headshot/67/current",
+      "lineup_announced": true,
+      "probable_pitcher_splits": {
+        "id": 694297,
+        "name": "Brandon Pfaadt",
+        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/694297/headshot/67/current",
+        "hitsPer9Inn": 9.47,
+        "hitsPer9Inn_site": 8.75,
+        "walksPer9Inn": 4.03,
+        "expected_woba": 0.352,
+        "hand": "R",
+        "batterSideForGame": "LHB",
+        "prob_1p5_tb_vs_lhb": 0.5,
+        "prob_1p5_tb_vs_rhb": 0.421,
+        "prob_4_tb_vs_lhb": 0.191,
+        "prob_4_tb_vs_rhb": 0.056,
+        "fair_odds_vs_lhb": "-100",
+        "fair_odds_vs_rhb": "+138",
+        "fair_odds_4_tb_vs_lhb": "+425",
+        "fair_odds_4_tb_vs_rhb": "+1671",
+        "vs_lhb": {
+          "pa": 92,
+          "ab": 79,
+          "hits": 25,
+          "doubles": 3,
+          "hr": 6,
+          "avg": 0.316,
+          "ops": 0.962
+        },
+        "vs_rhb": {
+          "pa": 79,
+          "ab": 69,
+          "hits": 15,
+          "doubles": 7,
+          "hr": 1,
+          "avg": 0.217,
+          "ops": 0.678
+        }
+      },
+      "projectedBattingOrder": 5,
+      "confirmed": true,
+      "projected_pa": 4.29,
+      "ops_vs_pitcher": {
+        "pa": 5,
+        "ab": 4,
+        "hits": 2,
+        "doubles": 0,
+        "hr": 0,
+        "bb": 0,
+        "k": 0,
+        "avg": 0.5,
+        "ops": 0.9,
+        "prob_1p5_tb": 0.525,
+        "fair_odds": "-110",
+        "prob_4_tb": 0.096,
+        "fair_odds_4_tb": "+946"
+      },
+      "ops_vs_pitcher_ops_ab3": 0.9,
+      "ops_vs_pitcher_ops_ab5": null,
+      "ops_vs_pitcher_ops_ab10": null,
+      "wtb2_percent": 0.524,
+      "wtb4_percent": 0.132,
+      "prob_1p5_tb_overall": 0.47,
+      "prob_4_tb_overall": 0.117,
+      "fair_odds_overall": "+113",
+      "fair_odds_4_tb_overall": "+755",
+      "season_pa": 306,
+      "season_ab": 287,
+      "season_hits": 92,
+      "season_doubles": 19,
+      "season_hr": 5,
+      "season_avg": 0.321,
+      "season_ops": 0.813,
+      "ops_site": {
+        "pa": 171,
+        "ab": 160,
+        "hits": 55,
+        "doubles": 13,
+        "hr": 3,
+        "avg": 0.344,
+        "ops": 0.874,
+        "prob_1p5_tb": 0.503,
+        "fair_odds": "-101",
+        "prob_4_tb": 0.131,
+        "fair_odds_4_tb": "+665"
+      },
+      "ops_vs_pitcher_hand": {
+        "pa": 214,
+        "ab": 201,
+        "hits": 65,
+        "doubles": 16,
+        "hr": 3,
+        "avg": 0.323,
+        "ops": 0.823,
+        "prob_1p5_tb": 0.475,
+        "fair_odds": "+111",
+        "prob_4_tb": 0.109,
+        "fair_odds_4_tb": "+814"
+      },
+      "ops_last_7_days": {
+        "pa": 25,
+        "ab": 24,
+        "hits": 6,
+        "doubles": 1,
+        "hr": 1,
+        "avg": 0.25,
+        "ops": 0.78,
+        "prob_1p5_tb": 0.385,
+        "fair_odds": "+159",
+        "prob_4_tb": 0.096,
+        "fair_odds_4_tb": "+946"
+      },
+      "site": "Away",
+      "score": 81,
+      "score_wtb2": 81,
+      "score_tb4": 72,
+      "prob_1p5_tb_projected": 0.496,
+      "prob_4_tb_projected": 0.116,
+      "fair_odds_projected": "+102",
+      "fair_odds_4_tb_projected": "+763",
+      "score_weight_breakdown": {
+        "baseline": 53.1,
+        "h2h": 12,
+        "vs_hand": 13.3,
+        "home_away": 6.6,
+        "last7": 10,
+        "pitcher_vs_hand": 5
+      },
+      "gamePk": 825066,
+      "gameDate": "2026-06-30",
+      "opponentTeamName": "San Francisco Giants",
+      "probablePitcherName": "Brandon Pfaadt",
+      "lineup_confirmed": true
     },
     {
       "id": 606466,
       "name": "Ketel Marte",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/606466/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 694738,
         "name": "Landen Roupp",
@@ -1690,7 +2101,7 @@
         }
       },
       "projectedBattingOrder": 1,
-      "confirmed": false,
+      "confirmed": true,
       "projected_pa": 4.54,
       "ops_vs_pitcher": {
         "pa": 10,
@@ -1782,7 +2193,7 @@
       "gameDate": "2026-06-30",
       "opponentTeamName": "Arizona Diamondbacks",
       "probablePitcherName": "Landen Roupp",
-      "lineup_confirmed": false
+      "lineup_confirmed": true
     },
     {
       "id": 665742,
@@ -2193,6 +2604,143 @@
       "gameDate": "2026-06-30",
       "opponentTeamName": "Tampa Bay Rays",
       "probablePitcherName": "Noah Cameron",
+      "lineup_confirmed": true
+    },
+    {
+      "id": 669065,
+      "name": "Kyle Stowers",
+      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/669065/headshot/67/current",
+      "lineup_announced": true,
+      "probable_pitcher_splits": {
+        "id": 685299,
+        "name": "Tanner Gordon",
+        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/685299/headshot/67/current",
+        "hitsPer9Inn": 11.97,
+        "hitsPer9Inn_site": 14.33,
+        "walksPer9Inn": 2.04,
+        "expected_woba": 0.337,
+        "hand": "R",
+        "batterSideForGame": "LHB",
+        "prob_1p5_tb_vs_lhb": 0.675,
+        "prob_1p5_tb_vs_rhb": 0.497,
+        "prob_4_tb_vs_lhb": 0.371,
+        "prob_4_tb_vs_rhb": 0.085,
+        "fair_odds_vs_lhb": "-208",
+        "fair_odds_vs_rhb": "+101",
+        "fair_odds_4_tb_vs_lhb": "+169",
+        "fair_odds_4_tb_vs_rhb": "+1082",
+        "vs_lhb": {
+          "pa": 73,
+          "ab": 69,
+          "hits": 25,
+          "doubles": 7,
+          "hr": 6,
+          "avg": 0.362,
+          "ops": 1.122
+        },
+        "vs_rhb": {
+          "pa": 85,
+          "ab": 77,
+          "hits": 22,
+          "doubles": 9,
+          "hr": 0,
+          "avg": 0.286,
+          "ops": 0.728
+        }
+      },
+      "projectedBattingOrder": 2,
+      "confirmed": true,
+      "projected_pa": 4.62,
+      "ops_vs_pitcher": {
+        "pa": 0,
+        "ab": null,
+        "hits": null,
+        "doubles": null,
+        "hr": null,
+        "bb": null,
+        "k": null,
+        "avg": null,
+        "ops": null,
+        "prob_1p5_tb": null,
+        "fair_odds": null,
+        "prob_4_tb": null,
+        "fair_odds_4_tb": null
+      },
+      "ops_vs_pitcher_ops_ab3": null,
+      "ops_vs_pitcher_ops_ab5": null,
+      "ops_vs_pitcher_ops_ab10": null,
+      "wtb2_percent": 0.42,
+      "wtb4_percent": 0.085,
+      "prob_1p5_tb_overall": 0.46,
+      "prob_4_tb_overall": 0.092,
+      "fair_odds_overall": "+117",
+      "fair_odds_4_tb_overall": "+991",
+      "season_pa": 257,
+      "season_ab": 224,
+      "season_hits": 51,
+      "season_doubles": 15,
+      "season_hr": 8,
+      "season_avg": 0.228,
+      "season_ops": 0.74,
+      "ops_site": {
+        "pa": 133,
+        "ab": 119,
+        "hits": 29,
+        "doubles": 9,
+        "hr": 3,
+        "avg": 0.244,
+        "ops": 0.73,
+        "prob_1p5_tb": 0.469,
+        "fair_odds": "+113",
+        "prob_4_tb": 0.083,
+        "fair_odds_4_tb": "+1099"
+      },
+      "ops_vs_pitcher_hand": {
+        "pa": 205,
+        "ab": 179,
+        "hits": 42,
+        "doubles": 11,
+        "hr": 7,
+        "avg": 0.235,
+        "ops": 0.764,
+        "prob_1p5_tb": 0.448,
+        "fair_odds": "+123",
+        "prob_4_tb": 0.088,
+        "fair_odds_4_tb": "+1031"
+      },
+      "ops_last_7_days": {
+        "pa": 26,
+        "ab": 23,
+        "hits": 6,
+        "doubles": 2,
+        "hr": 0,
+        "avg": 0.261,
+        "ops": 0.781,
+        "prob_1p5_tb": 0.461,
+        "fair_odds": "+117",
+        "prob_4_tb": 0.056,
+        "fair_odds_4_tb": "+1680"
+      },
+      "site": "Away",
+      "score": 80,
+      "score_wtb2": 80,
+      "score_tb4": 72,
+      "prob_1p5_tb_projected": 0.493,
+      "prob_4_tb_projected": 0.105,
+      "fair_odds_projected": "+103",
+      "fair_odds_4_tb_projected": "+850",
+      "score_weight_breakdown": {
+        "baseline": 61.8,
+        "h2h": 0,
+        "vs_hand": 15.5,
+        "home_away": 7.7,
+        "last7": 10,
+        "pitcher_vs_hand": 5
+      },
+      "gamePk": 824338,
+      "gameDate": "2026-06-30",
+      "opponentTeamName": "Miami Marlins",
+      "probablePitcherName": "Tanner Gordon",
       "lineup_confirmed": true
     },
     {
@@ -3152,6 +3700,7 @@
       "gameDate": "2026-06-30",
       "opponentTeamName": "Chicago White Sox",
       "probablePitcherName": "Trey Gibson",
+      "game_in_progress": true,
       "lineup_confirmed": true
     },
     {
@@ -3295,7 +3844,7 @@
       "id": 681624,
       "name": "Andy Pages",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/681624/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 605488,
         "name": "Jeffrey Springs",
@@ -3334,7 +3883,7 @@
         }
       },
       "projectedBattingOrder": 2,
-      "confirmed": false,
+      "confirmed": true,
       "projected_pa": 4.62,
       "ops_vs_pitcher": {
         "pa": 3,
@@ -3426,7 +3975,144 @@
       "gameDate": "2026-06-30",
       "opponentTeamName": "Los Angeles Dodgers",
       "probablePitcherName": "Jeffrey Springs",
-      "lineup_confirmed": false
+      "lineup_confirmed": true
+    },
+    {
+      "id": 608348,
+      "name": "Carson Kelly",
+      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/608348/headshot/67/current",
+      "lineup_announced": true,
+      "probable_pitcher_splits": {
+        "id": 676664,
+        "name": "JP Sears",
+        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/676664/headshot/67/current",
+        "hitsPer9Inn": 7.94,
+        "hitsPer9Inn_site": null,
+        "walksPer9Inn": 3.18,
+        "expected_woba": 0.338,
+        "hand": "L",
+        "batterSideForGame": "RHB",
+        "prob_1p5_tb_vs_lhb": 0.164,
+        "prob_1p5_tb_vs_rhb": 0.447,
+        "prob_4_tb_vs_lhb": 0.007,
+        "prob_4_tb_vs_rhb": 0.124,
+        "fair_odds_vs_lhb": "+509",
+        "fair_odds_vs_rhb": "+124",
+        "fair_odds_4_tb_vs_lhb": "+13613",
+        "fair_odds_4_tb_vs_rhb": "+704",
+        "vs_lhb": {
+          "pa": 6,
+          "ab": 6,
+          "hits": 1,
+          "doubles": 0,
+          "hr": 0,
+          "avg": 0.167,
+          "ops": 0.334
+        },
+        "vs_rhb": {
+          "pa": 19,
+          "ab": 17,
+          "hits": 4,
+          "doubles": 1,
+          "hr": 1,
+          "avg": 0.235,
+          "ops": 0.787
+        }
+      },
+      "projectedBattingOrder": 4,
+      "confirmed": true,
+      "projected_pa": 4.22,
+      "ops_vs_pitcher": {
+        "pa": 3,
+        "ab": 2,
+        "hits": 2,
+        "doubles": 1,
+        "hr": 0,
+        "bb": 1,
+        "k": 0,
+        "avg": 1,
+        "ops": 2.5,
+        "prob_1p5_tb": 0.938,
+        "fair_odds": "-1520",
+        "prob_4_tb": 0.608,
+        "fair_odds_4_tb": "-155"
+      },
+      "ops_vs_pitcher_ops_ab3": null,
+      "ops_vs_pitcher_ops_ab5": null,
+      "ops_vs_pitcher_ops_ab10": null,
+      "wtb2_percent": 0.41,
+      "wtb4_percent": 0.072,
+      "prob_1p5_tb_overall": 0.362,
+      "prob_4_tb_overall": 0.06,
+      "fair_odds_overall": "+177",
+      "fair_odds_4_tb_overall": "+1574",
+      "season_pa": 218,
+      "season_ab": 192,
+      "season_hits": 53,
+      "season_doubles": 10,
+      "season_hr": 4,
+      "season_avg": 0.276,
+      "season_ops": 0.753,
+      "ops_site": {
+        "pa": 107,
+        "ab": 94,
+        "hits": 28,
+        "doubles": 3,
+        "hr": 2,
+        "avg": 0.298,
+        "ops": 0.777,
+        "prob_1p5_tb": 0.357,
+        "fair_odds": "+180",
+        "prob_4_tb": 0.061,
+        "fair_odds_4_tb": "+1549"
+      },
+      "ops_vs_pitcher_hand": {
+        "pa": 77,
+        "ab": 67,
+        "hits": 22,
+        "doubles": 6,
+        "hr": 3,
+        "avg": 0.328,
+        "ops": 0.968,
+        "prob_1p5_tb": 0.494,
+        "fair_odds": "+103",
+        "prob_4_tb": 0.148,
+        "fair_odds_4_tb": "+576"
+      },
+      "ops_last_7_days": {
+        "pa": 19,
+        "ab": 15,
+        "hits": 3,
+        "doubles": 3,
+        "hr": 0,
+        "avg": 0.2,
+        "ops": 0.768,
+        "prob_1p5_tb": 0.497,
+        "fair_odds": "+101",
+        "prob_4_tb": 0.046,
+        "fair_odds_4_tb": "+2054"
+      },
+      "site": "Home",
+      "score": 77,
+      "score_wtb2": 77,
+      "score_tb4": 73,
+      "prob_1p5_tb_projected": 0.499,
+      "prob_4_tb_projected": 0.145,
+      "fair_odds_projected": "+100",
+      "fair_odds_4_tb_projected": "+590",
+      "score_weight_breakdown": {
+        "baseline": 14.2,
+        "h2h": 7,
+        "vs_hand": 56.7,
+        "home_away": 7.1,
+        "last7": 10,
+        "pitcher_vs_hand": 5
+      },
+      "gamePk": 824661,
+      "gameDate": "2026-06-30",
+      "opponentTeamName": "Chicago Cubs",
+      "probablePitcherName": "JP Sears",
+      "lineup_confirmed": true
     },
     {
       "id": 691023,
@@ -3569,7 +4255,7 @@
       "id": 609280,
       "name": "Miguel Andujar",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/609280/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 571510,
         "name": "Matthew Boyd",
@@ -3608,7 +4294,7 @@
         }
       },
       "projectedBattingOrder": 4,
-      "confirmed": false,
+      "confirmed": true,
       "projected_pa": 4.4,
       "ops_vs_pitcher": {
         "pa": 5,
@@ -3700,13 +4386,13 @@
       "gameDate": "2026-06-30",
       "opponentTeamName": "San Diego Padres",
       "probablePitcherName": "Matthew Boyd",
-      "lineup_confirmed": false
+      "lineup_confirmed": true
     },
     {
       "id": 518692,
       "name": "Freddie Freeman",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/518692/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 605488,
         "name": "Jeffrey Springs",
@@ -3745,7 +4431,7 @@
         }
       },
       "projectedBattingOrder": 3,
-      "confirmed": false,
+      "confirmed": true,
       "projected_pa": 4.5,
       "ops_vs_pitcher": {
         "pa": 5,
@@ -3837,13 +4523,13 @@
       "gameDate": "2026-06-30",
       "opponentTeamName": "Los Angeles Dodgers",
       "probablePitcherName": "Jeffrey Springs",
-      "lineup_confirmed": false
+      "lineup_confirmed": true
     },
     {
       "id": 680869,
       "name": "Zack Gelof",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/680869/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 680736,
         "name": "Justin Wrobleski",
@@ -3977,147 +4663,147 @@
       "lineup_confirmed": false
     },
     {
-      "id": 669065,
-      "name": "Kyle Stowers",
-      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/669065/headshot/67/current",
-      "lineup_announced": false,
+      "id": 805811,
+      "name": "Bryce Eldridge",
+      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/805811/headshot/67/current",
+      "lineup_announced": true,
       "probable_pitcher_splits": {
-        "id": 685299,
-        "name": "Tanner Gordon",
-        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/685299/headshot/67/current",
-        "hitsPer9Inn": 11.97,
-        "hitsPer9Inn_site": 14.33,
-        "walksPer9Inn": 2.04,
-        "expected_woba": 0.337,
+        "id": 694297,
+        "name": "Brandon Pfaadt",
+        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/694297/headshot/67/current",
+        "hitsPer9Inn": 9.47,
+        "hitsPer9Inn_site": 8.75,
+        "walksPer9Inn": 4.03,
+        "expected_woba": 0.352,
         "hand": "R",
         "batterSideForGame": "LHB",
-        "prob_1p5_tb_vs_lhb": 0.675,
-        "prob_1p5_tb_vs_rhb": 0.497,
-        "prob_4_tb_vs_lhb": 0.371,
-        "prob_4_tb_vs_rhb": 0.085,
-        "fair_odds_vs_lhb": "-208",
-        "fair_odds_vs_rhb": "+101",
-        "fair_odds_4_tb_vs_lhb": "+169",
-        "fair_odds_4_tb_vs_rhb": "+1082",
+        "prob_1p5_tb_vs_lhb": 0.5,
+        "prob_1p5_tb_vs_rhb": 0.421,
+        "prob_4_tb_vs_lhb": 0.191,
+        "prob_4_tb_vs_rhb": 0.056,
+        "fair_odds_vs_lhb": "-100",
+        "fair_odds_vs_rhb": "+138",
+        "fair_odds_4_tb_vs_lhb": "+425",
+        "fair_odds_4_tb_vs_rhb": "+1671",
         "vs_lhb": {
-          "pa": 73,
-          "ab": 69,
+          "pa": 92,
+          "ab": 79,
           "hits": 25,
-          "doubles": 7,
+          "doubles": 3,
           "hr": 6,
-          "avg": 0.362,
-          "ops": 1.122
+          "avg": 0.316,
+          "ops": 0.962
         },
         "vs_rhb": {
-          "pa": 85,
-          "ab": 77,
-          "hits": 22,
-          "doubles": 9,
-          "hr": 0,
-          "avg": 0.286,
-          "ops": 0.728
+          "pa": 79,
+          "ab": 69,
+          "hits": 15,
+          "doubles": 7,
+          "hr": 1,
+          "avg": 0.217,
+          "ops": 0.678
         }
       },
-      "projectedBattingOrder": 3,
-      "confirmed": false,
-      "projected_pa": 4.5,
+      "projectedBattingOrder": 2,
+      "confirmed": true,
+      "projected_pa": 4.62,
       "ops_vs_pitcher": {
-        "pa": 0,
-        "ab": null,
-        "hits": null,
-        "doubles": null,
-        "hr": null,
-        "bb": null,
-        "k": null,
-        "avg": null,
-        "ops": null,
-        "prob_1p5_tb": null,
-        "fair_odds": null,
-        "prob_4_tb": null,
-        "fair_odds_4_tb": null
+        "pa": 3,
+        "ab": 3,
+        "hits": 0,
+        "doubles": 0,
+        "hr": 0,
+        "bb": 0,
+        "k": 2,
+        "avg": 0,
+        "ops": 0,
+        "prob_1p5_tb": 0,
+        "fair_odds": "+999900",
+        "prob_4_tb": 0,
+        "fair_odds_4_tb": "+999900"
       },
-      "ops_vs_pitcher_ops_ab3": null,
+      "ops_vs_pitcher_ops_ab3": 0,
       "ops_vs_pitcher_ops_ab5": null,
       "ops_vs_pitcher_ops_ab10": null,
-      "wtb2_percent": 0.42,
-      "wtb4_percent": 0.085,
-      "prob_1p5_tb_overall": 0.42,
-      "prob_4_tb_overall": 0.085,
-      "fair_odds_overall": "+138",
-      "fair_odds_4_tb_overall": "+1073",
-      "season_pa": 257,
-      "season_ab": 224,
-      "season_hits": 51,
-      "season_doubles": 15,
-      "season_hr": 8,
-      "season_avg": 0.228,
-      "season_ops": 0.74,
+      "wtb2_percent": 0.476,
+      "wtb4_percent": 0.123,
+      "prob_1p5_tb_overall": 0.523,
+      "prob_4_tb_overall": 0.132,
+      "fair_odds_overall": "-109",
+      "fair_odds_4_tb_overall": "+660",
+      "season_pa": 167,
+      "season_ab": 144,
+      "season_hits": 41,
+      "season_doubles": 11,
+      "season_hr": 6,
+      "season_avg": 0.285,
+      "season_ops": 0.863,
       "ops_site": {
-        "pa": 133,
-        "ab": 119,
-        "hits": 29,
-        "doubles": 9,
-        "hr": 3,
-        "avg": 0.244,
-        "ops": 0.73,
-        "prob_1p5_tb": 0.425,
-        "fair_odds": "+135",
-        "prob_4_tb": 0.077,
-        "fair_odds_4_tb": "+1191"
+        "pa": 87,
+        "ab": 77,
+        "hits": 24,
+        "doubles": 6,
+        "hr": 2,
+        "avg": 0.312,
+        "ops": 0.847,
+        "prob_1p5_tb": 0.548,
+        "fair_odds": "-121",
+        "prob_4_tb": 0.127,
+        "fair_odds_4_tb": "+685"
       },
       "ops_vs_pitcher_hand": {
-        "pa": 205,
-        "ab": 179,
-        "hits": 42,
-        "doubles": 11,
-        "hr": 7,
-        "avg": 0.235,
-        "ops": 0.764,
-        "prob_1p5_tb": 0.407,
-        "fair_odds": "+146",
-        "prob_4_tb": 0.082,
-        "fair_odds_4_tb": "+1116"
+        "pa": 127,
+        "ab": 108,
+        "hits": 31,
+        "doubles": 8,
+        "hr": 5,
+        "avg": 0.287,
+        "ops": 0.886,
+        "prob_1p5_tb": 0.522,
+        "fair_odds": "-109",
+        "prob_4_tb": 0.137,
+        "fair_odds_4_tb": "+633"
       },
       "ops_last_7_days": {
-        "pa": 26,
-        "ab": 23,
-        "hits": 6,
+        "pa": 23,
+        "ab": 20,
+        "hits": 4,
         "doubles": 2,
         "hr": 0,
-        "avg": 0.261,
-        "ops": 0.781,
-        "prob_1p5_tb": 0.416,
-        "fair_odds": "+141",
-        "prob_4_tb": 0.052,
-        "fair_odds_4_tb": "+1823"
+        "avg": 0.2,
+        "ops": 0.604,
+        "prob_1p5_tb": 0.413,
+        "fair_odds": "+142",
+        "prob_4_tb": 0.034,
+        "fair_odds_4_tb": "+2822"
       },
       "site": "Away",
-      "score": 75,
-      "score_wtb2": 75,
-      "score_tb4": 71,
-      "prob_1p5_tb_projected": 0.452,
-      "prob_4_tb_projected": 0.099,
-      "fair_odds_projected": "+121",
-      "fair_odds_4_tb_projected": "+910",
+      "score": 76,
+      "score_wtb2": 76,
+      "score_tb4": 66,
+      "prob_1p5_tb_projected": 0.499,
+      "prob_4_tb_projected": 0.114,
+      "fair_odds_projected": "+100",
+      "fair_odds_4_tb_projected": "+774",
       "score_weight_breakdown": {
-        "baseline": 61.8,
-        "h2h": 0,
-        "vs_hand": 15.5,
-        "home_away": 7.7,
+        "baseline": 56.7,
+        "h2h": 7,
+        "vs_hand": 14.2,
+        "home_away": 7.1,
         "last7": 10,
         "pitcher_vs_hand": 5
       },
-      "gamePk": 824338,
+      "gamePk": 825066,
       "gameDate": "2026-06-30",
-      "opponentTeamName": "Miami Marlins",
-      "probablePitcherName": "Tanner Gordon",
-      "lineup_confirmed": false
+      "opponentTeamName": "San Francisco Giants",
+      "probablePitcherName": "Brandon Pfaadt",
+      "lineup_confirmed": true
     },
     {
       "id": 660271,
       "name": "Shohei Ohtani",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/660271/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 605488,
         "name": "Jeffrey Springs",
@@ -4156,7 +4842,7 @@
         }
       },
       "projectedBattingOrder": 1,
-      "confirmed": false,
+      "confirmed": true,
       "projected_pa": 4.73,
       "ops_vs_pitcher": {
         "pa": 10,
@@ -4248,7 +4934,7 @@
       "gameDate": "2026-06-30",
       "opponentTeamName": "Los Angeles Dodgers",
       "probablePitcherName": "Jeffrey Springs",
-      "lineup_confirmed": false
+      "lineup_confirmed": true
     },
     {
       "id": 803011,
@@ -4385,6 +5071,7 @@
       "gameDate": "2026-06-30",
       "opponentTeamName": "Chicago White Sox",
       "probablePitcherName": "Trey Gibson",
+      "game_in_progress": true,
       "lineup_confirmed": false
     },
     {
@@ -4528,7 +5215,7 @@
       "id": 681198,
       "name": "TJ Rumfield",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/681198/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 691587,
         "name": "Eury Pérez",
@@ -4567,7 +5254,7 @@
         }
       },
       "projectedBattingOrder": 4,
-      "confirmed": false,
+      "confirmed": true,
       "projected_pa": 4.22,
       "ops_vs_pitcher": {
         "pa": 3,
@@ -4659,6 +5346,143 @@
       "gameDate": "2026-06-30",
       "opponentTeamName": "Colorado Rockies",
       "probablePitcherName": "Eury Pérez",
+      "lineup_confirmed": true
+    },
+    {
+      "id": 642715,
+      "name": "Willy Adames",
+      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/642715/headshot/67/current",
+      "lineup_announced": true,
+      "probable_pitcher_splits": {
+        "id": 694297,
+        "name": "Brandon Pfaadt",
+        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/694297/headshot/67/current",
+        "hitsPer9Inn": 9.47,
+        "hitsPer9Inn_site": 8.75,
+        "walksPer9Inn": 4.03,
+        "expected_woba": 0.352,
+        "hand": "R",
+        "batterSideForGame": "RHB",
+        "prob_1p5_tb_vs_lhb": 0.5,
+        "prob_1p5_tb_vs_rhb": 0.421,
+        "prob_4_tb_vs_lhb": 0.191,
+        "prob_4_tb_vs_rhb": 0.056,
+        "fair_odds_vs_lhb": "-100",
+        "fair_odds_vs_rhb": "+138",
+        "fair_odds_4_tb_vs_lhb": "+425",
+        "fair_odds_4_tb_vs_rhb": "+1671",
+        "vs_lhb": {
+          "pa": 92,
+          "ab": 79,
+          "hits": 25,
+          "doubles": 3,
+          "hr": 6,
+          "avg": 0.316,
+          "ops": 0.962
+        },
+        "vs_rhb": {
+          "pa": 79,
+          "ab": 69,
+          "hits": 15,
+          "doubles": 7,
+          "hr": 1,
+          "avg": 0.217,
+          "ops": 0.678
+        }
+      },
+      "projectedBattingOrder": 6,
+      "confirmed": false,
+      "projected_pa": 4.18,
+      "ops_vs_pitcher": {
+        "pa": 11,
+        "ab": 8,
+        "hits": 3,
+        "doubles": 1,
+        "hr": 1,
+        "bb": 3,
+        "k": 0,
+        "avg": 0.375,
+        "ops": 1.42,
+        "prob_1p5_tb": 0.58,
+        "fair_odds": "-138",
+        "prob_4_tb": 0.277,
+        "fair_odds_4_tb": "+261"
+      },
+      "ops_vs_pitcher_ops_ab3": 1.42,
+      "ops_vs_pitcher_ops_ab5": 1.42,
+      "ops_vs_pitcher_ops_ab10": null,
+      "wtb2_percent": 0.446,
+      "wtb4_percent": 0.111,
+      "prob_1p5_tb_overall": 0.403,
+      "prob_4_tb_overall": 0.091,
+      "fair_odds_overall": "+148",
+      "fair_odds_4_tb_overall": "+996",
+      "season_pa": 342,
+      "season_ab": 321,
+      "season_hits": 74,
+      "season_doubles": 20,
+      "season_hr": 14,
+      "season_avg": 0.231,
+      "season_ops": 0.705,
+      "ops_site": {
+        "pa": 182,
+        "ab": 170,
+        "hits": 42,
+        "doubles": 8,
+        "hr": 11,
+        "avg": 0.247,
+        "ops": 0.779,
+        "prob_1p5_tb": 0.42,
+        "fair_odds": "+138",
+        "prob_4_tb": 0.126,
+        "fair_odds_4_tb": "+691"
+      },
+      "ops_vs_pitcher_hand": {
+        "pa": 250,
+        "ab": 236,
+        "hits": 59,
+        "doubles": 16,
+        "hr": 11,
+        "avg": 0.25,
+        "ops": 0.746,
+        "prob_1p5_tb": 0.431,
+        "fair_odds": "+132",
+        "prob_4_tb": 0.11,
+        "fair_odds_4_tb": "+812"
+      },
+      "ops_last_7_days": {
+        "pa": 23,
+        "ab": 21,
+        "hits": 7,
+        "doubles": 2,
+        "hr": 1,
+        "avg": 0.333,
+        "ops": 0.962,
+        "prob_1p5_tb": 0.532,
+        "fair_odds": "-114",
+        "prob_4_tb": 0.177,
+        "fair_odds_4_tb": "+465"
+      },
+      "site": "Away",
+      "score": 74,
+      "score_wtb2": 74,
+      "score_tb4": 73,
+      "prob_1p5_tb_projected": 0.458,
+      "prob_4_tb_projected": 0.134,
+      "fair_odds_projected": "+118",
+      "fair_odds_4_tb_projected": "+645",
+      "score_weight_breakdown": {
+        "baseline": 46.5,
+        "h2h": 21,
+        "vs_hand": 11.6,
+        "home_away": 5.8,
+        "last7": 10,
+        "pitcher_vs_hand": 5
+      },
+      "gamePk": 825066,
+      "gameDate": "2026-06-30",
+      "opponentTeamName": "San Francisco Giants",
+      "probablePitcherName": "Brandon Pfaadt",
       "lineup_confirmed": false
     },
     {
@@ -4802,7 +5626,7 @@
       "id": 663538,
       "name": "Nico Hoerner",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/663538/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 676664,
         "name": "JP Sears",
@@ -4841,7 +5665,7 @@
         }
       },
       "projectedBattingOrder": 6,
-      "confirmed": false,
+      "confirmed": true,
       "projected_pa": 4.01,
       "ops_vs_pitcher": {
         "pa": 0,
@@ -4933,7 +5757,7 @@
       "gameDate": "2026-06-30",
       "opponentTeamName": "Chicago Cubs",
       "probablePitcherName": "JP Sears",
-      "lineup_confirmed": false
+      "lineup_confirmed": true
     },
     {
       "id": 607208,
@@ -5350,7 +6174,7 @@
       "id": 664034,
       "name": "Ty France",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/664034/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 571510,
         "name": "Matthew Boyd",
@@ -5389,7 +6213,7 @@
         }
       },
       "projectedBattingOrder": 5,
-      "confirmed": false,
+      "confirmed": true,
       "projected_pa": 4.29,
       "ops_vs_pitcher": {
         "pa": 10,
@@ -5481,7 +6305,144 @@
       "gameDate": "2026-06-30",
       "opponentTeamName": "San Diego Padres",
       "probablePitcherName": "Matthew Boyd",
-      "lineup_confirmed": false
+      "lineup_confirmed": true
+    },
+    {
+      "id": 646240,
+      "name": "Rafael Devers",
+      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/646240/headshot/67/current",
+      "lineup_announced": true,
+      "probable_pitcher_splits": {
+        "id": 694297,
+        "name": "Brandon Pfaadt",
+        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/694297/headshot/67/current",
+        "hitsPer9Inn": 9.47,
+        "hitsPer9Inn_site": 8.75,
+        "walksPer9Inn": 4.03,
+        "expected_woba": 0.352,
+        "hand": "R",
+        "batterSideForGame": "LHB",
+        "prob_1p5_tb_vs_lhb": 0.5,
+        "prob_1p5_tb_vs_rhb": 0.421,
+        "prob_4_tb_vs_lhb": 0.191,
+        "prob_4_tb_vs_rhb": 0.056,
+        "fair_odds_vs_lhb": "-100",
+        "fair_odds_vs_rhb": "+138",
+        "fair_odds_4_tb_vs_lhb": "+425",
+        "fair_odds_4_tb_vs_rhb": "+1671",
+        "vs_lhb": {
+          "pa": 92,
+          "ab": 79,
+          "hits": 25,
+          "doubles": 3,
+          "hr": 6,
+          "avg": 0.316,
+          "ops": 0.962
+        },
+        "vs_rhb": {
+          "pa": 79,
+          "ab": 69,
+          "hits": 15,
+          "doubles": 7,
+          "hr": 1,
+          "avg": 0.217,
+          "ops": 0.678
+        }
+      },
+      "projectedBattingOrder": 4,
+      "confirmed": true,
+      "projected_pa": 4.4,
+      "ops_vs_pitcher": {
+        "pa": 7,
+        "ab": 6,
+        "hits": 0,
+        "doubles": 0,
+        "hr": 0,
+        "bb": 1,
+        "k": 1,
+        "avg": 0,
+        "ops": 0.143,
+        "prob_1p5_tb": 0,
+        "fair_odds": "+999900",
+        "prob_4_tb": 0,
+        "fair_odds_4_tb": "+999900"
+      },
+      "ops_vs_pitcher_ops_ab3": 0.143,
+      "ops_vs_pitcher_ops_ab5": 0.143,
+      "ops_vs_pitcher_ops_ab10": null,
+      "wtb2_percent": 0.464,
+      "wtb4_percent": 0.117,
+      "prob_1p5_tb_overall": 0.421,
+      "prob_4_tb_overall": 0.11,
+      "fair_odds_overall": "+138",
+      "fair_odds_4_tb_overall": "+807",
+      "season_pa": 355,
+      "season_ab": 325,
+      "season_hits": 78,
+      "season_doubles": 24,
+      "season_hr": 14,
+      "season_avg": 0.24,
+      "season_ops": 0.748,
+      "ops_site": {
+        "pa": 193,
+        "ab": 173,
+        "hits": 43,
+        "doubles": 14,
+        "hr": 5,
+        "avg": 0.249,
+        "ops": 0.749,
+        "prob_1p5_tb": 0.402,
+        "fair_odds": "+149",
+        "prob_4_tb": 0.085,
+        "fair_odds_4_tb": "+1082"
+      },
+      "ops_vs_pitcher_hand": {
+        "pa": 230,
+        "ab": 210,
+        "hits": 56,
+        "doubles": 20,
+        "hr": 11,
+        "avg": 0.267,
+        "ops": 0.851,
+        "prob_1p5_tb": 0.484,
+        "fair_odds": "+107",
+        "prob_4_tb": 0.159,
+        "fair_odds_4_tb": "+531"
+      },
+      "ops_last_7_days": {
+        "pa": 27,
+        "ab": 27,
+        "hits": 7,
+        "doubles": 1,
+        "hr": 3,
+        "avg": 0.259,
+        "ops": 0.889,
+        "prob_1p5_tb": 0.518,
+        "fair_odds": "-108",
+        "prob_4_tb": 0.301,
+        "fair_odds_4_tb": "+232"
+      },
+      "site": "Away",
+      "score": 72,
+      "score_wtb2": 72,
+      "score_tb4": 77,
+      "prob_1p5_tb_projected": 0.423,
+      "prob_4_tb_projected": 0.14,
+      "fair_odds_projected": "+137",
+      "fair_odds_4_tb_projected": "+615",
+      "score_weight_breakdown": {
+        "baseline": 12.7,
+        "h2h": 15,
+        "vs_hand": 50.9,
+        "home_away": 6.4,
+        "last7": 10,
+        "pitcher_vs_hand": 5
+      },
+      "gamePk": 825066,
+      "gameDate": "2026-06-30",
+      "opponentTeamName": "San Francisco Giants",
+      "probablePitcherName": "Brandon Pfaadt",
+      "lineup_confirmed": true
     },
     {
       "id": 694671,
@@ -6035,7 +6996,7 @@
       "id": 669364,
       "name": "Xavier Edwards",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/669364/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 685299,
         "name": "Tanner Gordon",
@@ -6074,7 +7035,7 @@
         }
       },
       "projectedBattingOrder": 4,
-      "confirmed": false,
+      "confirmed": true,
       "projected_pa": 4.4,
       "ops_vs_pitcher": {
         "pa": 0,
@@ -6166,144 +7127,144 @@
       "gameDate": "2026-06-30",
       "opponentTeamName": "Miami Marlins",
       "probablePitcherName": "Tanner Gordon",
-      "lineup_confirmed": false
+      "lineup_confirmed": true
     },
     {
-      "id": 687859,
-      "name": "Troy Johnston",
-      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/687859/headshot/67/current",
-      "lineup_announced": false,
+      "id": 683357,
+      "name": "Owen Caissie",
+      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/683357/headshot/67/current",
+      "lineup_announced": true,
       "probable_pitcher_splits": {
-        "id": 691587,
-        "name": "Eury Pérez",
-        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/691587/headshot/67/current",
-        "hitsPer9Inn": 7.22,
-        "hitsPer9Inn_site": 8.58,
-        "walksPer9Inn": 3.74,
-        "expected_woba": 0.341,
+        "id": 685299,
+        "name": "Tanner Gordon",
+        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/685299/headshot/67/current",
+        "hitsPer9Inn": 11.97,
+        "hitsPer9Inn_site": 14.33,
+        "walksPer9Inn": 2.04,
+        "expected_woba": 0.337,
         "hand": "R",
         "batterSideForGame": "LHB",
-        "prob_1p5_tb_vs_lhb": 0.381,
-        "prob_1p5_tb_vs_rhb": 0.468,
-        "prob_4_tb_vs_lhb": 0.056,
-        "prob_4_tb_vs_rhb": 0.159,
-        "fair_odds_vs_lhb": "+163",
-        "fair_odds_vs_rhb": "+114",
-        "fair_odds_4_tb_vs_lhb": "+1676",
-        "fair_odds_4_tb_vs_rhb": "+529",
+        "prob_1p5_tb_vs_lhb": 0.675,
+        "prob_1p5_tb_vs_rhb": 0.497,
+        "prob_4_tb_vs_lhb": 0.371,
+        "prob_4_tb_vs_rhb": 0.085,
+        "fair_odds_vs_lhb": "-208",
+        "fair_odds_vs_rhb": "+101",
+        "fair_odds_4_tb_vs_lhb": "+169",
+        "fair_odds_4_tb_vs_rhb": "+1082",
         "vs_lhb": {
-          "pa": 155,
-          "ab": 135,
-          "hits": 29,
-          "doubles": 9,
-          "hr": 3,
-          "avg": 0.215,
-          "ops": 0.673
+          "pa": 73,
+          "ab": 69,
+          "hits": 25,
+          "doubles": 7,
+          "hr": 6,
+          "avg": 0.362,
+          "ops": 1.122
         },
         "vs_rhb": {
-          "pa": 125,
-          "ab": 111,
-          "hits": 25,
-          "doubles": 6,
-          "hr": 9,
-          "avg": 0.225,
-          "ops": 0.835
+          "pa": 85,
+          "ab": 77,
+          "hits": 22,
+          "doubles": 9,
+          "hr": 0,
+          "avg": 0.286,
+          "ops": 0.728
         }
       },
       "projectedBattingOrder": 6,
-      "confirmed": false,
-      "projected_pa": 4.01,
+      "confirmed": true,
+      "projected_pa": 4.18,
       "ops_vs_pitcher": {
-        "pa": 3,
-        "ab": 3,
-        "hits": 1,
-        "doubles": 0,
-        "hr": 0,
-        "bb": 0,
-        "k": 1,
-        "avg": 0.333,
-        "ops": 0.666,
-        "prob_1p5_tb": 0.407,
-        "fair_odds": "+145",
-        "prob_4_tb": 0.047,
-        "fair_odds_4_tb": "+2035"
+        "pa": 0,
+        "ab": null,
+        "hits": null,
+        "doubles": null,
+        "hr": null,
+        "bb": null,
+        "k": null,
+        "avg": null,
+        "ops": null,
+        "prob_1p5_tb": null,
+        "fair_odds": null,
+        "prob_4_tb": null,
+        "fair_odds_4_tb": null
       },
-      "ops_vs_pitcher_ops_ab3": 0.666,
+      "ops_vs_pitcher_ops_ab3": null,
       "ops_vs_pitcher_ops_ab5": null,
       "ops_vs_pitcher_ops_ab10": null,
-      "wtb2_percent": 0.494,
-      "wtb4_percent": 0.1,
-      "prob_1p5_tb_overall": 0.442,
-      "prob_4_tb_overall": 0.072,
-      "fair_odds_overall": "+126",
-      "fair_odds_4_tb_overall": "+1279",
-      "season_pa": 284,
-      "season_ab": 253,
-      "season_hits": 79,
-      "season_doubles": 22,
-      "season_hr": 3,
-      "season_avg": 0.312,
-      "season_ops": 0.813,
+      "wtb2_percent": 0.424,
+      "wtb4_percent": 0.098,
+      "prob_1p5_tb_overall": 0.382,
+      "prob_4_tb_overall": 0.08,
+      "fair_odds_overall": "+162",
+      "fair_odds_4_tb_overall": "+1149",
+      "season_pa": 226,
+      "season_ab": 201,
+      "season_hits": 48,
+      "season_doubles": 12,
+      "season_hr": 9,
+      "season_avg": 0.239,
+      "season_ops": 0.729,
       "ops_site": {
-        "pa": 145,
-        "ab": 130,
-        "hits": 43,
-        "doubles": 13,
-        "hr": 1,
-        "avg": 0.331,
-        "ops": 0.847,
-        "prob_1p5_tb": 0.477,
-        "fair_odds": "+110",
-        "prob_4_tb": 0.083,
-        "fair_odds_4_tb": "+1101"
+        "pa": 104,
+        "ab": 94,
+        "hits": 20,
+        "doubles": 5,
+        "hr": 4,
+        "avg": 0.213,
+        "ops": 0.673,
+        "prob_1p5_tb": 0.351,
+        "fair_odds": "+185",
+        "prob_4_tb": 0.064,
+        "fair_odds_4_tb": "+1462"
       },
       "ops_vs_pitcher_hand": {
-        "pa": 220,
-        "ab": 194,
-        "hits": 66,
-        "doubles": 19,
-        "hr": 2,
-        "avg": 0.34,
-        "ops": 0.883,
-        "prob_1p5_tb": 0.479,
-        "fair_odds": "+109",
-        "prob_4_tb": 0.087,
-        "fair_odds_4_tb": "+1048"
+        "pa": 195,
+        "ab": 174,
+        "hits": 42,
+        "doubles": 10,
+        "hr": 9,
+        "avg": 0.241,
+        "ops": 0.751,
+        "prob_1p5_tb": 0.393,
+        "fair_odds": "+154",
+        "prob_4_tb": 0.092,
+        "fair_odds_4_tb": "+984"
       },
       "ops_last_7_days": {
-        "pa": 18,
-        "ab": 16,
+        "pa": 15,
+        "ab": 14,
         "hits": 6,
         "doubles": 1,
-        "hr": 0,
-        "avg": 0.375,
-        "ops": 0.882,
-        "prob_1p5_tb": 0.473,
-        "fair_odds": "+111",
-        "prob_4_tb": 0.073,
-        "fair_odds_4_tb": "+1264"
+        "hr": 1,
+        "avg": 0.429,
+        "ops": 1.181,
+        "prob_1p5_tb": 0.64,
+        "fair_odds": "-178",
+        "prob_4_tb": 0.305,
+        "fair_odds_4_tb": "+228"
       },
-      "site": "Home",
+      "site": "Away",
       "score": 71,
       "score_wtb2": 71,
-      "score_tb4": 54,
-      "prob_1p5_tb_projected": 0.439,
-      "prob_4_tb_projected": 0.069,
-      "fair_odds_projected": "+128",
-      "fair_odds_4_tb_projected": "+1346",
+      "score_tb4": 73,
+      "prob_1p5_tb_projected": 0.435,
+      "prob_4_tb_projected": 0.117,
+      "fair_odds_projected": "+130",
+      "fair_odds_4_tb_projected": "+758",
       "score_weight_breakdown": {
-        "baseline": 56.7,
-        "h2h": 7,
-        "vs_hand": 14.2,
-        "home_away": 7.1,
-        "last7": 10,
+        "baseline": 64,
+        "h2h": 0,
+        "vs_hand": 16,
+        "home_away": 8,
+        "last7": 7,
         "pitcher_vs_hand": 5
       },
       "gamePk": 824338,
       "gameDate": "2026-06-30",
-      "opponentTeamName": "Colorado Rockies",
-      "probablePitcherName": "Eury Pérez",
-      "lineup_confirmed": false
+      "opponentTeamName": "Miami Marlins",
+      "probablePitcherName": "Tanner Gordon",
+      "lineup_confirmed": true
     },
     {
       "id": 666176,
@@ -6577,6 +7538,7 @@
       "gameDate": "2026-06-30",
       "opponentTeamName": "Baltimore Orioles",
       "probablePitcherName": "Erick Fedde",
+      "game_in_progress": true,
       "lineup_confirmed": true
     },
     {
@@ -6857,7 +7819,7 @@
       "id": 641487,
       "name": "J.P. Crawford",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/641487/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 667755,
         "name": "José Soriano",
@@ -6896,7 +7858,7 @@
         }
       },
       "projectedBattingOrder": 1,
-      "confirmed": false,
+      "confirmed": true,
       "projected_pa": 4.54,
       "ops_vs_pitcher": {
         "pa": 16,
@@ -6988,13 +7950,13 @@
       "gameDate": "2026-06-30",
       "opponentTeamName": "Seattle Mariners",
       "probablePitcherName": "José Soriano",
-      "lineup_confirmed": false
+      "lineup_confirmed": true
     },
     {
       "id": 677594,
       "name": "Julio Rodríguez",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/677594/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 667755,
         "name": "José Soriano",
@@ -7033,7 +7995,7 @@
         }
       },
       "projectedBattingOrder": 2,
-      "confirmed": false,
+      "confirmed": true,
       "projected_pa": 4.43,
       "ops_vs_pitcher": {
         "pa": 17,
@@ -7125,7 +8087,7 @@
       "gameDate": "2026-06-30",
       "opponentTeamName": "Seattle Mariners",
       "probablePitcherName": "José Soriano",
-      "lineup_confirmed": false
+      "lineup_confirmed": true
     },
     {
       "id": 683002,
@@ -7262,6 +8224,7 @@
       "gameDate": "2026-06-30",
       "opponentTeamName": "Baltimore Orioles",
       "probablePitcherName": "Erick Fedde",
+      "game_in_progress": true,
       "lineup_confirmed": true
     },
     {
@@ -7399,6 +8362,143 @@
       "gameDate": "2026-06-30",
       "opponentTeamName": "New York Mets",
       "probablePitcherName": "Kevin Gausman",
+      "lineup_confirmed": true
+    },
+    {
+      "id": 676391,
+      "name": "Ernie Clement",
+      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/676391/headshot/67/current",
+      "lineup_announced": true,
+      "probable_pitcher_splits": {
+        "id": 690997,
+        "name": "Nolan McLean",
+        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/690997/headshot/67/current",
+        "hitsPer9Inn": 6.65,
+        "hitsPer9Inn_site": 5.71,
+        "walksPer9Inn": 3.43,
+        "expected_woba": 0.288,
+        "hand": "R",
+        "batterSideForGame": "RHB",
+        "prob_1p5_tb_vs_lhb": 0.384,
+        "prob_1p5_tb_vs_rhb": 0.28,
+        "prob_4_tb_vs_lhb": 0.067,
+        "prob_4_tb_vs_rhb": 0.03,
+        "fair_odds_vs_lhb": "+160",
+        "fair_odds_vs_rhb": "+258",
+        "fair_odds_4_tb_vs_lhb": "+1403",
+        "fair_odds_4_tb_vs_rhb": "+3251",
+        "vs_lhb": {
+          "pa": 212,
+          "ab": 182,
+          "hits": 42,
+          "doubles": 11,
+          "hr": 6,
+          "avg": 0.231,
+          "ops": 0.72
+        },
+        "vs_rhb": {
+          "pa": 160,
+          "ab": 142,
+          "hits": 24,
+          "doubles": 5,
+          "hr": 4,
+          "avg": 0.169,
+          "ops": 0.547
+        }
+      },
+      "projectedBattingOrder": 5,
+      "confirmed": true,
+      "projected_pa": 4.12,
+      "ops_vs_pitcher": {
+        "pa": 0,
+        "ab": null,
+        "hits": null,
+        "doubles": null,
+        "hr": null,
+        "bb": null,
+        "k": null,
+        "avg": null,
+        "ops": null,
+        "prob_1p5_tb": null,
+        "fair_odds": null,
+        "prob_4_tb": null,
+        "fair_odds_4_tb": null
+      },
+      "ops_vs_pitcher_ops_ab3": null,
+      "ops_vs_pitcher_ops_ab5": null,
+      "ops_vs_pitcher_ops_ab10": null,
+      "wtb2_percent": 0.507,
+      "wtb4_percent": 0.125,
+      "prob_1p5_tb_overall": 0.455,
+      "prob_4_tb_overall": 0.099,
+      "fair_odds_overall": "+120",
+      "fair_odds_4_tb_overall": "+909",
+      "season_pa": 327,
+      "season_ab": 314,
+      "season_hits": 94,
+      "season_doubles": 21,
+      "season_hr": 7,
+      "season_avg": 0.299,
+      "season_ops": 0.76,
+      "ops_site": {
+        "pa": 186,
+        "ab": 177,
+        "hits": 55,
+        "doubles": 11,
+        "hr": 6,
+        "avg": 0.311,
+        "ops": 0.819,
+        "prob_1p5_tb": 0.468,
+        "fair_odds": "+113",
+        "prob_4_tb": 0.119,
+        "fair_odds_4_tb": "+743"
+      },
+      "ops_vs_pitcher_hand": {
+        "pa": 227,
+        "ab": 221,
+        "hits": 68,
+        "doubles": 16,
+        "hr": 4,
+        "avg": 0.308,
+        "ops": 0.756,
+        "prob_1p5_tb": 0.469,
+        "fair_odds": "+113",
+        "prob_4_tb": 0.1,
+        "fair_odds_4_tb": "+904"
+      },
+      "ops_last_7_days": {
+        "pa": 21,
+        "ab": 20,
+        "hits": 8,
+        "doubles": 1,
+        "hr": 0,
+        "avg": 0.4,
+        "ops": 0.879,
+        "prob_1p5_tb": 0.537,
+        "fair_odds": "-116",
+        "prob_4_tb": 0.103,
+        "fair_odds_4_tb": "+868"
+      },
+      "site": "Home",
+      "score": 69,
+      "score_wtb2": 69,
+      "score_tb4": 62,
+      "prob_1p5_tb_projected": 0.434,
+      "prob_4_tb_projected": 0.093,
+      "fair_odds_projected": "+130",
+      "fair_odds_4_tb_projected": "+978",
+      "score_weight_breakdown": {
+        "baseline": 61.8,
+        "h2h": 0,
+        "vs_hand": 15.5,
+        "home_away": 7.7,
+        "last7": 10,
+        "pitcher_vs_hand": 5
+      },
+      "gamePk": 822793,
+      "gameDate": "2026-06-30",
+      "opponentTeamName": "Toronto Blue Jays",
+      "probablePitcherName": "Nolan McLean",
       "lineup_confirmed": true
     },
     {
@@ -8364,7 +9464,7 @@
       "id": 669127,
       "name": "Shea Langeliers",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/669127/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 680736,
         "name": "Justin Wrobleski",
@@ -8402,9 +9502,9 @@
           "ops": 0.537
         }
       },
-      "projectedBattingOrder": 3,
-      "confirmed": false,
-      "projected_pa": 4.32,
+      "projectedBattingOrder": 2,
+      "confirmed": true,
+      "projected_pa": 4.43,
       "ops_vs_pitcher": {
         "pa": 1,
         "ab": 1,
@@ -8417,8 +9517,8 @@
         "ops": 2,
         "prob_1p5_tb": 1,
         "fair_odds": "-999900",
-        "prob_4_tb": 0.626,
-        "fair_odds_4_tb": "-168"
+        "prob_4_tb": 0.646,
+        "fair_odds_4_tb": "-182"
       },
       "ops_vs_pitcher_ops_ab3": null,
       "ops_vs_pitcher_ops_ab5": null,
@@ -8426,9 +9526,9 @@
       "wtb2_percent": 0.464,
       "wtb4_percent": 0.144,
       "prob_1p5_tb_overall": 0.418,
-      "prob_4_tb_overall": 0.13,
+      "prob_4_tb_overall": 0.139,
       "fair_odds_overall": "+139",
-      "fair_odds_4_tb_overall": "+670",
+      "fair_odds_4_tb_overall": "+622",
       "season_pa": 352,
       "season_ab": 319,
       "season_hits": 84,
@@ -8446,8 +9546,8 @@
         "ops": 0.876,
         "prob_1p5_tb": 0.453,
         "fair_odds": "+121",
-        "prob_4_tb": 0.149,
-        "fair_odds_4_tb": "+572"
+        "prob_4_tb": 0.158,
+        "fair_odds_4_tb": "+531"
       },
       "ops_vs_pitcher_hand": {
         "pa": 97,
@@ -8459,8 +9559,8 @@
         "ops": 1.017,
         "prob_1p5_tb": 0.517,
         "fair_odds": "-107",
-        "prob_4_tb": 0.232,
-        "fair_odds_4_tb": "+332"
+        "prob_4_tb": 0.245,
+        "fair_odds_4_tb": "+308"
       },
       "ops_last_7_days": {
         "pa": 31,
@@ -8473,16 +9573,16 @@
         "prob_1p5_tb": 0.125,
         "fair_odds": "+703",
         "prob_4_tb": 0.006,
-        "fair_odds_4_tb": "+17560"
+        "fair_odds_4_tb": "+16093"
       },
       "site": "Home",
       "score": 69,
       "score_wtb2": 69,
-      "score_tb4": 81,
+      "score_tb4": 83,
       "prob_1p5_tb_projected": 0.419,
-      "prob_4_tb_projected": 0.168,
+      "prob_4_tb_projected": 0.178,
       "fair_odds_projected": "+139",
-      "fair_odds_4_tb_projected": "+495",
+      "fair_odds_4_tb_projected": "+463",
       "score_weight_breakdown": {
         "baseline": 15.1,
         "h2h": 2,
@@ -8495,7 +9595,144 @@
       "gameDate": "2026-06-30",
       "opponentTeamName": "Athletics",
       "probablePitcherName": "Justin Wrobleski",
-      "lineup_confirmed": false
+      "lineup_confirmed": true
+    },
+    {
+      "id": 669477,
+      "name": "Casey Schmitt",
+      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/669477/headshot/67/current",
+      "lineup_announced": true,
+      "probable_pitcher_splits": {
+        "id": 694297,
+        "name": "Brandon Pfaadt",
+        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/694297/headshot/67/current",
+        "hitsPer9Inn": 9.47,
+        "hitsPer9Inn_site": 8.75,
+        "walksPer9Inn": 4.03,
+        "expected_woba": 0.352,
+        "hand": "R",
+        "batterSideForGame": "RHB",
+        "prob_1p5_tb_vs_lhb": 0.5,
+        "prob_1p5_tb_vs_rhb": 0.421,
+        "prob_4_tb_vs_lhb": 0.191,
+        "prob_4_tb_vs_rhb": 0.056,
+        "fair_odds_vs_lhb": "-100",
+        "fair_odds_vs_rhb": "+138",
+        "fair_odds_4_tb_vs_lhb": "+425",
+        "fair_odds_4_tb_vs_rhb": "+1671",
+        "vs_lhb": {
+          "pa": 92,
+          "ab": 79,
+          "hits": 25,
+          "doubles": 3,
+          "hr": 6,
+          "avg": 0.316,
+          "ops": 0.962
+        },
+        "vs_rhb": {
+          "pa": 79,
+          "ab": 69,
+          "hits": 15,
+          "doubles": 7,
+          "hr": 1,
+          "avg": 0.217,
+          "ops": 0.678
+        }
+      },
+      "projectedBattingOrder": 3,
+      "confirmed": true,
+      "projected_pa": 4.5,
+      "ops_vs_pitcher": {
+        "pa": 4,
+        "ab": 3,
+        "hits": 0,
+        "doubles": 0,
+        "hr": 0,
+        "bb": 0,
+        "k": 1,
+        "avg": 0,
+        "ops": 0,
+        "prob_1p5_tb": 0,
+        "fair_odds": "+999900",
+        "prob_4_tb": 0,
+        "fair_odds_4_tb": "+999900"
+      },
+      "ops_vs_pitcher_ops_ab3": 0,
+      "ops_vs_pitcher_ops_ab5": null,
+      "ops_vs_pitcher_ops_ab10": null,
+      "wtb2_percent": 0.504,
+      "wtb4_percent": 0.17,
+      "prob_1p5_tb_overall": 0.504,
+      "prob_4_tb_overall": 0.17,
+      "fair_odds_overall": "-102",
+      "fair_odds_4_tb_overall": "+489",
+      "season_pa": 317,
+      "season_ab": 300,
+      "season_hits": 86,
+      "season_doubles": 15,
+      "season_hr": 16,
+      "season_avg": 0.287,
+      "season_ops": 0.815,
+      "ops_site": {
+        "pa": 185,
+        "ab": 178,
+        "hits": 58,
+        "doubles": 10,
+        "hr": 9,
+        "avg": 0.326,
+        "ops": 0.886,
+        "prob_1p5_tb": 0.559,
+        "fair_odds": "-127",
+        "prob_4_tb": 0.203,
+        "fair_odds_4_tb": "+393"
+      },
+      "ops_vs_pitcher_hand": {
+        "pa": 227,
+        "ab": 213,
+        "hits": 56,
+        "doubles": 10,
+        "hr": 13,
+        "avg": 0.263,
+        "ops": 0.797,
+        "prob_1p5_tb": 0.476,
+        "fair_odds": "+110",
+        "prob_4_tb": 0.158,
+        "fair_odds_4_tb": "+533"
+      },
+      "ops_last_7_days": {
+        "pa": 24,
+        "ab": 23,
+        "hits": 4,
+        "doubles": 0,
+        "hr": 0,
+        "avg": 0.174,
+        "ops": 0.341,
+        "prob_1p5_tb": 0.164,
+        "fair_odds": "+509",
+        "prob_4_tb": 0.007,
+        "fair_odds_4_tb": "+13613"
+      },
+      "site": "Away",
+      "score": 69,
+      "score_wtb2": 69,
+      "score_tb4": 71,
+      "prob_1p5_tb_projected": 0.413,
+      "prob_4_tb_projected": 0.123,
+      "fair_odds_projected": "+142",
+      "fair_odds_4_tb_projected": "+712",
+      "score_weight_breakdown": {
+        "baseline": 55.3,
+        "h2h": 9,
+        "vs_hand": 13.8,
+        "home_away": 6.9,
+        "last7": 10,
+        "pitcher_vs_hand": 5
+      },
+      "gamePk": 825066,
+      "gameDate": "2026-06-30",
+      "opponentTeamName": "San Francisco Giants",
+      "probablePitcherName": "Brandon Pfaadt",
+      "lineup_confirmed": true
     },
     {
       "id": 641343,
@@ -8775,7 +10012,7 @@
       "id": 696100,
       "name": "Hunter Goodman",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/696100/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 691587,
         "name": "Eury Pérez",
@@ -8814,7 +10051,7 @@
         }
       },
       "projectedBattingOrder": 3,
-      "confirmed": false,
+      "confirmed": true,
       "projected_pa": 4.32,
       "ops_vs_pitcher": {
         "pa": 5,
@@ -8906,13 +10143,13 @@
       "gameDate": "2026-06-30",
       "opponentTeamName": "Colorado Rockies",
       "probablePitcherName": "Eury Pérez",
-      "lineup_confirmed": false
+      "lineup_confirmed": true
     },
     {
       "id": 672515,
       "name": "Gabriel Moreno",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/672515/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 694738,
         "name": "Landen Roupp",
@@ -8951,7 +10188,7 @@
         }
       },
       "projectedBattingOrder": 4,
-      "confirmed": false,
+      "confirmed": true,
       "projected_pa": 4.22,
       "ops_vs_pitcher": {
         "pa": 6,
@@ -9043,7 +10280,7 @@
       "gameDate": "2026-06-30",
       "opponentTeamName": "Arizona Diamondbacks",
       "probablePitcherName": "Landen Roupp",
-      "lineup_confirmed": false
+      "lineup_confirmed": true
     },
     {
       "id": 643217,
@@ -9180,6 +10417,7 @@
       "gameDate": "2026-06-30",
       "opponentTeamName": "Chicago White Sox",
       "probablePitcherName": "Trey Gibson",
+      "game_in_progress": true,
       "lineup_confirmed": true
     },
     {
@@ -9597,7 +10835,7 @@
       "id": 691718,
       "name": "Pete Crow-Armstrong",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/691718/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 676664,
         "name": "JP Sears",
@@ -9636,7 +10874,7 @@
         }
       },
       "projectedBattingOrder": 1,
-      "confirmed": false,
+      "confirmed": true,
       "projected_pa": 4.54,
       "ops_vs_pitcher": {
         "pa": 0,
@@ -9728,7 +10966,144 @@
       "gameDate": "2026-06-30",
       "opponentTeamName": "Chicago Cubs",
       "probablePitcherName": "JP Sears",
-      "lineup_confirmed": false
+      "lineup_confirmed": true
+    },
+    {
+      "id": 671218,
+      "name": "Heliot Ramos",
+      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/671218/headshot/67/current",
+      "lineup_announced": true,
+      "probable_pitcher_splits": {
+        "id": 694297,
+        "name": "Brandon Pfaadt",
+        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/694297/headshot/67/current",
+        "hitsPer9Inn": 9.47,
+        "hitsPer9Inn_site": 8.75,
+        "walksPer9Inn": 4.03,
+        "expected_woba": 0.352,
+        "hand": "R",
+        "batterSideForGame": "RHB",
+        "prob_1p5_tb_vs_lhb": 0.5,
+        "prob_1p5_tb_vs_rhb": 0.421,
+        "prob_4_tb_vs_lhb": 0.191,
+        "prob_4_tb_vs_rhb": 0.056,
+        "fair_odds_vs_lhb": "-100",
+        "fair_odds_vs_rhb": "+138",
+        "fair_odds_4_tb_vs_lhb": "+425",
+        "fair_odds_4_tb_vs_rhb": "+1671",
+        "vs_lhb": {
+          "pa": 92,
+          "ab": 79,
+          "hits": 25,
+          "doubles": 3,
+          "hr": 6,
+          "avg": 0.316,
+          "ops": 0.962
+        },
+        "vs_rhb": {
+          "pa": 79,
+          "ab": 69,
+          "hits": 15,
+          "doubles": 7,
+          "hr": 1,
+          "avg": 0.217,
+          "ops": 0.678
+        }
+      },
+      "projectedBattingOrder": 6,
+      "confirmed": true,
+      "projected_pa": 4.18,
+      "ops_vs_pitcher": {
+        "pa": 12,
+        "ab": 12,
+        "hits": 4,
+        "doubles": 1,
+        "hr": 0,
+        "bb": 0,
+        "k": 1,
+        "avg": 0.333,
+        "ops": 0.75,
+        "prob_1p5_tb": 0.506,
+        "fair_odds": "-103",
+        "prob_4_tb": 0.1,
+        "fair_odds_4_tb": "+905"
+      },
+      "ops_vs_pitcher_ops_ab3": 0.75,
+      "ops_vs_pitcher_ops_ab5": 0.75,
+      "ops_vs_pitcher_ops_ab10": 0.75,
+      "wtb2_percent": 0.474,
+      "wtb4_percent": 0.114,
+      "prob_1p5_tb_overall": 0.427,
+      "prob_4_tb_overall": 0.094,
+      "fair_odds_overall": "+134",
+      "fair_odds_4_tb_overall": "+967",
+      "season_pa": 184,
+      "season_ab": 172,
+      "season_hits": 46,
+      "season_doubles": 12,
+      "season_hr": 5,
+      "season_avg": 0.267,
+      "season_ops": 0.746,
+      "ops_site": {
+        "pa": 97,
+        "ab": 89,
+        "hits": 23,
+        "doubles": 8,
+        "hr": 3,
+        "avg": 0.258,
+        "ops": 0.758,
+        "prob_1p5_tb": 0.442,
+        "fair_odds": "+126",
+        "prob_4_tb": 0.097,
+        "fair_odds_4_tb": "+933"
+      },
+      "ops_vs_pitcher_hand": {
+        "pa": 136,
+        "ab": 127,
+        "hits": 33,
+        "doubles": 8,
+        "hr": 4,
+        "avg": 0.26,
+        "ops": 0.718,
+        "prob_1p5_tb": 0.403,
+        "fair_odds": "+148",
+        "prob_4_tb": 0.083,
+        "fair_odds_4_tb": "+1107"
+      },
+      "ops_last_7_days": {
+        "pa": 8,
+        "ab": 7,
+        "hits": 2,
+        "doubles": 0,
+        "hr": 1,
+        "avg": 0.286,
+        "ops": 1.089,
+        "prob_1p5_tb": 0.473,
+        "fair_odds": "+112",
+        "prob_4_tb": 0.267,
+        "fair_odds_4_tb": "+275"
+      },
+      "site": "Away",
+      "score": 67,
+      "score_wtb2": 67,
+      "score_tb4": 58,
+      "prob_1p5_tb_projected": 0.444,
+      "prob_4_tb_projected": 0.094,
+      "fair_odds_projected": "+125",
+      "fair_odds_4_tb_projected": "+964",
+      "score_weight_breakdown": {
+        "baseline": 50.2,
+        "h2h": 22,
+        "vs_hand": 12.5,
+        "home_away": 6.3,
+        "last7": 4,
+        "pitcher_vs_hand": 5
+      },
+      "gamePk": 825066,
+      "gameDate": "2026-06-30",
+      "opponentTeamName": "San Francisco Giants",
+      "probablePitcherName": "Brandon Pfaadt",
+      "lineup_confirmed": true
     },
     {
       "id": 575929,
@@ -10556,7 +11931,7 @@
       "id": 673548,
       "name": "Seiya Suzuki",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/673548/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 676664,
         "name": "JP Sears",
@@ -10595,7 +11970,7 @@
         }
       },
       "projectedBattingOrder": 3,
-      "confirmed": false,
+      "confirmed": true,
       "projected_pa": 4.32,
       "ops_vs_pitcher": {
         "pa": 0,
@@ -10687,7 +12062,7 @@
       "gameDate": "2026-06-30",
       "opponentTeamName": "Chicago Cubs",
       "probablePitcherName": "JP Sears",
-      "lineup_confirmed": false
+      "lineup_confirmed": true
     },
     {
       "id": 605137,
@@ -10967,7 +12342,7 @@
       "id": 641680,
       "name": "Jonah Heim",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/641680/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 680736,
         "name": "Justin Wrobleski",
@@ -11006,7 +12381,7 @@
         }
       },
       "projectedBattingOrder": 4,
-      "confirmed": false,
+      "confirmed": true,
       "projected_pa": 4.22,
       "ops_vs_pitcher": {
         "pa": 0,
@@ -11098,7 +12473,7 @@
       "gameDate": "2026-06-30",
       "opponentTeamName": "Athletics",
       "probablePitcherName": "Justin Wrobleski",
-      "lineup_confirmed": false
+      "lineup_confirmed": true
     },
     {
       "id": 687263,
@@ -11509,6 +12884,7 @@
       "gameDate": "2026-06-30",
       "opponentTeamName": "Baltimore Orioles",
       "probablePitcherName": "Erick Fedde",
+      "game_in_progress": true,
       "lineup_confirmed": true
     },
     {
@@ -11789,7 +13165,7 @@
       "id": 669743,
       "name": "Alex Call",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/669743/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 605488,
         "name": "Jeffrey Springs",
@@ -12194,6 +13570,7 @@
       "gameDate": "2026-06-30",
       "opponentTeamName": "Chicago White Sox",
       "probablePitcherName": "Trey Gibson",
+      "game_in_progress": true,
       "lineup_confirmed": false
     },
     {
@@ -12748,7 +14125,7 @@
       "id": 663656,
       "name": "Kyle Tucker",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/663656/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 605488,
         "name": "Jeffrey Springs",
@@ -12787,7 +14164,7 @@
         }
       },
       "projectedBattingOrder": 6,
-      "confirmed": false,
+      "confirmed": true,
       "projected_pa": 4.18,
       "ops_vs_pitcher": {
         "pa": 2,
@@ -12879,13 +14256,13 @@
       "gameDate": "2026-06-30",
       "opponentTeamName": "Los Angeles Dodgers",
       "probablePitcherName": "Jeffrey Springs",
-      "lineup_confirmed": false
+      "lineup_confirmed": true
     },
     {
       "id": 703607,
       "name": "Henry Bolte",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/703607/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 680736,
         "name": "Justin Wrobleski",
@@ -12924,7 +14301,7 @@
         }
       },
       "projectedBattingOrder": 1,
-      "confirmed": false,
+      "confirmed": true,
       "projected_pa": 4.54,
       "ops_vs_pitcher": {
         "pa": 0,
@@ -13016,7 +14393,7 @@
       "gameDate": "2026-06-30",
       "opponentTeamName": "Athletics",
       "probablePitcherName": "Justin Wrobleski",
-      "lineup_confirmed": false
+      "lineup_confirmed": true
     },
     {
       "id": 700250,
@@ -13707,7 +15084,7 @@
       "id": 608324,
       "name": "Alex Bregman",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/608324/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 676664,
         "name": "JP Sears",
@@ -13745,9 +15122,9 @@
           "ops": 0.787
         }
       },
-      "projectedBattingOrder": 4,
-      "confirmed": false,
-      "projected_pa": 4.22,
+      "projectedBattingOrder": 2,
+      "confirmed": true,
+      "projected_pa": 4.43,
       "ops_vs_pitcher": {
         "pa": 22,
         "ab": 20,
@@ -13760,8 +15137,8 @@
         "ops": 1.159,
         "prob_1p5_tb": 0.611,
         "fair_odds": "-157",
-        "prob_4_tb": 0.325,
-        "fair_odds_4_tb": "+207"
+        "prob_4_tb": 0.357,
+        "fair_odds_4_tb": "+180"
       },
       "ops_vs_pitcher_ops_ab3": 1.159,
       "ops_vs_pitcher_ops_ab5": 1.159,
@@ -13769,9 +15146,9 @@
       "wtb2_percent": 0.33,
       "wtb4_percent": 0.043,
       "prob_1p5_tb_overall": 0.287,
-      "prob_4_tb_overall": 0.036,
+      "prob_4_tb_overall": 0.041,
       "fair_odds_overall": "+248",
-      "fair_odds_4_tb_overall": "+2703",
+      "fair_odds_4_tb_overall": "+2318",
       "season_pa": 380,
       "season_ab": 326,
       "season_hits": 79,
@@ -13789,8 +15166,8 @@
         "ops": 0.62,
         "prob_1p5_tb": 0.231,
         "fair_odds": "+333",
-        "prob_4_tb": 0.019,
-        "fair_odds_4_tb": "+5175"
+        "prob_4_tb": 0.022,
+        "fair_odds_4_tb": "+4414"
       },
       "ops_vs_pitcher_hand": {
         "pa": 97,
@@ -13802,8 +15179,8 @@
         "ops": 0.649,
         "prob_1p5_tb": 0.196,
         "fair_odds": "+410",
-        "prob_4_tb": 0.016,
-        "fair_odds_4_tb": "+5971"
+        "prob_4_tb": 0.019,
+        "fair_odds_4_tb": "+5087"
       },
       "ops_last_7_days": {
         "pa": 33,
@@ -13815,17 +15192,17 @@
         "ops": 0.495,
         "prob_1p5_tb": 0.157,
         "fair_odds": "+538",
-        "prob_4_tb": 0.004,
-        "fair_odds_4_tb": "+23714"
+        "prob_4_tb": 0.005,
+        "fair_odds_4_tb": "+20003"
       },
       "site": "Home",
       "score": 60,
       "score_wtb2": 60,
-      "score_tb4": 69,
+      "score_tb4": 72,
       "prob_1p5_tb_projected": 0.333,
-      "prob_4_tb_projected": 0.107,
+      "prob_4_tb_projected": 0.117,
       "fair_odds_projected": "+200",
-      "fair_odds_4_tb_projected": "+838",
+      "fair_odds_4_tb_projected": "+752",
       "score_weight_breakdown": {
         "baseline": 10,
         "h2h": 30,
@@ -13838,7 +15215,7 @@
       "gameDate": "2026-06-30",
       "opponentTeamName": "Chicago Cubs",
       "probablePitcherName": "JP Sears",
-      "lineup_confirmed": false
+      "lineup_confirmed": true
     },
     {
       "id": 685133,
@@ -13981,7 +15358,7 @@
       "id": 666971,
       "name": "Lourdes Gurriel Jr.",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/666971/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 694738,
         "name": "Landen Roupp",
@@ -14020,7 +15397,7 @@
         }
       },
       "projectedBattingOrder": 5,
-      "confirmed": false,
+      "confirmed": true,
       "projected_pa": 4.12,
       "ops_vs_pitcher": {
         "pa": 5,
@@ -14112,7 +15489,7 @@
       "gameDate": "2026-06-30",
       "opponentTeamName": "Arizona Diamondbacks",
       "probablePitcherName": "Landen Roupp",
-      "lineup_confirmed": false
+      "lineup_confirmed": true
     },
     {
       "id": 695657,
@@ -14249,6 +15626,7 @@
       "gameDate": "2026-06-30",
       "opponentTeamName": "Chicago White Sox",
       "probablePitcherName": "Trey Gibson",
+      "game_in_progress": true,
       "lineup_confirmed": true
     },
     {
@@ -14940,7 +16318,7 @@
       "id": 807713,
       "name": "Matt Shaw",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/807713/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 676664,
         "name": "JP Sears",
@@ -15211,147 +16589,10 @@
       "lineup_confirmed": true
     },
     {
-      "id": 805300,
-      "name": "Jakob Marsee",
-      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/805300/headshot/67/current",
-      "lineup_announced": false,
-      "probable_pitcher_splits": {
-        "id": 685299,
-        "name": "Tanner Gordon",
-        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/685299/headshot/67/current",
-        "hitsPer9Inn": 11.97,
-        "hitsPer9Inn_site": 14.33,
-        "walksPer9Inn": 2.04,
-        "expected_woba": 0.337,
-        "hand": "R",
-        "batterSideForGame": "LHB",
-        "prob_1p5_tb_vs_lhb": 0.675,
-        "prob_1p5_tb_vs_rhb": 0.497,
-        "prob_4_tb_vs_lhb": 0.371,
-        "prob_4_tb_vs_rhb": 0.085,
-        "fair_odds_vs_lhb": "-208",
-        "fair_odds_vs_rhb": "+101",
-        "fair_odds_4_tb_vs_lhb": "+169",
-        "fair_odds_4_tb_vs_rhb": "+1082",
-        "vs_lhb": {
-          "pa": 73,
-          "ab": 69,
-          "hits": 25,
-          "doubles": 7,
-          "hr": 6,
-          "avg": 0.362,
-          "ops": 1.122
-        },
-        "vs_rhb": {
-          "pa": 85,
-          "ab": 77,
-          "hits": 22,
-          "doubles": 9,
-          "hr": 0,
-          "avg": 0.286,
-          "ops": 0.728
-        }
-      },
-      "projectedBattingOrder": 1,
-      "confirmed": false,
-      "projected_pa": 4.73,
-      "ops_vs_pitcher": {
-        "pa": 3,
-        "ab": 3,
-        "hits": 0,
-        "doubles": 0,
-        "hr": 0,
-        "bb": 0,
-        "k": 1,
-        "avg": 0,
-        "ops": 0,
-        "prob_1p5_tb": 0,
-        "fair_odds": "+999900",
-        "prob_4_tb": 0,
-        "fair_odds_4_tb": "+999900"
-      },
-      "ops_vs_pitcher_ops_ab3": 0,
-      "ops_vs_pitcher_ops_ab5": null,
-      "ops_vs_pitcher_ops_ab10": null,
-      "wtb2_percent": 0.282,
-      "wtb4_percent": 0.026,
-      "prob_1p5_tb_overall": 0.316,
-      "prob_4_tb_overall": 0.031,
-      "fair_odds_overall": "+216",
-      "fair_odds_4_tb_overall": "+3142",
-      "season_pa": 345,
-      "season_ab": 290,
-      "season_hits": 56,
-      "season_doubles": 11,
-      "season_hr": 4,
-      "season_avg": 0.193,
-      "season_ops": 0.606,
-      "ops_site": {
-        "pa": 172,
-        "ab": 150,
-        "hits": 30,
-        "doubles": 7,
-        "hr": 2,
-        "avg": 0.2,
-        "ops": 0.611,
-        "prob_1p5_tb": 0.333,
-        "fair_odds": "+200",
-        "prob_4_tb": 0.032,
-        "fair_odds_4_tb": "+2999"
-      },
-      "ops_vs_pitcher_hand": {
-        "pa": 267,
-        "ab": 228,
-        "hits": 47,
-        "doubles": 10,
-        "hr": 3,
-        "avg": 0.206,
-        "ops": 0.612,
-        "prob_1p5_tb": 0.327,
-        "fair_odds": "+206",
-        "prob_4_tb": 0.031,
-        "fair_odds_4_tb": "+3109"
-      },
-      "ops_last_7_days": {
-        "pa": 26,
-        "ab": 23,
-        "hits": 2,
-        "doubles": 1,
-        "hr": 0,
-        "avg": 0.087,
-        "ops": 0.322,
-        "prob_1p5_tb": 0.19,
-        "fair_odds": "+426",
-        "prob_4_tb": 0.002,
-        "fair_odds_4_tb": "+41588"
-      },
-      "site": "Away",
-      "score": 59,
-      "score_wtb2": 59,
-      "score_tb4": 45,
-      "prob_1p5_tb_projected": 0.312,
-      "prob_4_tb_projected": 0.044,
-      "fair_odds_projected": "+221",
-      "fair_odds_4_tb_projected": "+2196",
-      "score_weight_breakdown": {
-        "baseline": 56.7,
-        "h2h": 7,
-        "vs_hand": 14.2,
-        "home_away": 7.1,
-        "last7": 10,
-        "pitcher_vs_hand": 5
-      },
-      "gamePk": 824338,
-      "gameDate": "2026-06-30",
-      "opponentTeamName": "Miami Marlins",
-      "probablePitcherName": "Tanner Gordon",
-      "lineup_confirmed": false
-    },
-    {
       "id": 701762,
       "name": "Nick Kurtz",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/701762/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 680736,
         "name": "Justin Wrobleski",
@@ -15389,9 +16630,9 @@
           "ops": 0.537
         }
       },
-      "projectedBattingOrder": 2,
-      "confirmed": false,
-      "projected_pa": 4.43,
+      "projectedBattingOrder": 3,
+      "confirmed": true,
+      "projected_pa": 4.32,
       "ops_vs_pitcher": {
         "pa": 1,
         "ab": 1,
@@ -15413,9 +16654,9 @@
       "wtb2_percent": 0.434,
       "wtb4_percent": 0.122,
       "prob_1p5_tb_overall": 0.39,
-      "prob_4_tb_overall": 0.117,
+      "prob_4_tb_overall": 0.109,
       "fair_odds_overall": "+157",
-      "fair_odds_4_tb_overall": "+757",
+      "fair_odds_4_tb_overall": "+816",
       "season_pa": 381,
       "season_ab": 305,
       "season_hits": 85,
@@ -15433,8 +16674,8 @@
         "ops": 1.088,
         "prob_1p5_tb": 0.444,
         "fair_odds": "+125",
-        "prob_4_tb": 0.172,
-        "fair_odds_4_tb": "+480"
+        "prob_4_tb": 0.162,
+        "fair_odds_4_tb": "+517"
       },
       "ops_vs_pitcher_hand": {
         "pa": 130,
@@ -15446,8 +16687,8 @@
         "ops": 0.836,
         "prob_1p5_tb": 0.356,
         "fair_odds": "+181",
-        "prob_4_tb": 0.099,
-        "fair_odds_4_tb": "+911"
+        "prob_4_tb": 0.092,
+        "fair_odds_4_tb": "+982"
       },
       "ops_last_7_days": {
         "pa": 28,
@@ -15460,16 +16701,16 @@
         "prob_1p5_tb": 0.1,
         "fair_odds": "+896",
         "prob_4_tb": 0.004,
-        "fair_odds_4_tb": "+24587"
+        "fair_odds_4_tb": "+26865"
       },
       "site": "Home",
       "score": 59,
       "score_wtb2": 59,
-      "score_tb4": 65,
+      "score_tb4": 63,
       "prob_1p5_tb_projected": 0.337,
-      "prob_4_tb_projected": 0.096,
+      "prob_4_tb_projected": 0.09,
       "fair_odds_projected": "+197",
-      "fair_odds_4_tb_projected": "+946",
+      "fair_odds_4_tb_projected": "+1015",
       "score_weight_breakdown": {
         "baseline": 60.4,
         "h2h": 2,
@@ -15482,7 +16723,7 @@
       "gameDate": "2026-06-30",
       "opponentTeamName": "Athletics",
       "probablePitcherName": "Justin Wrobleski",
-      "lineup_confirmed": false
+      "lineup_confirmed": true
     },
     {
       "id": 656811,
@@ -15762,7 +17003,7 @@
       "id": 681715,
       "name": "Heriberto Hernández",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/681715/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 685299,
         "name": "Tanner Gordon",
@@ -15899,7 +17140,7 @@
       "id": 686527,
       "name": "Dominic Canzone",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/686527/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 667755,
         "name": "José Soriano",
@@ -16031,6 +17272,143 @@
       "opponentTeamName": "Seattle Mariners",
       "probablePitcherName": "José Soriano",
       "lineup_confirmed": false
+    },
+    {
+      "id": 702284,
+      "name": "Cole Young",
+      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/702284/headshot/67/current",
+      "lineup_announced": true,
+      "probable_pitcher_splits": {
+        "id": 667755,
+        "name": "José Soriano",
+        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/667755/headshot/67/current",
+        "hitsPer9Inn": 7.29,
+        "hitsPer9Inn_site": 7.17,
+        "walksPer9Inn": 4.55,
+        "expected_woba": 0.325,
+        "hand": "R",
+        "batterSideForGame": "LHB",
+        "prob_1p5_tb_vs_lhb": 0.353,
+        "prob_1p5_tb_vs_rhb": 0.258,
+        "prob_4_tb_vs_lhb": 0.083,
+        "prob_4_tb_vs_rhb": 0.019,
+        "fair_odds_vs_lhb": "+183",
+        "fair_odds_vs_rhb": "+288",
+        "fair_odds_4_tb_vs_lhb": "+1103",
+        "fair_odds_4_tb_vs_rhb": "+5030",
+        "vs_lhb": {
+          "pa": 218,
+          "ab": 188,
+          "hits": 48,
+          "doubles": 1,
+          "hr": 10,
+          "avg": 0.255,
+          "ops": 0.775
+        },
+        "vs_rhb": {
+          "pa": 183,
+          "ab": 160,
+          "hits": 29,
+          "doubles": 6,
+          "hr": 2,
+          "avg": 0.181,
+          "ops": 0.535
+        }
+      },
+      "projectedBattingOrder": 6,
+      "confirmed": true,
+      "projected_pa": 4.01,
+      "ops_vs_pitcher": {
+        "pa": 2,
+        "ab": 2,
+        "hits": 0,
+        "doubles": 0,
+        "hr": 0,
+        "bb": 0,
+        "k": 1,
+        "avg": 0,
+        "ops": 0,
+        "prob_1p5_tb": 0,
+        "fair_odds": "+999900",
+        "prob_4_tb": 0,
+        "fair_odds_4_tb": "+999900"
+      },
+      "ops_vs_pitcher_ops_ab3": null,
+      "ops_vs_pitcher_ops_ab5": null,
+      "ops_vs_pitcher_ops_ab10": null,
+      "wtb2_percent": 0.399,
+      "wtb4_percent": 0.078,
+      "prob_1p5_tb_overall": 0.352,
+      "prob_4_tb_overall": 0.056,
+      "fair_odds_overall": "+184",
+      "fair_odds_4_tb_overall": "+1678",
+      "season_pa": 344,
+      "season_ab": 311,
+      "season_hits": 81,
+      "season_doubles": 12,
+      "season_hr": 9,
+      "season_avg": 0.26,
+      "season_ops": 0.713,
+      "ops_site": {
+        "pa": 163,
+        "ab": 145,
+        "hits": 38,
+        "doubles": 7,
+        "hr": 5,
+        "avg": 0.262,
+        "ops": 0.747,
+        "prob_1p5_tb": 0.366,
+        "fair_odds": "+173",
+        "prob_4_tb": 0.063,
+        "fair_odds_4_tb": "+1496"
+      },
+      "ops_vs_pitcher_hand": {
+        "pa": 239,
+        "ab": 215,
+        "hits": 59,
+        "doubles": 11,
+        "hr": 6,
+        "avg": 0.274,
+        "ops": 0.749,
+        "prob_1p5_tb": 0.378,
+        "fair_odds": "+165",
+        "prob_4_tb": 0.063,
+        "fair_odds_4_tb": "+1494"
+      },
+      "ops_last_7_days": {
+        "pa": 27,
+        "ab": 26,
+        "hits": 9,
+        "doubles": 1,
+        "hr": 3,
+        "avg": 0.346,
+        "ops": 1.101,
+        "prob_1p5_tb": 0.583,
+        "fair_odds": "-140",
+        "prob_4_tb": 0.313,
+        "fair_odds_4_tb": "+220"
+      },
+      "site": "Home",
+      "score": 58,
+      "score_wtb2": 58,
+      "score_tb4": 57,
+      "prob_1p5_tb_projected": 0.348,
+      "prob_4_tb_projected": 0.078,
+      "fair_odds_projected": "+188",
+      "fair_odds_4_tb_projected": "+1186",
+      "score_weight_breakdown": {
+        "baseline": 58.2,
+        "h2h": 5,
+        "vs_hand": 14.5,
+        "home_away": 7.3,
+        "last7": 10,
+        "pitcher_vs_hand": 5
+      },
+      "gamePk": 823122,
+      "gameDate": "2026-06-30",
+      "opponentTeamName": "Seattle Mariners",
+      "probablePitcherName": "José Soriano",
+      "lineup_confirmed": true
     },
     {
       "id": 805367,
@@ -16167,6 +17545,7 @@
       "gameDate": "2026-06-30",
       "opponentTeamName": "Chicago White Sox",
       "probablePitcherName": "Trey Gibson",
+      "game_in_progress": true,
       "lineup_confirmed": true
     },
     {
@@ -16995,7 +18374,7 @@
       "id": 606192,
       "name": "Teoscar Hernández",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/606192/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 605488,
         "name": "Jeffrey Springs",
@@ -17034,7 +18413,7 @@
         }
       },
       "projectedBattingOrder": 5,
-      "confirmed": false,
+      "confirmed": true,
       "projected_pa": 4.29,
       "ops_vs_pitcher": {
         "pa": 11,
@@ -17126,13 +18505,13 @@
       "gameDate": "2026-06-30",
       "opponentTeamName": "Los Angeles Dodgers",
       "probablePitcherName": "Jeffrey Springs",
-      "lineup_confirmed": false
+      "lineup_confirmed": true
     },
     {
       "id": 668227,
       "name": "Randy Arozarena",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/668227/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 667755,
         "name": "José Soriano",
@@ -17171,7 +18550,7 @@
         }
       },
       "projectedBattingOrder": 4,
-      "confirmed": false,
+      "confirmed": true,
       "projected_pa": 4.22,
       "ops_vs_pitcher": {
         "pa": 13,
@@ -17263,7 +18642,7 @@
       "gameDate": "2026-06-30",
       "opponentTeamName": "Seattle Mariners",
       "probablePitcherName": "José Soriano",
-      "lineup_confirmed": false
+      "lineup_confirmed": true
     },
     {
       "id": 668715,
@@ -17543,7 +18922,7 @@
       "id": 666160,
       "name": "Mickey Moniak",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/666160/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 691587,
         "name": "Eury Pérez",
@@ -17582,7 +18961,7 @@
         }
       },
       "projectedBattingOrder": 2,
-      "confirmed": false,
+      "confirmed": true,
       "projected_pa": 4.43,
       "ops_vs_pitcher": {
         "pa": 5,
@@ -17674,13 +19053,13 @@
       "gameDate": "2026-06-30",
       "opponentTeamName": "Colorado Rockies",
       "probablePitcherName": "Eury Pérez",
-      "lineup_confirmed": false
+      "lineup_confirmed": true
     },
     {
       "id": 650489,
       "name": "Willi Castro",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/650489/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 691587,
         "name": "Eury Pérez",
@@ -18776,7 +20155,7 @@
       "id": 671289,
       "name": "Tyler Freeman",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/671289/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 691587,
         "name": "Eury Pérez",
@@ -18815,7 +20194,7 @@
         }
       },
       "projectedBattingOrder": 6,
-      "confirmed": false,
+      "confirmed": true,
       "projected_pa": 4.01,
       "ops_vs_pitcher": {
         "pa": 2,
@@ -18907,13 +20286,13 @@
       "gameDate": "2026-06-30",
       "opponentTeamName": "Colorado Rockies",
       "probablePitcherName": "Eury Pérez",
-      "lineup_confirmed": false
+      "lineup_confirmed": true
     },
     {
       "id": 605141,
       "name": "Mookie Betts",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/605141/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 605488,
         "name": "Jeffrey Springs",
@@ -18952,7 +20331,7 @@
         }
       },
       "projectedBattingOrder": 4,
-      "confirmed": false,
+      "confirmed": true,
       "projected_pa": 4.4,
       "ops_vs_pitcher": {
         "pa": 3,
@@ -19044,13 +20423,13 @@
       "gameDate": "2026-06-30",
       "opponentTeamName": "Los Angeles Dodgers",
       "probablePitcherName": "Jeffrey Springs",
-      "lineup_confirmed": false
+      "lineup_confirmed": true
     },
     {
       "id": 691016,
       "name": "Tyler Soderstrom",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/691016/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 680736,
         "name": "Justin Wrobleski",
@@ -19455,6 +20834,7 @@
       "gameDate": "2026-06-30",
       "opponentTeamName": "Baltimore Orioles",
       "probablePitcherName": "Erick Fedde",
+      "game_in_progress": true,
       "lineup_confirmed": true
     },
     {
@@ -20009,7 +21389,7 @@
       "id": 657757,
       "name": "Gavin Sheets",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/657757/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 571510,
         "name": "Matthew Boyd",
@@ -20146,7 +21526,7 @@
       "id": 805779,
       "name": "Jacob Wilson",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/805779/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 680736,
         "name": "Justin Wrobleski",
@@ -20414,6 +21794,7 @@
       "gameDate": "2026-06-30",
       "opponentTeamName": "Baltimore Orioles",
       "probablePitcherName": "Erick Fedde",
+      "game_in_progress": true,
       "lineup_confirmed": false
     },
     {
@@ -21379,7 +22760,7 @@
       "id": 672695,
       "name": "Geraldo Perdomo",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/672695/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 694738,
         "name": "Landen Roupp",
@@ -21418,7 +22799,7 @@
         }
       },
       "projectedBattingOrder": 2,
-      "confirmed": false,
+      "confirmed": true,
       "projected_pa": 4.43,
       "ops_vs_pitcher": {
         "pa": 11,
@@ -21510,7 +22891,7 @@
       "gameDate": "2026-06-30",
       "opponentTeamName": "Arizona Diamondbacks",
       "probablePitcherName": "Landen Roupp",
-      "lineup_confirmed": false
+      "lineup_confirmed": true
     },
     {
       "id": 680776,
@@ -21927,7 +23308,7 @@
       "id": 701538,
       "name": "Jackson Merrill",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/701538/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 571510,
         "name": "Matthew Boyd",
@@ -21966,7 +23347,7 @@
         }
       },
       "projectedBattingOrder": 6,
-      "confirmed": false,
+      "confirmed": true,
       "projected_pa": 4.18,
       "ops_vs_pitcher": {
         "pa": 6,
@@ -22058,7 +23439,7 @@
       "gameDate": "2026-06-30",
       "opponentTeamName": "San Diego Padres",
       "probablePitcherName": "Matthew Boyd",
-      "lineup_confirmed": false
+      "lineup_confirmed": true
     },
     {
       "id": 701358,
@@ -22201,7 +23582,7 @@
       "id": 682998,
       "name": "Corbin Carroll",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/682998/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 694738,
         "name": "Landen Roupp",
@@ -22240,7 +23621,7 @@
         }
       },
       "projectedBattingOrder": 3,
-      "confirmed": false,
+      "confirmed": true,
       "projected_pa": 4.32,
       "ops_vs_pitcher": {
         "pa": 9,
@@ -22332,7 +23713,7 @@
       "gameDate": "2026-06-30",
       "opponentTeamName": "Arizona Diamondbacks",
       "probablePitcherName": "Landen Roupp",
-      "lineup_confirmed": false
+      "lineup_confirmed": true
     },
     {
       "id": 656555,
@@ -22883,6 +24264,143 @@
       "lineup_confirmed": false
     },
     {
+      "id": 805300,
+      "name": "Jakob Marsee",
+      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/805300/headshot/67/current",
+      "lineup_announced": true,
+      "probable_pitcher_splits": {
+        "id": 685299,
+        "name": "Tanner Gordon",
+        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/685299/headshot/67/current",
+        "hitsPer9Inn": 11.97,
+        "hitsPer9Inn_site": 14.33,
+        "walksPer9Inn": 2.04,
+        "expected_woba": 0.337,
+        "hand": "R",
+        "batterSideForGame": "LHB",
+        "prob_1p5_tb_vs_lhb": 0.675,
+        "prob_1p5_tb_vs_rhb": 0.497,
+        "prob_4_tb_vs_lhb": 0.371,
+        "prob_4_tb_vs_rhb": 0.085,
+        "fair_odds_vs_lhb": "-208",
+        "fair_odds_vs_rhb": "+101",
+        "fair_odds_4_tb_vs_lhb": "+169",
+        "fair_odds_4_tb_vs_rhb": "+1082",
+        "vs_lhb": {
+          "pa": 73,
+          "ab": 69,
+          "hits": 25,
+          "doubles": 7,
+          "hr": 6,
+          "avg": 0.362,
+          "ops": 1.122
+        },
+        "vs_rhb": {
+          "pa": 85,
+          "ab": 77,
+          "hits": 22,
+          "doubles": 9,
+          "hr": 0,
+          "avg": 0.286,
+          "ops": 0.728
+        }
+      },
+      "projectedBattingOrder": 5,
+      "confirmed": true,
+      "projected_pa": 4.29,
+      "ops_vs_pitcher": {
+        "pa": 3,
+        "ab": 3,
+        "hits": 0,
+        "doubles": 0,
+        "hr": 0,
+        "bb": 0,
+        "k": 1,
+        "avg": 0,
+        "ops": 0,
+        "prob_1p5_tb": 0,
+        "fair_odds": "+999900",
+        "prob_4_tb": 0,
+        "fair_odds_4_tb": "+999900"
+      },
+      "ops_vs_pitcher_ops_ab3": 0,
+      "ops_vs_pitcher_ops_ab5": null,
+      "ops_vs_pitcher_ops_ab10": null,
+      "wtb2_percent": 0.282,
+      "wtb4_percent": 0.026,
+      "prob_1p5_tb_overall": 0.249,
+      "prob_4_tb_overall": 0.023,
+      "fair_odds_overall": "+302",
+      "fair_odds_4_tb_overall": "+4309",
+      "season_pa": 345,
+      "season_ab": 290,
+      "season_hits": 56,
+      "season_doubles": 11,
+      "season_hr": 4,
+      "season_avg": 0.193,
+      "season_ops": 0.606,
+      "ops_site": {
+        "pa": 172,
+        "ab": 150,
+        "hits": 30,
+        "doubles": 7,
+        "hr": 2,
+        "avg": 0.2,
+        "ops": 0.611,
+        "prob_1p5_tb": 0.261,
+        "fair_odds": "+284",
+        "prob_4_tb": 0.024,
+        "fair_odds_4_tb": "+4109"
+      },
+      "ops_vs_pitcher_hand": {
+        "pa": 267,
+        "ab": 228,
+        "hits": 47,
+        "doubles": 10,
+        "hr": 3,
+        "avg": 0.206,
+        "ops": 0.612,
+        "prob_1p5_tb": 0.254,
+        "fair_odds": "+294",
+        "prob_4_tb": 0.023,
+        "fair_odds_4_tb": "+4263"
+      },
+      "ops_last_7_days": {
+        "pa": 26,
+        "ab": 23,
+        "hits": 2,
+        "doubles": 1,
+        "hr": 0,
+        "avg": 0.087,
+        "ops": 0.322,
+        "prob_1p5_tb": 0.153,
+        "fair_odds": "+554",
+        "prob_4_tb": 0.002,
+        "fair_odds_4_tb": "+59099"
+      },
+      "site": "Away",
+      "score": 51,
+      "score_wtb2": 51,
+      "score_tb4": 45,
+      "prob_1p5_tb_projected": 0.251,
+      "prob_4_tb_projected": 0.037,
+      "fair_odds_projected": "+299",
+      "fair_odds_4_tb_projected": "+2604",
+      "score_weight_breakdown": {
+        "baseline": 56.7,
+        "h2h": 7,
+        "vs_hand": 14.2,
+        "home_away": 7.1,
+        "last7": 10,
+        "pitcher_vs_hand": 5
+      },
+      "gamePk": 824338,
+      "gameDate": "2026-06-30",
+      "opponentTeamName": "Miami Marlins",
+      "probablePitcherName": "Tanner Gordon",
+      "lineup_confirmed": true
+    },
+    {
       "id": 621493,
       "name": "Taylor Ward",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/621493/headshot/67/current",
@@ -23017,6 +24535,7 @@
       "gameDate": "2026-06-30",
       "opponentTeamName": "Baltimore Orioles",
       "probablePitcherName": "Erick Fedde",
+      "game_in_progress": true,
       "lineup_confirmed": true
     },
     {
@@ -23154,6 +24673,7 @@
       "gameDate": "2026-06-30",
       "opponentTeamName": "Baltimore Orioles",
       "probablePitcherName": "Erick Fedde",
+      "game_in_progress": true,
       "lineup_confirmed": false
     },
     {
@@ -23839,6 +25359,7 @@
       "gameDate": "2026-06-30",
       "opponentTeamName": "Baltimore Orioles",
       "probablePitcherName": "Erick Fedde",
+      "game_in_progress": true,
       "lineup_confirmed": true
     },
     {
@@ -24021,7 +25542,7 @@
         }
       },
       "projectedBattingOrder": 3,
-      "confirmed": true,
+      "confirmed": false,
       "projected_pa": 4.32,
       "ops_vs_pitcher": {
         "pa": 0,
@@ -24113,7 +25634,7 @@
       "gameDate": "2026-06-30",
       "opponentTeamName": "Toronto Blue Jays",
       "probablePitcherName": "Nolan McLean",
-      "lineup_confirmed": true
+      "lineup_confirmed": false
     },
     {
       "id": 682668,
@@ -24250,6 +25771,7 @@
       "gameDate": "2026-06-30",
       "opponentTeamName": "Chicago White Sox",
       "probablePitcherName": "Trey Gibson",
+      "game_in_progress": true,
       "lineup_confirmed": false
     },
     {
@@ -25078,7 +26600,7 @@
       "id": 647304,
       "name": "Josh Naylor",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/647304/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 667755,
         "name": "José Soriano",
@@ -25116,9 +26638,9 @@
           "ops": 0.535
         }
       },
-      "projectedBattingOrder": 4,
-      "confirmed": false,
-      "projected_pa": 4.22,
+      "projectedBattingOrder": 3,
+      "confirmed": true,
+      "projected_pa": 4.32,
       "ops_vs_pitcher": {
         "pa": 16,
         "ab": 16,
@@ -25132,7 +26654,7 @@
         "prob_1p5_tb": 0.079,
         "fair_odds": "+1168",
         "prob_4_tb": 0.002,
-        "fair_odds_4_tb": "+46990"
+        "fair_odds_4_tb": "+43202"
       },
       "ops_vs_pitcher_ops_ab3": 0.25,
       "ops_vs_pitcher_ops_ab5": 0.25,
@@ -25140,9 +26662,9 @@
       "wtb2_percent": 0.378,
       "wtb4_percent": 0.066,
       "prob_1p5_tb_overall": 0.331,
-      "prob_4_tb_overall": 0.054,
+      "prob_4_tb_overall": 0.058,
       "fair_odds_overall": "+202",
-      "fair_odds_4_tb_overall": "+1736",
+      "fair_odds_4_tb_overall": "+1614",
       "season_pa": 342,
       "season_ab": 311,
       "season_hits": 79,
@@ -25160,8 +26682,8 @@
         "ops": 0.632,
         "prob_1p5_tb": 0.278,
         "fair_odds": "+260",
-        "prob_4_tb": 0.035,
-        "fair_odds_4_tb": "+2763"
+        "prob_4_tb": 0.038,
+        "fair_odds_4_tb": "+2565"
       },
       "ops_vs_pitcher_hand": {
         "pa": 245,
@@ -25173,8 +26695,8 @@
         "ops": 0.693,
         "prob_1p5_tb": 0.331,
         "fair_odds": "+202",
-        "prob_4_tb": 0.059,
-        "fair_odds_4_tb": "+1591"
+        "prob_4_tb": 0.063,
+        "fair_odds_4_tb": "+1480"
       },
       "ops_last_7_days": {
         "pa": 30,
@@ -25186,17 +26708,17 @@
         "ops": 0.737,
         "prob_1p5_tb": 0.395,
         "fair_odds": "+153",
-        "prob_4_tb": 0.054,
-        "fair_odds_4_tb": "+1736"
+        "prob_4_tb": 0.058,
+        "fair_odds_4_tb": "+1614"
       },
       "site": "Home",
       "score": 45,
       "score_wtb2": 45,
       "score_tb4": 35,
       "prob_1p5_tb_projected": 0.259,
-      "prob_4_tb_projected": 0.039,
+      "prob_4_tb_projected": 0.042,
       "fair_odds_projected": "+286",
-      "fair_odds_4_tb_projected": "+2449",
+      "fair_odds_4_tb_projected": "+2289",
       "score_weight_breakdown": {
         "baseline": 42.9,
         "h2h": 26,
@@ -25209,7 +26731,7 @@
       "gameDate": "2026-06-30",
       "opponentTeamName": "Seattle Mariners",
       "probablePitcherName": "José Soriano",
-      "lineup_confirmed": false
+      "lineup_confirmed": true
     },
     {
       "id": 700932,
@@ -25352,7 +26874,7 @@
       "id": 624424,
       "name": "Michael Conforto",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/624424/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 676664,
         "name": "JP Sears",
@@ -25489,7 +27011,7 @@
       "id": 671732,
       "name": "Lawrence Butler",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/671732/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 680736,
         "name": "Justin Wrobleski",
@@ -26174,7 +27696,7 @@
       "id": 663728,
       "name": "Cal Raleigh",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/663728/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 667755,
         "name": "José Soriano",
@@ -26212,9 +27734,9 @@
           "ops": 0.535
         }
       },
-      "projectedBattingOrder": 2,
-      "confirmed": false,
-      "projected_pa": 4.43,
+      "projectedBattingOrder": 5,
+      "confirmed": true,
+      "projected_pa": 4.12,
       "ops_vs_pitcher": {
         "pa": 17,
         "ab": 13,
@@ -26227,8 +27749,8 @@
         "ops": 0.584,
         "prob_1p5_tb": 0.146,
         "fair_odds": "+586",
-        "prob_4_tb": 0.008,
-        "fair_odds_4_tb": "+11807"
+        "prob_4_tb": 0.007,
+        "fair_odds_4_tb": "+15153"
       },
       "ops_vs_pitcher_ops_ab3": 0.584,
       "ops_vs_pitcher_ops_ab5": 0.584,
@@ -26236,9 +27758,9 @@
       "wtb2_percent": 0.272,
       "wtb4_percent": 0.034,
       "prob_1p5_tb_overall": 0.241,
-      "prob_4_tb_overall": 0.033,
+      "prob_4_tb_overall": 0.026,
       "fair_odds_overall": "+315",
-      "fair_odds_4_tb_overall": "+2958",
+      "fair_odds_4_tb_overall": "+3735",
       "season_pa": 235,
       "season_ab": 204,
       "season_hits": 34,
@@ -26256,8 +27778,8 @@
         "ops": 0.61,
         "prob_1p5_tb": 0.243,
         "fair_odds": "+311",
-        "prob_4_tb": 0.037,
-        "fair_odds_4_tb": "+2627"
+        "prob_4_tb": 0.029,
+        "fair_odds_4_tb": "+3312"
       },
       "ops_vs_pitcher_hand": {
         "pa": 164,
@@ -26269,8 +27791,8 @@
         "ops": 0.641,
         "prob_1p5_tb": 0.295,
         "fair_odds": "+239",
-        "prob_4_tb": 0.054,
-        "fair_odds_4_tb": "+1743"
+        "prob_4_tb": 0.044,
+        "fair_odds_4_tb": "+2187"
       },
       "ops_last_7_days": {
         "pa": 30,
@@ -26282,17 +27804,17 @@
         "ops": 0.693,
         "prob_1p5_tb": 0.286,
         "fair_odds": "+249",
-        "prob_4_tb": 0.046,
-        "fair_odds_4_tb": "+2072"
+        "prob_4_tb": 0.037,
+        "fair_odds_4_tb": "+2604"
       },
       "site": "Home",
       "score": 41,
       "score_wtb2": 41,
       "score_tb4": 34,
       "prob_1p5_tb_projected": 0.237,
-      "prob_4_tb_projected": 0.037,
+      "prob_4_tb_projected": 0.03,
       "fair_odds_projected": "+322",
-      "fair_odds_4_tb_projected": "+2626",
+      "fair_odds_4_tb_projected": "+3231",
       "score_weight_breakdown": {
         "baseline": 10.5,
         "h2h": 27,
@@ -26305,13 +27827,13 @@
       "gameDate": "2026-06-30",
       "opponentTeamName": "Seattle Mariners",
       "probablePitcherName": "José Soriano",
-      "lineup_confirmed": false
+      "lineup_confirmed": true
     },
     {
       "id": 680728,
       "name": "Adrian Del Castillo",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/680728/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 694738,
         "name": "Landen Roupp",
@@ -26448,7 +27970,7 @@
       "id": 683737,
       "name": "Michael Busch",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/683737/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 676664,
         "name": "JP Sears",
@@ -26487,7 +28009,7 @@
         }
       },
       "projectedBattingOrder": 5,
-      "confirmed": false,
+      "confirmed": true,
       "projected_pa": 4.12,
       "ops_vs_pitcher": {
         "pa": 0,
@@ -26579,7 +28101,7 @@
       "gameDate": "2026-06-30",
       "opponentTeamName": "Chicago Cubs",
       "probablePitcherName": "JP Sears",
-      "lineup_confirmed": false
+      "lineup_confirmed": true
     },
     {
       "id": 683011,
