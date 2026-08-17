@@ -1,17 +1,17 @@
 {
   "startDate": "2025-09-18",
   "updatedThrough": "2026-08-19",
-  "generatedAt": "2026-08-17T22:24:37.835Z",
+  "generatedAt": "2026-08-17T23:21:03.051Z",
   "totals": {
-    "attempts": 2550,
-    "successes": 841,
+    "attempts": 2564,
+    "successes": 847,
     "successRate": 0.33
   },
   "bins": [
     {
       "label": "All",
-      "attempts": 2550,
-      "successes": 841,
+      "attempts": 2564,
+      "successes": 847,
       "successRate": 0.33
     },
     {
@@ -46,80 +46,89 @@
     },
     {
       "label": "75+",
-      "attempts": 215,
-      "successes": 96,
-      "successRate": 0.447
+      "attempts": 217,
+      "successes": 98,
+      "successRate": 0.452
     },
     {
       "label": "70+",
-      "attempts": 344,
-      "successes": 142,
-      "successRate": 0.413
+      "attempts": 348,
+      "successes": 144,
+      "successRate": 0.414
     },
     {
       "label": "65+",
-      "attempts": 426,
-      "successes": 169,
-      "successRate": 0.397
+      "attempts": 427,
+      "successes": 168,
+      "successRate": 0.393
     },
     {
       "label": "60+",
-      "attempts": 445,
-      "successes": 132,
-      "successRate": 0.297
+      "attempts": 446,
+      "successes": 133,
+      "successRate": 0.298
     },
     {
       "label": "50+",
-      "attempts": 668,
-      "successes": 158,
+      "attempts": 671,
+      "successes": 159,
       "successRate": 0.237
     },
     {
       "label": "<50",
-      "attempts": 257,
-      "successes": 39,
-      "successRate": 0.152
+      "attempts": 260,
+      "successes": 40,
+      "successRate": 0.154
     }
   ],
   "battingOrderBins": [
     {
       "slot": 1,
-      "attempts": 428,
+      "attempts": 430,
       "successes": 165,
-      "successRate": 0.386
+      "successRate": 0.384
     },
     {
       "slot": 2,
-      "attempts": 420,
-      "successes": 164,
-      "successRate": 0.39
+      "attempts": 422,
+      "successes": 165,
+      "successRate": 0.391
     },
     {
       "slot": 3,
-      "attempts": 427,
-      "successes": 156,
-      "successRate": 0.365
+      "attempts": 429,
+      "successes": 157,
+      "successRate": 0.366
     },
     {
       "slot": 4,
-      "attempts": 451,
-      "successes": 132,
-      "successRate": 0.293
+      "attempts": 454,
+      "successes": 134,
+      "successRate": 0.295
     },
     {
       "slot": 5,
-      "attempts": 427,
-      "successes": 121,
-      "successRate": 0.283
+      "attempts": 430,
+      "successes": 122,
+      "successRate": 0.284
     },
     {
       "slot": 6,
-      "attempts": 397,
-      "successes": 103,
-      "successRate": 0.259
+      "attempts": 399,
+      "successes": 104,
+      "successRate": 0.261
     }
   ],
   "players": [
+    {
+      "id": 687952,
+      "name": "Christian Encarnacion-Strand",
+      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_120,q_auto:best/v1/people/687952/headshot/67/current",
+      "attempts": 2,
+      "successes": 2,
+      "successRate": 1,
+      "averageScore": 58.5
+    },
     {
       "id": 699013,
       "name": "Esmerlyn Valdez",
@@ -235,7 +244,7 @@
       "attempts": 1,
       "successes": 1,
       "successRate": 1,
-      "averageScore": 78
+      "averageScore": 79
     },
     {
       "id": 681460,
@@ -253,7 +262,7 @@
       "attempts": 5,
       "successes": 4,
       "successRate": 0.8,
-      "averageScore": 63.4
+      "averageScore": 64
     },
     {
       "id": 673548,
@@ -409,6 +418,15 @@
       "averageScore": 47
     },
     {
+      "id": 701398,
+      "name": "Sal Stewart",
+      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_120,q_auto:best/v1/people/701398/headshot/67/current",
+      "attempts": 3,
+      "successes": 2,
+      "successRate": 0.667,
+      "averageScore": 68
+    },
+    {
       "id": 671289,
       "name": "Tyler Freeman",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_120,q_auto:best/v1/people/671289/headshot/67/current",
@@ -427,6 +445,15 @@
       "averageScore": 74.4
     },
     {
+      "id": 676475,
+      "name": "Alec Burleson",
+      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_120,q_auto:best/v1/people/676475/headshot/67/current",
+      "attempts": 11,
+      "successes": 7,
+      "successRate": 0.636,
+      "averageScore": 73.1
+    },
+    {
       "id": 695657,
       "name": "Colson Montgomery",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_120,q_auto:best/v1/people/695657/headshot/67/current",
@@ -443,15 +470,6 @@
       "successes": 8,
       "successRate": 0.615,
       "averageScore": 60.5
-    },
-    {
-      "id": 676475,
-      "name": "Alec Burleson",
-      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_120,q_auto:best/v1/people/676475/headshot/67/current",
-      "attempts": 10,
-      "successes": 6,
-      "successRate": 0.6,
-      "averageScore": 72.7
     },
     {
       "id": 665742,
@@ -892,7 +910,7 @@
       "attempts": 2,
       "successes": 1,
       "successRate": 0.5,
-      "averageScore": 69
+      "averageScore": 70
     },
     {
       "id": 802139,
@@ -901,7 +919,7 @@
       "attempts": 2,
       "successes": 1,
       "successRate": 0.5,
-      "averageScore": 58
+      "averageScore": 58.5
     },
     {
       "id": 578428,
@@ -929,15 +947,6 @@
       "successes": 1,
       "successRate": 0.5,
       "averageScore": 71.5
-    },
-    {
-      "id": 701398,
-      "name": "Sal Stewart",
-      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_120,q_auto:best/v1/people/701398/headshot/67/current",
-      "attempts": 2,
-      "successes": 1,
-      "successRate": 0.5,
-      "averageScore": 70.5
     },
     {
       "id": 803011,
@@ -1081,7 +1090,7 @@
       "attempts": 16,
       "successes": 7,
       "successRate": 0.438,
-      "averageScore": 66.5
+      "averageScore": 66.4
     },
     {
       "id": 663728,
@@ -1144,7 +1153,7 @@
       "attempts": 12,
       "successes": 5,
       "successRate": 0.417,
-      "averageScore": 69.2
+      "averageScore": 69.3
     },
     {
       "id": 608324,
@@ -1270,7 +1279,16 @@
       "attempts": 5,
       "successes": 2,
       "successRate": 0.4,
-      "averageScore": 62.6
+      "averageScore": 62.8
+    },
+    {
+      "id": 691023,
+      "name": "Jordan Walker",
+      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_120,q_auto:best/v1/people/691023/headshot/67/current",
+      "attempts": 5,
+      "successes": 2,
+      "successRate": 0.4,
+      "averageScore": 66.4
     },
     {
       "id": 681987,
@@ -1289,15 +1307,6 @@
       "successes": 5,
       "successRate": 0.385,
       "averageScore": 67.2
-    },
-    {
-      "id": 553993,
-      "name": "Eugenio Suárez",
-      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_120,q_auto:best/v1/people/553993/headshot/67/current",
-      "attempts": 16,
-      "successes": 6,
-      "successRate": 0.375,
-      "averageScore": 64.6
     },
     {
       "id": 668227,
@@ -1369,16 +1378,7 @@
       "attempts": 11,
       "successes": 4,
       "successRate": 0.364,
-      "averageScore": 69.7
-    },
-    {
-      "id": 671056,
-      "name": "Iván Herrera",
-      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_120,q_auto:best/v1/people/671056/headshot/67/current",
-      "attempts": 11,
-      "successes": 4,
-      "successRate": 0.364,
-      "averageScore": 68.3
+      "averageScore": 69.6
     },
     {
       "id": 668715,
@@ -1396,7 +1396,16 @@
       "attempts": 11,
       "successes": 4,
       "successRate": 0.364,
-      "averageScore": 61.2
+      "averageScore": 61.1
+    },
+    {
+      "id": 553993,
+      "name": "Eugenio Suárez",
+      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_120,q_auto:best/v1/people/553993/headshot/67/current",
+      "attempts": 17,
+      "successes": 6,
+      "successRate": 0.353,
+      "averageScore": 64
     },
     {
       "id": 664023,
@@ -1423,7 +1432,16 @@
       "attempts": 12,
       "successes": 4,
       "successRate": 0.333,
-      "averageScore": 65
+      "averageScore": 64.9
+    },
+    {
+      "id": 671056,
+      "name": "Iván Herrera",
+      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_120,q_auto:best/v1/people/671056/headshot/67/current",
+      "attempts": 12,
+      "successes": 4,
+      "successRate": 0.333,
+      "averageScore": 67.6
     },
     {
       "id": 665862,
@@ -1741,15 +1759,6 @@
       "averageScore": 61.3
     },
     {
-      "id": 682829,
-      "name": "Elly De La Cruz",
-      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_120,q_auto:best/v1/people/682829/headshot/67/current",
-      "attempts": 13,
-      "successes": 4,
-      "successRate": 0.308,
-      "averageScore": 60.2
-    },
-    {
       "id": 672356,
       "name": "Gabriel Arias",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_120,q_auto:best/v1/people/672356/headshot/67/current",
@@ -1846,7 +1855,7 @@
       "attempts": 10,
       "successes": 3,
       "successRate": 0.3,
-      "averageScore": 78.8
+      "averageScore": 79
     },
     {
       "id": 592885,
@@ -1865,6 +1874,15 @@
       "successes": 4,
       "successRate": 0.286,
       "averageScore": 64.6
+    },
+    {
+      "id": 682829,
+      "name": "Elly De La Cruz",
+      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_120,q_auto:best/v1/people/682829/headshot/67/current",
+      "attempts": 14,
+      "successes": 4,
+      "successRate": 0.286,
+      "averageScore": 61.1
     },
     {
       "id": 696030,
@@ -1900,7 +1918,7 @@
       "attempts": 11,
       "successes": 3,
       "successRate": 0.273,
-      "averageScore": 64.3
+      "averageScore": 64.2
     },
     {
       "id": 547180,
@@ -1909,7 +1927,7 @@
       "attempts": 11,
       "successes": 3,
       "successRate": 0.273,
-      "averageScore": 68.8
+      "averageScore": 68.9
     },
     {
       "id": 677594,
@@ -1963,7 +1981,7 @@
       "attempts": 8,
       "successes": 2,
       "successRate": 0.25,
-      "averageScore": 60.9
+      "averageScore": 60.8
     },
     {
       "id": 691019,
@@ -2047,15 +2065,6 @@
       "averageScore": 63.3
     },
     {
-      "id": 691023,
-      "name": "Jordan Walker",
-      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_120,q_auto:best/v1/people/691023/headshot/67/current",
-      "attempts": 4,
-      "successes": 1,
-      "successRate": 0.25,
-      "averageScore": 63.8
-    },
-    {
       "id": 669234,
       "name": "Justyn-Henry Malloy",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_120,q_auto:best/v1/people/669234/headshot/67/current",
@@ -2080,7 +2089,7 @@
       "attempts": 4,
       "successes": 1,
       "successRate": 0.25,
-      "averageScore": 73.8
+      "averageScore": 73.5
     },
     {
       "id": 660162,
@@ -2116,7 +2125,7 @@
       "attempts": 9,
       "successes": 2,
       "successRate": 0.222,
-      "averageScore": 63.4
+      "averageScore": 63.6
     },
     {
       "id": 687597,
@@ -2254,6 +2263,15 @@
       "averageScore": 58.2
     },
     {
+      "id": 667472,
+      "name": "Dane Myers",
+      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_120,q_auto:best/v1/people/667472/headshot/67/current",
+      "attempts": 5,
+      "successes": 1,
+      "successRate": 0.2,
+      "averageScore": 50.4
+    },
+    {
       "id": 545121,
       "name": "Ildemaro Vargas",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_120,q_auto:best/v1/people/545121/headshot/67/current",
@@ -2341,7 +2359,7 @@
       "attempts": 12,
       "successes": 2,
       "successRate": 0.167,
-      "averageScore": 68.1
+      "averageScore": 68.2
     },
     {
       "id": 669720,
@@ -2701,7 +2719,7 @@
       "attempts": 5,
       "successes": 0,
       "successRate": 0,
-      "averageScore": 57.8
+      "averageScore": 58
     },
     {
       "id": 686555,
@@ -2747,15 +2765,6 @@
       "successes": 0,
       "successRate": 0,
       "averageScore": 52
-    },
-    {
-      "id": 667472,
-      "name": "Dane Myers",
-      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_120,q_auto:best/v1/people/667472/headshot/67/current",
-      "attempts": 4,
-      "successes": 0,
-      "successRate": 0,
-      "averageScore": 48.3
     },
     {
       "id": 666152,
@@ -2962,7 +2971,7 @@
       "attempts": 3,
       "successes": 0,
       "successRate": 0,
-      "averageScore": 54
+      "averageScore": 54.3
     },
     {
       "id": 643289,
@@ -3061,7 +3070,7 @@
       "attempts": 2,
       "successes": 0,
       "successRate": 0,
-      "averageScore": 62.5
+      "averageScore": 63
     },
     {
       "id": 681807,
@@ -3115,7 +3124,7 @@
       "attempts": 2,
       "successes": 0,
       "successRate": 0,
-      "averageScore": 62
+      "averageScore": 62.5
     },
     {
       "id": 676439,
@@ -3190,6 +3199,15 @@
       "averageScore": 38.5
     },
     {
+      "id": 691026,
+      "name": "Masyn Winn",
+      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_120,q_auto:best/v1/people/691026/headshot/67/current",
+      "attempts": 2,
+      "successes": 0,
+      "successRate": 0,
+      "averageScore": 57.5
+    },
+    {
       "id": 680474,
       "name": "Max Schuemann",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_120,q_auto:best/v1/people/680474/headshot/67/current",
@@ -3217,6 +3235,15 @@
       "averageScore": 43
     },
     {
+      "id": 701675,
+      "name": "Nathan Church",
+      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_120,q_auto:best/v1/people/701675/headshot/67/current",
+      "attempts": 2,
+      "successes": 0,
+      "successRate": 0,
+      "averageScore": 60.5
+    },
+    {
       "id": 679845,
       "name": "Nick Loftin",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_120,q_auto:best/v1/people/679845/headshot/67/current",
@@ -3232,7 +3259,7 @@
       "attempts": 2,
       "successes": 0,
       "successRate": 0,
-      "averageScore": 45.5
+      "averageScore": 45
     },
     {
       "id": 657557,
@@ -3287,6 +3314,15 @@
       "successes": 0,
       "successRate": 0,
       "averageScore": 51.5
+    },
+    {
+      "id": 663886,
+      "name": "Tyler Stephenson",
+      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_120,q_auto:best/v1/people/663886/headshot/67/current",
+      "attempts": 2,
+      "successes": 0,
+      "successRate": 0,
+      "averageScore": 53
     },
     {
       "id": 685133,
@@ -3394,7 +3430,7 @@
       "attempts": 1,
       "successes": 0,
       "successRate": 0,
-      "averageScore": 78
+      "averageScore": 79
     },
     {
       "id": 695600,
@@ -3541,6 +3577,15 @@
       "averageScore": 50
     },
     {
+      "id": 699625,
+      "name": "Jimmy Crooks",
+      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_120,q_auto:best/v1/people/699625/headshot/67/current",
+      "attempts": 1,
+      "successes": 0,
+      "successRate": 0,
+      "averageScore": 66
+    },
+    {
       "id": 670231,
       "name": "John Rave",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_120,q_auto:best/v1/people/670231/headshot/67/current",
@@ -3575,6 +3620,15 @@
       "successes": 0,
       "successRate": 0,
       "averageScore": 61
+    },
+    {
+      "id": 665877,
+      "name": "José Fermín",
+      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_120,q_auto:best/v1/people/665877/headshot/67/current",
+      "attempts": 1,
+      "successes": 0,
+      "successRate": 0,
+      "averageScore": 53
     },
     {
       "id": 702222,
@@ -3628,7 +3682,7 @@
       "attempts": 1,
       "successes": 0,
       "successRate": 0,
-      "averageScore": 38
+      "averageScore": 39
     },
     {
       "id": 665750,
@@ -3676,15 +3730,6 @@
       "averageScore": 43
     },
     {
-      "id": 691026,
-      "name": "Masyn Winn",
-      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_120,q_auto:best/v1/people/691026/headshot/67/current",
-      "attempts": 1,
-      "successes": 0,
-      "successRate": 0,
-      "averageScore": 62
-    },
-    {
       "id": 572191,
       "name": "Michael A. Taylor",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_120,q_auto:best/v1/people/572191/headshot/67/current",
@@ -3701,15 +3746,6 @@
       "successes": 0,
       "successRate": 0,
       "averageScore": 38
-    },
-    {
-      "id": 701675,
-      "name": "Nathan Church",
-      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_120,q_auto:best/v1/people/701675/headshot/67/current",
-      "attempts": 1,
-      "successes": 0,
-      "successRate": 0,
-      "averageScore": 51
     },
     {
       "id": 669397,
@@ -3863,15 +3899,6 @@
       "successes": 0,
       "successRate": 0,
       "averageScore": 42
-    },
-    {
-      "id": 663886,
-      "name": "Tyler Stephenson",
-      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_120,q_auto:best/v1/people/663886/headshot/67/current",
-      "attempts": 1,
-      "successes": 0,
-      "successRate": 0,
-      "averageScore": 64
     },
     {
       "id": 621438,
