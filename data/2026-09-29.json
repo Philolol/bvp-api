@@ -1,7 +1,7 @@
 {
   "date": "2026-09-29",
   "gamesAnalyzed": 4,
-  "hitterCount": 66,
+  "hitterCount": 68,
   "hitters": [
     {
       "id": 608324,
@@ -138,6 +138,7 @@
       "gameDate": "2026-09-29",
       "opponentTeamName": "Chicago Cubs",
       "probablePitcherName": "Michael King",
+      "game_in_progress": true,
       "lineup_confirmed": true
     },
     {
@@ -275,6 +276,7 @@
       "gameDate": "2026-09-29",
       "opponentTeamName": "San Diego Padres",
       "probablePitcherName": "Matthew Boyd",
+      "game_in_progress": true,
       "lineup_confirmed": true
     },
     {
@@ -412,6 +414,7 @@
       "gameDate": "2026-09-29",
       "opponentTeamName": "Chicago Cubs",
       "probablePitcherName": "Michael King",
+      "game_in_progress": true,
       "lineup_confirmed": true
     },
     {
@@ -549,8 +552,10 @@
       "gameDate": "2026-09-29",
       "opponentTeamName": "New York Yankees",
       "probablePitcherName": "Payton Tolle",
-      "game_in_progress": true,
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 0,
+      "game_total_bases_met": false,
+      "game_total_bases_met_4": false
     },
     {
       "id": 592518,
@@ -687,6 +692,7 @@
       "gameDate": "2026-09-29",
       "opponentTeamName": "San Diego Padres",
       "probablePitcherName": "Matthew Boyd",
+      "game_in_progress": true,
       "lineup_confirmed": true
     },
     {
@@ -1244,6 +1250,7 @@
       "gameDate": "2026-09-29",
       "opponentTeamName": "San Diego Padres",
       "probablePitcherName": "Matthew Boyd",
+      "game_in_progress": true,
       "lineup_confirmed": true
     },
     {
@@ -1381,8 +1388,10 @@
       "gameDate": "2026-09-29",
       "opponentTeamName": "Boston Red Sox",
       "probablePitcherName": "Cam Schlittler",
-      "game_in_progress": true,
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 1,
+      "game_total_bases_met": false,
+      "game_total_bases_met_4": false
     },
     {
       "id": 803011,
@@ -1799,6 +1808,7 @@
       "gameDate": "2026-09-29",
       "opponentTeamName": "Chicago Cubs",
       "probablePitcherName": "Michael King",
+      "game_in_progress": true,
       "lineup_confirmed": false
     },
     {
@@ -2493,8 +2503,10 @@
       "gameDate": "2026-09-29",
       "opponentTeamName": "New York Yankees",
       "probablePitcherName": "Payton Tolle",
-      "game_in_progress": true,
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 0,
+      "game_total_bases_met": false,
+      "game_total_bases_met_4": false
     },
     {
       "id": 664034,
@@ -2631,6 +2643,7 @@
       "gameDate": "2026-09-29",
       "opponentTeamName": "San Diego Padres",
       "probablePitcherName": "Matthew Boyd",
+      "game_in_progress": true,
       "lineup_confirmed": true
     },
     {
@@ -2908,8 +2921,10 @@
       "gameDate": "2026-09-29",
       "opponentTeamName": "Boston Red Sox",
       "probablePitcherName": "Cam Schlittler",
-      "game_in_progress": true,
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 0,
+      "game_total_bases_met": false,
+      "game_total_bases_met_4": false
     },
     {
       "id": 700250,
@@ -3046,8 +3061,10 @@
       "gameDate": "2026-09-29",
       "opponentTeamName": "New York Yankees",
       "probablePitcherName": "Payton Tolle",
-      "game_in_progress": true,
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 11,
+      "game_total_bases_met": true,
+      "game_total_bases_met_4": true
     },
     {
       "id": 670541,
@@ -3324,8 +3341,10 @@
       "gameDate": "2026-09-29",
       "opponentTeamName": "Boston Red Sox",
       "probablePitcherName": "Cam Schlittler",
-      "game_in_progress": true,
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 0,
+      "game_total_bases_met": false,
+      "game_total_bases_met_4": false
     },
     {
       "id": 678882,
@@ -3462,8 +3481,10 @@
       "gameDate": "2026-09-29",
       "opponentTeamName": "Boston Red Sox",
       "probablePitcherName": "Cam Schlittler",
-      "game_in_progress": true,
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 0,
+      "game_total_bases_met": false,
+      "game_total_bases_met_4": false
     },
     {
       "id": 672356,
@@ -3600,6 +3621,7 @@
       "gameDate": "2026-09-29",
       "opponentTeamName": "Chicago Cubs",
       "probablePitcherName": "Michael King",
+      "game_in_progress": true,
       "lineup_confirmed": false
     },
     {
@@ -4163,6 +4185,146 @@
       "game_total_bases_met_4": false
     },
     {
+      "id": 655316,
+      "name": "Andruw Monasterio",
+      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/655316/headshot/67/current",
+      "lineup_announced": true,
+      "probable_pitcher_splits": {
+        "id": 693645,
+        "name": "Cam Schlittler",
+        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/693645/headshot/67/current",
+        "hitsPer9Inn": 5.99,
+        "hitsPer9Inn_site": 7.55,
+        "walksPer9Inn": 2.28,
+        "expected_woba": 0.261,
+        "hand": "R",
+        "batterSideForGame": "RHB",
+        "prob_1p5_tb_vs_lhb": 0.323,
+        "prob_1p5_tb_vs_rhb": 0.283,
+        "prob_4_tb_vs_lhb": 0.039,
+        "prob_4_tb_vs_rhb": 0.034,
+        "fair_odds_vs_lhb": "+210",
+        "fair_odds_vs_rhb": "+253",
+        "fair_odds_4_tb_vs_lhb": "+2465",
+        "fair_odds_4_tb_vs_rhb": "+2839",
+        "vs_lhb": {
+          "pa": 458,
+          "ab": 414,
+          "hits": 78,
+          "doubles": 19,
+          "hr": 9,
+          "avg": 0.188,
+          "ops": 0.56
+        },
+        "vs_rhb": {
+          "pa": 303,
+          "ab": 282,
+          "hits": 51,
+          "doubles": 7,
+          "hr": 7,
+          "avg": 0.181,
+          "ops": 0.52
+        }
+      },
+      "projectedBattingOrder": 1,
+      "confirmed": true,
+      "projected_pa": 4.73,
+      "ops_vs_pitcher": {
+        "pa": 0,
+        "ab": null,
+        "hits": null,
+        "doubles": null,
+        "hr": null,
+        "bb": null,
+        "k": null,
+        "avg": null,
+        "ops": null,
+        "prob_1p5_tb": null,
+        "fair_odds": null,
+        "prob_4_tb": null,
+        "fair_odds_4_tb": null
+      },
+      "ops_vs_pitcher_ops_ab3": null,
+      "ops_vs_pitcher_ops_ab5": null,
+      "ops_vs_pitcher_ops_ab10": null,
+      "wtb2_percent": 0.41,
+      "wtb4_percent": 0.066,
+      "prob_1p5_tb_overall": 0.452,
+      "prob_4_tb_overall": 0.076,
+      "fair_odds_overall": "+121",
+      "fair_odds_4_tb_overall": "+1212",
+      "season_pa": 347,
+      "season_ab": 313,
+      "season_hits": 73,
+      "season_doubles": 23,
+      "season_hr": 6,
+      "season_avg": 0.233,
+      "season_ops": 0.666,
+      "ops_site": {
+        "pa": 191,
+        "ab": 176,
+        "hits": 43,
+        "doubles": 11,
+        "hr": 6,
+        "avg": 0.244,
+        "ops": 0.715,
+        "prob_1p5_tb": 0.475,
+        "fair_odds": "+110",
+        "prob_4_tb": 0.106,
+        "fair_odds_4_tb": "+843"
+      },
+      "ops_vs_pitcher_hand": {
+        "pa": 217,
+        "ab": 197,
+        "hits": 46,
+        "doubles": 14,
+        "hr": 1,
+        "avg": 0.234,
+        "ops": 0.602,
+        "prob_1p5_tb": 0.421,
+        "fair_odds": "+138",
+        "prob_4_tb": 0.051,
+        "fair_odds_4_tb": "+1870"
+      },
+      "ops_last_7_days": {
+        "pa": 18,
+        "ab": 16,
+        "hits": 2,
+        "doubles": 0,
+        "hr": 0,
+        "avg": 0.125,
+        "ops": 0.347,
+        "prob_1p5_tb": 0.098,
+        "fair_odds": "+918",
+        "prob_4_tb": 0.002,
+        "fair_odds_4_tb": "+47618"
+      },
+      "site": "Away",
+      "score": 62,
+      "score_wtb2": 62,
+      "score_tb4": 50,
+      "prob_1p5_tb_projected": 0.382,
+      "prob_4_tb_projected": 0.061,
+      "fair_odds_projected": "+162",
+      "fair_odds_4_tb_projected": "+1533",
+      "score_weight_breakdown": {
+        "baseline": 61.8,
+        "h2h": 0,
+        "vs_hand": 15.5,
+        "home_away": 7.7,
+        "last7": 10,
+        "pitcher_vs_hand": 5
+      },
+      "gamePk": 849851,
+      "gameDate": "2026-09-29",
+      "opponentTeamName": "Boston Red Sox",
+      "probablePitcherName": "Cam Schlittler",
+      "lineup_confirmed": true,
+      "game_total_bases": 0,
+      "game_total_bases_met": false,
+      "game_total_bases_met_4": false
+    },
+    {
       "id": 657136,
       "name": "Connor Wong",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/657136/headshot/67/current",
@@ -4297,7 +4459,6 @@
       "gameDate": "2026-09-29",
       "opponentTeamName": "Boston Red Sox",
       "probablePitcherName": "Cam Schlittler",
-      "game_in_progress": true,
       "lineup_confirmed": false
     },
     {
@@ -4435,6 +4596,7 @@
       "gameDate": "2026-09-29",
       "opponentTeamName": "Chicago Cubs",
       "probablePitcherName": "Michael King",
+      "game_in_progress": true,
       "lineup_confirmed": true
     },
     {
@@ -5549,7 +5711,6 @@
       "gameDate": "2026-09-29",
       "opponentTeamName": "Boston Red Sox",
       "probablePitcherName": "Cam Schlittler",
-      "game_in_progress": true,
       "lineup_confirmed": false
     },
     {
@@ -5687,8 +5848,10 @@
       "gameDate": "2026-09-29",
       "opponentTeamName": "New York Yankees",
       "probablePitcherName": "Payton Tolle",
-      "game_in_progress": true,
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 1,
+      "game_total_bases_met": false,
+      "game_total_bases_met_4": false
     },
     {
       "id": 677800,
@@ -5825,8 +5988,10 @@
       "gameDate": "2026-09-29",
       "opponentTeamName": "Boston Red Sox",
       "probablePitcherName": "Cam Schlittler",
-      "game_in_progress": true,
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 1,
+      "game_total_bases_met": false,
+      "game_total_bases_met_4": false
     },
     {
       "id": 683737,
@@ -5963,6 +6128,7 @@
       "gameDate": "2026-09-29",
       "opponentTeamName": "Chicago Cubs",
       "probablePitcherName": "Michael King",
+      "game_in_progress": true,
       "lineup_confirmed": true
     },
     {
@@ -6147,9 +6313,9 @@
           "ops": 0.624
         }
       },
-      "projectedBattingOrder": 4,
-      "confirmed": false,
-      "projected_pa": 4.22,
+      "projectedBattingOrder": 3,
+      "confirmed": true,
+      "projected_pa": 4.32,
       "ops_vs_pitcher": {
         "pa": 0,
         "ab": null,
@@ -6171,9 +6337,9 @@
       "wtb2_percent": 0.512,
       "wtb4_percent": 0.186,
       "prob_1p5_tb_overall": 0.464,
-      "prob_4_tb_overall": 0.16,
+      "prob_4_tb_overall": 0.169,
       "fair_odds_overall": "+115",
-      "fair_odds_4_tb_overall": "+527",
+      "fair_odds_4_tb_overall": "+492",
       "season_pa": 543,
       "season_ab": 516,
       "season_hits": 143,
@@ -6191,8 +6357,8 @@
         "ops": 0.846,
         "prob_1p5_tb": 0.438,
         "fair_odds": "+128",
-        "prob_4_tb": 0.142,
-        "fair_odds_4_tb": "+603"
+        "prob_4_tb": 0.151,
+        "fair_odds_4_tb": "+563"
       },
       "ops_vs_pitcher_hand": {
         "pa": 87,
@@ -6204,8 +6370,8 @@
         "ops": 0.653,
         "prob_1p5_tb": 0.312,
         "fair_odds": "+220",
-        "prob_4_tb": 0.06,
-        "fair_odds_4_tb": "+1563"
+        "prob_4_tb": 0.064,
+        "fair_odds_4_tb": "+1454"
       },
       "ops_last_7_days": {
         "pa": 16,
@@ -6218,16 +6384,16 @@
         "prob_1p5_tb": 0.079,
         "fair_odds": "+1168",
         "prob_4_tb": 0.002,
-        "fair_odds_4_tb": "+46990"
+        "fair_odds_4_tb": "+43202"
       },
       "site": "Home",
       "score": 56,
       "score_wtb2": 56,
-      "score_tb4": 56,
+      "score_tb4": 58,
       "prob_1p5_tb_projected": 0.323,
-      "prob_4_tb_projected": 0.074,
+      "prob_4_tb_projected": 0.078,
       "fair_odds_projected": "+210",
-      "fair_odds_4_tb_projected": "+1260",
+      "fair_odds_4_tb_projected": "+1182",
       "score_weight_breakdown": {
         "baseline": 15.5,
         "h2h": 0,
@@ -6240,8 +6406,150 @@
       "gameDate": "2026-09-29",
       "opponentTeamName": "New York Yankees",
       "probablePitcherName": "Payton Tolle",
-      "game_in_progress": true,
-      "lineup_confirmed": false
+      "lineup_confirmed": true,
+      "game_total_bases": 0,
+      "game_total_bases_met": false,
+      "game_total_bases_met_4": false
+    },
+    {
+      "id": 663757,
+      "name": "Trent Grisham",
+      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/663757/headshot/67/current",
+      "lineup_announced": true,
+      "probable_pitcher_splits": {
+        "id": 801139,
+        "name": "Payton Tolle",
+        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/801139/headshot/67/current",
+        "hitsPer9Inn": 7.45,
+        "hitsPer9Inn_site": 6.5,
+        "walksPer9Inn": 2.42,
+        "expected_woba": 0.254,
+        "hand": "L",
+        "batterSideForGame": "LHB",
+        "prob_1p5_tb_vs_lhb": 0.413,
+        "prob_1p5_tb_vs_rhb": 0.386,
+        "prob_4_tb_vs_lhb": 0.092,
+        "prob_4_tb_vs_rhb": 0.059,
+        "fair_odds_vs_lhb": "+142",
+        "fair_odds_vs_rhb": "+159",
+        "fair_odds_4_tb_vs_lhb": "+989",
+        "fair_odds_4_tb_vs_rhb": "+1600",
+        "vs_lhb": {
+          "pa": 173,
+          "ab": 161,
+          "hits": 40,
+          "doubles": 7,
+          "hr": 6,
+          "avg": 0.248,
+          "ops": 0.705
+        },
+        "vs_rhb": {
+          "pa": 430,
+          "ab": 393,
+          "hits": 83,
+          "doubles": 26,
+          "hr": 9,
+          "avg": 0.211,
+          "ops": 0.624
+        }
+      },
+      "projectedBattingOrder": 3,
+      "confirmed": true,
+      "projected_pa": 4.32,
+      "ops_vs_pitcher": {
+        "pa": 2,
+        "ab": 2,
+        "hits": 0,
+        "doubles": 0,
+        "hr": 0,
+        "bb": 0,
+        "k": 1,
+        "avg": 0,
+        "ops": 0,
+        "prob_1p5_tb": 0,
+        "fair_odds": "+999900",
+        "prob_4_tb": 0,
+        "fair_odds_4_tb": "+999900"
+      },
+      "ops_vs_pitcher_ops_ab3": null,
+      "ops_vs_pitcher_ops_ab5": null,
+      "ops_vs_pitcher_ops_ab10": null,
+      "wtb2_percent": 0.368,
+      "wtb4_percent": 0.07,
+      "prob_1p5_tb_overall": 0.33,
+      "prob_4_tb_overall": 0.062,
+      "fair_odds_overall": "+203",
+      "fair_odds_4_tb_overall": "+1506",
+      "season_pa": 484,
+      "season_ab": 418,
+      "season_hits": 88,
+      "season_doubles": 19,
+      "season_hr": 18,
+      "season_avg": 0.211,
+      "season_ops": 0.703,
+      "ops_site": {
+        "pa": 234,
+        "ab": 199,
+        "hits": 48,
+        "doubles": 16,
+        "hr": 12,
+        "avg": 0.241,
+        "ops": 0.845,
+        "prob_1p5_tb": 0.429,
+        "fair_odds": "+133",
+        "prob_4_tb": 0.116,
+        "fair_odds_4_tb": "+760"
+      },
+      "ops_vs_pitcher_hand": {
+        "pa": 136,
+        "ab": 120,
+        "hits": 28,
+        "doubles": 6,
+        "hr": 3,
+        "avg": 0.233,
+        "ops": 0.691,
+        "prob_1p5_tb": 0.322,
+        "fair_odds": "+210",
+        "prob_4_tb": 0.05,
+        "fair_odds_4_tb": "+1902"
+      },
+      "ops_last_7_days": {
+        "pa": 0,
+        "ab": null,
+        "hits": null,
+        "doubles": null,
+        "hr": null,
+        "avg": null,
+        "ops": null,
+        "prob_1p5_tb": null,
+        "fair_odds": null,
+        "prob_4_tb": null,
+        "fair_odds_4_tb": null
+      },
+      "site": "Home",
+      "score": 56,
+      "score_wtb2": 56,
+      "score_tb4": 49,
+      "prob_1p5_tb_projected": 0.321,
+      "prob_4_tb_projected": 0.06,
+      "fair_odds_projected": "+211",
+      "fair_odds_4_tb_projected": "+1570",
+      "score_weight_breakdown": {
+        "baseline": 65.5,
+        "h2h": 5,
+        "vs_hand": 16.4,
+        "home_away": 8.2,
+        "last7": 0,
+        "pitcher_vs_hand": 5
+      },
+      "gamePk": 849851,
+      "gameDate": "2026-09-29",
+      "opponentTeamName": "New York Yankees",
+      "probablePitcherName": "Payton Tolle",
+      "lineup_confirmed": true,
+      "game_total_bases": 0,
+      "game_total_bases_met": false,
+      "game_total_bases_met_4": false
     },
     {
       "id": 624424,
@@ -6378,6 +6686,7 @@
       "gameDate": "2026-09-29",
       "opponentTeamName": "Chicago Cubs",
       "probablePitcherName": "Michael King",
+      "game_in_progress": true,
       "lineup_confirmed": false
     },
     {
@@ -6655,8 +6964,10 @@
       "gameDate": "2026-09-29",
       "opponentTeamName": "New York Yankees",
       "probablePitcherName": "Payton Tolle",
-      "game_in_progress": true,
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 3,
+      "game_total_bases_met": true,
+      "game_total_bases_met_4": false
     },
     {
       "id": 669392,
@@ -6793,6 +7104,7 @@
       "gameDate": "2026-09-29",
       "opponentTeamName": "San Diego Padres",
       "probablePitcherName": "Matthew Boyd",
+      "game_in_progress": true,
       "lineup_confirmed": true
     },
     {
@@ -6930,6 +7242,7 @@
       "gameDate": "2026-09-29",
       "opponentTeamName": "San Diego Padres",
       "probablePitcherName": "Matthew Boyd",
+      "game_in_progress": true,
       "lineup_confirmed": true
     },
     {
@@ -7347,6 +7660,7 @@
       "gameDate": "2026-09-29",
       "opponentTeamName": "Chicago Cubs",
       "probablePitcherName": "Michael King",
+      "game_in_progress": true,
       "lineup_confirmed": true
     },
     {
@@ -7484,6 +7798,7 @@
       "gameDate": "2026-09-29",
       "opponentTeamName": "Chicago Cubs",
       "probablePitcherName": "Michael King",
+      "game_in_progress": true,
       "lineup_confirmed": true
     },
     {
@@ -7621,8 +7936,10 @@
       "gameDate": "2026-09-29",
       "opponentTeamName": "New York Yankees",
       "probablePitcherName": "Payton Tolle",
-      "game_in_progress": true,
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 0,
+      "game_total_bases_met": false,
+      "game_total_bases_met_4": false
     },
     {
       "id": 641857,
@@ -7666,9 +7983,9 @@
           "ops": 0.624
         }
       },
-      "projectedBattingOrder": 5,
-      "confirmed": false,
-      "projected_pa": 4.12,
+      "projectedBattingOrder": 6,
+      "confirmed": true,
+      "projected_pa": 4.01,
       "ops_vs_pitcher": {
         "pa": 0,
         "ab": null,
@@ -7690,9 +8007,9 @@
       "wtb2_percent": 0.358,
       "wtb4_percent": 0.061,
       "prob_1p5_tb_overall": 0.318,
-      "prob_4_tb_overall": 0.047,
+      "prob_4_tb_overall": 0.043,
       "fair_odds_overall": "+215",
-      "fair_odds_4_tb_overall": "+2024",
+      "fair_odds_4_tb_overall": "+2203",
       "season_pa": 360,
       "season_ab": 328,
       "season_hits": 70,
@@ -7710,8 +8027,8 @@
         "ops": 0.76,
         "prob_1p5_tb": 0.405,
         "fair_odds": "+147",
-        "prob_4_tb": 0.08,
-        "fair_odds_4_tb": "+1153"
+        "prob_4_tb": 0.074,
+        "fair_odds_4_tb": "+1252"
       },
       "ops_vs_pitcher_hand": {
         "pa": 65,
@@ -7723,8 +8040,8 @@
         "ops": 0.509,
         "prob_1p5_tb": 0.206,
         "fair_odds": "+385",
-        "prob_4_tb": 0.01,
-        "fair_odds_4_tb": "+9869"
+        "prob_4_tb": 0.009,
+        "fair_odds_4_tb": "+10821"
       },
       "ops_last_7_days": {
         "pa": 10,
@@ -7736,17 +8053,17 @@
         "ops": 1.2,
         "prob_1p5_tb": 0.698,
         "fair_odds": "-231",
-        "prob_4_tb": 0.419,
-        "fair_odds_4_tb": "+139"
+        "prob_4_tb": 0.399,
+        "fair_odds_4_tb": "+150"
       },
       "site": "Home",
       "score": 48,
       "score_wtb2": 48,
       "score_tb4": 35,
       "prob_1p5_tb_projected": 0.268,
-      "prob_4_tb_projected": 0.04,
+      "prob_4_tb_projected": 0.038,
       "fair_odds_projected": "+273",
-      "fair_odds_4_tb_projected": "+2384",
+      "fair_odds_4_tb_projected": "+2537",
       "score_weight_breakdown": {
         "baseline": 16.5,
         "h2h": 0,
@@ -7759,8 +8076,10 @@
       "gameDate": "2026-09-29",
       "opponentTeamName": "New York Yankees",
       "probablePitcherName": "Payton Tolle",
-      "game_in_progress": true,
-      "lineup_confirmed": false
+      "lineup_confirmed": true,
+      "game_total_bases": 0,
+      "game_total_bases_met": false,
+      "game_total_bases_met_4": false
     },
     {
       "id": 660670,
@@ -8177,8 +8496,10 @@
       "gameDate": "2026-09-29",
       "opponentTeamName": "Boston Red Sox",
       "probablePitcherName": "Cam Schlittler",
-      "game_in_progress": true,
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 0,
+      "game_total_bases_met": false,
+      "game_total_bases_met_4": false
     },
     {
       "id": 682668,
@@ -8455,6 +8776,7 @@
       "gameDate": "2026-09-29",
       "opponentTeamName": "San Diego Padres",
       "probablePitcherName": "Matthew Boyd",
+      "game_in_progress": true,
       "lineup_confirmed": false
     },
     {
@@ -8592,6 +8914,7 @@
       "gameDate": "2026-09-29",
       "opponentTeamName": "Chicago Cubs",
       "probablePitcherName": "Michael King",
+      "game_in_progress": true,
       "lineup_confirmed": false
     },
     {
@@ -8729,6 +9052,7 @@
       "gameDate": "2026-09-29",
       "opponentTeamName": "San Diego Padres",
       "probablePitcherName": "Matthew Boyd",
+      "game_in_progress": true,
       "lineup_confirmed": false
     },
     {
@@ -8914,7 +9238,7 @@
         }
       },
       "projectedBattingOrder": 2,
-      "confirmed": false,
+      "confirmed": true,
       "projected_pa": 4.43,
       "ops_vs_pitcher": {
         "pa": 0,
@@ -9006,7 +9330,8 @@
       "gameDate": "2026-09-29",
       "opponentTeamName": "San Diego Padres",
       "probablePitcherName": "Matthew Boyd",
-      "lineup_confirmed": false
+      "game_in_progress": true,
+      "lineup_confirmed": true
     },
     {
       "id": 663330,
@@ -9143,7 +9468,6 @@
       "gameDate": "2026-09-29",
       "opponentTeamName": "Boston Red Sox",
       "probablePitcherName": "Cam Schlittler",
-      "game_in_progress": true,
       "lineup_confirmed": false
     }
   ]
