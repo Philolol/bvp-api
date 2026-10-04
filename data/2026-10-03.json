@@ -418,8 +418,10 @@
       "gameDate": "2026-10-03",
       "opponentTeamName": "Milwaukee Brewers",
       "probablePitcherName": "Robbie Ray",
-      "game_in_progress": true,
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 4,
+      "game_total_bases_met": true,
+      "game_total_bases_met_4": true
     },
     {
       "id": 805367,
@@ -976,8 +978,10 @@
       "gameDate": "2026-10-03",
       "opponentTeamName": "San Diego Padres",
       "probablePitcherName": "Jacob Misiorowski",
-      "game_in_progress": true,
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 1,
+      "game_total_bases_met": false,
+      "game_total_bases_met_4": false
     },
     {
       "id": 605141,
@@ -1674,8 +1678,10 @@
       "gameDate": "2026-10-03",
       "opponentTeamName": "San Diego Padres",
       "probablePitcherName": "Jacob Misiorowski",
-      "game_in_progress": true,
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 1,
+      "game_total_bases_met": false,
+      "game_total_bases_met_4": false
     },
     {
       "id": 700250,
@@ -1814,6 +1820,146 @@
       "probablePitcherName": "Drew Rasmussen",
       "lineup_confirmed": true,
       "game_total_bases": 0,
+      "game_total_bases_met": false,
+      "game_total_bases_met_4": false
+    },
+    {
+      "id": 683734,
+      "name": "Andrew Vaughn",
+      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/683734/headshot/67/current",
+      "lineup_announced": true,
+      "probable_pitcher_splits": {
+        "id": 592662,
+        "name": "Robbie Ray",
+        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/592662/headshot/67/current",
+        "hitsPer9Inn": 7.61,
+        "hitsPer9Inn_site": 8.25,
+        "walksPer9Inn": 4.56,
+        "expected_woba": 0.334,
+        "hand": "L",
+        "batterSideForGame": "RHB",
+        "prob_1p5_tb_vs_lhb": 0.354,
+        "prob_1p5_tb_vs_rhb": 0.369,
+        "prob_4_tb_vs_lhb": 0.048,
+        "prob_4_tb_vs_rhb": 0.072,
+        "fair_odds_vs_lhb": "+183",
+        "fair_odds_vs_rhb": "+171",
+        "fair_odds_4_tb_vs_lhb": "+1994",
+        "fair_odds_4_tb_vs_rhb": "+1287",
+        "vs_lhb": {
+          "pa": 194,
+          "ab": 170,
+          "hits": 45,
+          "doubles": 5,
+          "hr": 2,
+          "avg": 0.265,
+          "ops": 0.68
+        },
+        "vs_rhb": {
+          "pa": 508,
+          "ab": 436,
+          "hits": 95,
+          "doubles": 20,
+          "hr": 20,
+          "avg": 0.218,
+          "ops": 0.719
+        }
+      },
+      "projectedBattingOrder": 5,
+      "confirmed": true,
+      "projected_pa": 4.12,
+      "ops_vs_pitcher": {
+        "pa": 17,
+        "ab": 17,
+        "hits": 3,
+        "doubles": 0,
+        "hr": 1,
+        "bb": 0,
+        "k": 6,
+        "avg": 0.176,
+        "ops": 0.529,
+        "prob_1p5_tb": 0.277,
+        "fair_odds": "+261",
+        "prob_4_tb": 0.06,
+        "fair_odds_4_tb": "+1566"
+      },
+      "ops_vs_pitcher_ops_ab3": 0.529,
+      "ops_vs_pitcher_ops_ab5": 0.529,
+      "ops_vs_pitcher_ops_ab10": 0.529,
+      "wtb2_percent": 0.464,
+      "wtb4_percent": 0.099,
+      "prob_1p5_tb_overall": 0.413,
+      "prob_4_tb_overall": 0.078,
+      "fair_odds_overall": "+142",
+      "fair_odds_4_tb_overall": "+1184",
+      "season_pa": 331,
+      "season_ab": 288,
+      "season_hits": 88,
+      "season_doubles": 18,
+      "season_hr": 6,
+      "season_avg": 0.306,
+      "season_ops": 0.834,
+      "ops_site": {
+        "pa": 158,
+        "ab": 137,
+        "hits": 40,
+        "doubles": 10,
+        "hr": 3,
+        "avg": 0.292,
+        "ops": 0.825,
+        "prob_1p5_tb": 0.404,
+        "fair_odds": "+147",
+        "prob_4_tb": 0.071,
+        "fair_odds_4_tb": "+1317"
+      },
+      "ops_vs_pitcher_hand": {
+        "pa": 133,
+        "ab": 116,
+        "hits": 39,
+        "doubles": 13,
+        "hr": 2,
+        "avg": 0.336,
+        "ops": 0.938,
+        "prob_1p5_tb": 0.496,
+        "fair_odds": "+102",
+        "prob_4_tb": 0.108,
+        "fair_odds_4_tb": "+824"
+      },
+      "ops_last_7_days": {
+        "pa": 0,
+        "ab": null,
+        "hits": null,
+        "doubles": null,
+        "hr": null,
+        "avg": null,
+        "ops": null,
+        "prob_1p5_tb": null,
+        "fair_odds": null,
+        "prob_4_tb": null,
+        "fair_odds_4_tb": null
+      },
+      "site": "Home",
+      "score": 66,
+      "score_wtb2": 66,
+      "score_tb4": 59,
+      "prob_1p5_tb_projected": 0.402,
+      "prob_4_tb_projected": 0.083,
+      "fair_odds_projected": "+149",
+      "fair_odds_4_tb_projected": "+1106",
+      "score_weight_breakdown": {
+        "baseline": 12.4,
+        "h2h": 27,
+        "vs_hand": 49.5,
+        "home_away": 6.2,
+        "last7": 0,
+        "pitcher_vs_hand": 5
+      },
+      "gamePk": 849830,
+      "gameDate": "2026-10-03",
+      "opponentTeamName": "Milwaukee Brewers",
+      "probablePitcherName": "Robbie Ray",
+      "lineup_confirmed": true,
+      "game_total_bases": 1,
       "game_total_bases_met": false,
       "game_total_bases_met_4": false
     },
@@ -3486,8 +3632,10 @@
       "gameDate": "2026-10-03",
       "opponentTeamName": "San Diego Padres",
       "probablePitcherName": "Jacob Misiorowski",
-      "game_in_progress": true,
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 2,
+      "game_total_bases_met": true,
+      "game_total_bases_met_4": false
     },
     {
       "id": 800050,
@@ -4041,7 +4189,6 @@
       "gameDate": "2026-10-03",
       "opponentTeamName": "Milwaukee Brewers",
       "probablePitcherName": "Robbie Ray",
-      "game_in_progress": true,
       "lineup_confirmed": false
     },
     {
@@ -5016,8 +5163,10 @@
       "gameDate": "2026-10-03",
       "opponentTeamName": "Milwaukee Brewers",
       "probablePitcherName": "Robbie Ray",
-      "game_in_progress": true,
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 2,
+      "game_total_bases_met": true,
+      "game_total_bases_met_4": false
     },
     {
       "id": 518692,
@@ -5294,8 +5443,10 @@
       "gameDate": "2026-10-03",
       "opponentTeamName": "San Diego Padres",
       "probablePitcherName": "Jacob Misiorowski",
-      "game_in_progress": true,
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 0,
+      "game_total_bases_met": false,
+      "game_total_bases_met_4": false
     },
     {
       "id": 686668,
@@ -5712,8 +5863,10 @@
       "gameDate": "2026-10-03",
       "opponentTeamName": "San Diego Padres",
       "probablePitcherName": "Jacob Misiorowski",
-      "game_in_progress": true,
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 3,
+      "game_total_bases_met": true,
+      "game_total_bases_met_4": false
     },
     {
       "id": 671976,
@@ -6544,8 +6697,10 @@
       "gameDate": "2026-10-03",
       "opponentTeamName": "Milwaukee Brewers",
       "probablePitcherName": "Robbie Ray",
-      "game_in_progress": true,
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 4,
+      "game_total_bases_met": true,
+      "game_total_bases_met_4": true
     },
     {
       "id": 682987,
@@ -7102,8 +7257,10 @@
       "gameDate": "2026-10-03",
       "opponentTeamName": "Milwaukee Brewers",
       "probablePitcherName": "Robbie Ray",
-      "game_in_progress": true,
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 1,
+      "game_total_bases_met": false,
+      "game_total_bases_met_4": false
     },
     {
       "id": 622761,
@@ -7520,8 +7677,10 @@
       "gameDate": "2026-10-03",
       "opponentTeamName": "Milwaukee Brewers",
       "probablePitcherName": "Robbie Ray",
-      "game_in_progress": true,
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 0,
+      "game_total_bases_met": false,
+      "game_total_bases_met_4": false
     },
     {
       "id": 571771,
@@ -7798,8 +7957,10 @@
       "gameDate": "2026-10-03",
       "opponentTeamName": "San Diego Padres",
       "probablePitcherName": "Jacob Misiorowski",
-      "game_in_progress": true,
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 1,
+      "game_total_bases_met": false,
+      "game_total_bases_met_4": false
     },
     {
       "id": 669257,
@@ -8076,8 +8237,10 @@
       "gameDate": "2026-10-03",
       "opponentTeamName": "Milwaukee Brewers",
       "probablePitcherName": "Robbie Ray",
-      "game_in_progress": true,
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 0,
+      "game_total_bases_met": false,
+      "game_total_bases_met_4": false
     },
     {
       "id": 694197,
@@ -8632,144 +8795,6 @@
       "game_total_bases": 2,
       "game_total_bases_met": true,
       "game_total_bases_met_4": false
-    },
-    {
-      "id": 687749,
-      "name": "Jase Bowen",
-      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/687749/headshot/67/current",
-      "lineup_announced": true,
-      "probable_pitcher_splits": {
-        "id": 694819,
-        "name": "Jacob Misiorowski",
-        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/694819/headshot/67/current",
-        "hitsPer9Inn": 4.95,
-        "hitsPer9Inn_site": 4.93,
-        "walksPer9Inn": 2.27,
-        "expected_woba": 0.225,
-        "hand": "R",
-        "batterSideForGame": "RHB",
-        "prob_1p5_tb_vs_lhb": 0.172,
-        "prob_1p5_tb_vs_rhb": 0.295,
-        "prob_4_tb_vs_lhb": 0.008,
-        "prob_4_tb_vs_rhb": 0.044,
-        "fair_odds_vs_lhb": "+483",
-        "fair_odds_vs_rhb": "+239",
-        "fair_odds_4_tb_vs_lhb": "+12186",
-        "fair_odds_4_tb_vs_rhb": "+2171",
-        "vs_lhb": {
-          "pa": 366,
-          "ab": 333,
-          "hits": 38,
-          "doubles": 5,
-          "hr": 6,
-          "avg": 0.114,
-          "ops": 0.378
-        },
-        "vs_rhb": {
-          "pa": 299,
-          "ab": 277,
-          "hits": 58,
-          "doubles": 3,
-          "hr": 8,
-          "avg": 0.209,
-          "ops": 0.582
-        }
-      },
-      "projectedBattingOrder": 2,
-      "confirmed": false,
-      "projected_pa": 4.62,
-      "ops_vs_pitcher": {
-        "pa": 0,
-        "ab": null,
-        "hits": null,
-        "doubles": null,
-        "hr": null,
-        "bb": null,
-        "k": null,
-        "avg": null,
-        "ops": null,
-        "prob_1p5_tb": null,
-        "fair_odds": null,
-        "prob_4_tb": null,
-        "fair_odds_4_tb": null
-      },
-      "ops_vs_pitcher_ops_ab3": null,
-      "ops_vs_pitcher_ops_ab5": null,
-      "ops_vs_pitcher_ops_ab10": null,
-      "wtb2_percent": 0.246,
-      "wtb4_percent": 0.022,
-      "prob_1p5_tb_overall": 0.275,
-      "prob_4_tb_overall": 0.024,
-      "fair_odds_overall": "+264",
-      "fair_odds_4_tb_overall": "+4059",
-      "season_pa": 103,
-      "season_ab": 96,
-      "season_hits": 14,
-      "season_doubles": 2,
-      "season_hr": 2,
-      "season_avg": 0.146,
-      "season_ops": 0.438,
-      "ops_site": {
-        "pa": 53,
-        "ab": 51,
-        "hits": 8,
-        "doubles": 1,
-        "hr": 1,
-        "avg": 0.157,
-        "ops": 0.464,
-        "prob_1p5_tb": 0.265,
-        "fair_odds": "+278",
-        "prob_4_tb": 0.022,
-        "fair_odds_4_tb": "+4458"
-      },
-      "ops_vs_pitcher_hand": {
-        "pa": 52,
-        "ab": 47,
-        "hits": 5,
-        "doubles": 0,
-        "hr": 0,
-        "avg": 0.106,
-        "ops": 0.266,
-        "prob_1p5_tb": 0.076,
-        "fair_odds": "+1217",
-        "prob_4_tb": 0.001,
-        "fair_odds_4_tb": "+87589"
-      },
-      "ops_last_7_days": {
-        "pa": 4,
-        "ab": 3,
-        "hits": 0,
-        "doubles": 0,
-        "hr": 0,
-        "avg": 0,
-        "ops": 0,
-        "prob_1p5_tb": 0,
-        "fair_odds": "+999900",
-        "prob_4_tb": 0,
-        "fair_odds_4_tb": "+999900"
-      },
-      "site": "Away",
-      "score": 22,
-      "score_wtb2": 22,
-      "score_tb4": 30,
-      "prob_1p5_tb_projected": 0.129,
-      "prob_4_tb_projected": 0.009,
-      "fair_odds_projected": "+673",
-      "fair_odds_4_tb_projected": "+11641",
-      "score_weight_breakdown": {
-        "baseline": 17.1,
-        "h2h": 0,
-        "vs_hand": 68.4,
-        "home_away": 8.5,
-        "last7": 1,
-        "pitcher_vs_hand": 5
-      },
-      "gamePk": 849830,
-      "gameDate": "2026-10-03",
-      "opponentTeamName": "San Diego Padres",
-      "probablePitcherName": "Jacob Misiorowski",
-      "game_in_progress": true,
-      "lineup_confirmed": false
     }
   ]
 }
