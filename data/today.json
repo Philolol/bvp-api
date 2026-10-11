@@ -1,7 +1,7 @@
 {
   "date": "2026-10-10",
   "gamesAnalyzed": 1,
-  "hitterCount": 13,
+  "hitterCount": 14,
   "hitters": [
     {
       "id": 680757,
@@ -138,8 +138,10 @@
       "gameDate": "2026-10-10",
       "opponentTeamName": "Cleveland Guardians",
       "probablePitcherName": "Sean Burke",
-      "game_in_progress": true,
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 1,
+      "game_total_bases_met": false,
+      "game_total_bases_met_4": false
     },
     {
       "id": 678246,
@@ -276,8 +278,10 @@
       "gameDate": "2026-10-10",
       "opponentTeamName": "Chicago White Sox",
       "probablePitcherName": "Gavin Williams",
-      "game_in_progress": true,
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 0,
+      "game_total_bases_met": false,
+      "game_total_bases_met_4": false
     },
     {
       "id": 683953,
@@ -414,8 +418,10 @@
       "gameDate": "2026-10-10",
       "opponentTeamName": "Cleveland Guardians",
       "probablePitcherName": "Sean Burke",
-      "game_in_progress": true,
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 0,
+      "game_total_bases_met": false,
+      "game_total_bases_met_4": false
     },
     {
       "id": 643217,
@@ -552,8 +558,10 @@
       "gameDate": "2026-10-10",
       "opponentTeamName": "Chicago White Sox",
       "probablePitcherName": "Gavin Williams",
-      "game_in_progress": true,
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 0,
+      "game_total_bases_met": false,
+      "game_total_bases_met_4": false
     },
     {
       "id": 800050,
@@ -690,8 +698,10 @@
       "gameDate": "2026-10-10",
       "opponentTeamName": "Cleveland Guardians",
       "probablePitcherName": "Sean Burke",
-      "game_in_progress": true,
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 1,
+      "game_total_bases_met": false,
+      "game_total_bases_met_4": false
     },
     {
       "id": 682657,
@@ -828,7 +838,6 @@
       "gameDate": "2026-10-10",
       "opponentTeamName": "Cleveland Guardians",
       "probablePitcherName": "Sean Burke",
-      "game_in_progress": true,
       "lineup_confirmed": false
     },
     {
@@ -966,8 +975,10 @@
       "gameDate": "2026-10-10",
       "opponentTeamName": "Cleveland Guardians",
       "probablePitcherName": "Sean Burke",
-      "game_in_progress": true,
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 0,
+      "game_total_bases_met": false,
+      "game_total_bases_met_4": false
     },
     {
       "id": 808959,
@@ -1104,8 +1115,10 @@
       "gameDate": "2026-10-10",
       "opponentTeamName": "Chicago White Sox",
       "probablePitcherName": "Gavin Williams",
-      "game_in_progress": true,
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 0,
+      "game_total_bases_met": false,
+      "game_total_bases_met_4": false
     },
     {
       "id": 803011,
@@ -1242,8 +1255,10 @@
       "gameDate": "2026-10-10",
       "opponentTeamName": "Chicago White Sox",
       "probablePitcherName": "Gavin Williams",
-      "game_in_progress": true,
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 1,
+      "game_total_bases_met": false,
+      "game_total_bases_met_4": false
     },
     {
       "id": 671976,
@@ -1380,8 +1395,10 @@
       "gameDate": "2026-10-10",
       "opponentTeamName": "Chicago White Sox",
       "probablePitcherName": "Gavin Williams",
-      "game_in_progress": true,
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 1,
+      "game_total_bases_met": false,
+      "game_total_bases_met_4": false
     },
     {
       "id": 666176,
@@ -1518,8 +1535,10 @@
       "gameDate": "2026-10-10",
       "opponentTeamName": "Cleveland Guardians",
       "probablePitcherName": "Sean Burke",
-      "game_in_progress": true,
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 1,
+      "game_total_bases_met": false,
+      "game_total_bases_met_4": false
     },
     {
       "id": 608070,
@@ -1656,8 +1675,150 @@
       "gameDate": "2026-10-10",
       "opponentTeamName": "Cleveland Guardians",
       "probablePitcherName": "Sean Burke",
-      "game_in_progress": true,
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 4,
+      "game_total_bases_met": true,
+      "game_total_bases_met_4": true
+    },
+    {
+      "id": 694197,
+      "name": "Angel Genao",
+      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/694197/headshot/67/current",
+      "lineup_announced": true,
+      "probable_pitcher_splits": {
+        "id": 680732,
+        "name": "Sean Burke",
+        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/680732/headshot/67/current",
+        "hitsPer9Inn": 7.52,
+        "hitsPer9Inn_site": 7.23,
+        "walksPer9Inn": 3.24,
+        "expected_woba": 0.299,
+        "hand": "R",
+        "batterSideForGame": "LHB",
+        "prob_1p5_tb_vs_lhb": 0.401,
+        "prob_1p5_tb_vs_rhb": 0.364,
+        "prob_4_tb_vs_lhb": 0.082,
+        "prob_4_tb_vs_rhb": 0.052,
+        "fair_odds_vs_lhb": "+149",
+        "fair_odds_vs_rhb": "+175",
+        "fair_odds_4_tb_vs_lhb": "+1118",
+        "fair_odds_4_tb_vs_rhb": "+1813",
+        "vs_lhb": {
+          "pa": 424,
+          "ab": 378,
+          "hits": 87,
+          "doubles": 19,
+          "hr": 13,
+          "avg": 0.23,
+          "ops": 0.707
+        },
+        "vs_rhb": {
+          "pa": 292,
+          "ab": 261,
+          "hits": 57,
+          "doubles": 15,
+          "hr": 6,
+          "avg": 0.218,
+          "ops": 0.646
+        }
+      },
+      "projectedBattingOrder": 6,
+      "confirmed": true,
+      "projected_pa": 4.01,
+      "ops_vs_pitcher": {
+        "pa": 0,
+        "ab": null,
+        "hits": null,
+        "doubles": null,
+        "hr": null,
+        "bb": null,
+        "k": null,
+        "avg": null,
+        "ops": null,
+        "prob_1p5_tb": null,
+        "fair_odds": null,
+        "prob_4_tb": null,
+        "fair_odds_4_tb": null
+      },
+      "ops_vs_pitcher_ops_ab3": null,
+      "ops_vs_pitcher_ops_ab5": null,
+      "ops_vs_pitcher_ops_ab10": null,
+      "wtb2_percent": 0.302,
+      "wtb4_percent": 0.034,
+      "prob_1p5_tb_overall": 0.262,
+      "prob_4_tb_overall": 0.023,
+      "fair_odds_overall": "+281",
+      "fair_odds_4_tb_overall": "+4173",
+      "season_pa": 139,
+      "season_ab": 127,
+      "season_hits": 27,
+      "season_doubles": 4,
+      "season_hr": 2,
+      "season_avg": 0.213,
+      "season_ops": 0.572,
+      "ops_site": {
+        "pa": 75,
+        "ab": 70,
+        "hits": 17,
+        "doubles": 2,
+        "hr": 1,
+        "avg": 0.243,
+        "ops": 0.607,
+        "prob_1p5_tb": 0.297,
+        "fair_odds": "+237",
+        "prob_4_tb": 0.032,
+        "fair_odds_4_tb": "+3050"
+      },
+      "ops_vs_pitcher_hand": {
+        "pa": 95,
+        "ab": 87,
+        "hits": 19,
+        "doubles": 2,
+        "hr": 1,
+        "avg": 0.218,
+        "ops": 0.56,
+        "prob_1p5_tb": 0.245,
+        "fair_odds": "+307",
+        "prob_4_tb": 0.02,
+        "fair_odds_4_tb": "+4951"
+      },
+      "ops_last_7_days": {
+        "pa": 0,
+        "ab": null,
+        "hits": null,
+        "doubles": null,
+        "hr": null,
+        "avg": null,
+        "ops": null,
+        "prob_1p5_tb": null,
+        "fair_odds": null,
+        "prob_4_tb": null,
+        "fair_odds_4_tb": null
+      },
+      "site": "Home",
+      "score": 43,
+      "score_wtb2": 43,
+      "score_tb4": 31,
+      "prob_1p5_tb_projected": 0.267,
+      "prob_4_tb_projected": 0.025,
+      "fair_odds_projected": "+275",
+      "fair_odds_4_tb_projected": "+3882",
+      "score_weight_breakdown": {
+        "baseline": 69.1,
+        "h2h": 0,
+        "vs_hand": 17.3,
+        "home_away": 8.6,
+        "last7": 0,
+        "pitcher_vs_hand": 5
+      },
+      "gamePk": 849831,
+      "gameDate": "2026-10-10",
+      "opponentTeamName": "Cleveland Guardians",
+      "probablePitcherName": "Sean Burke",
+      "lineup_confirmed": true,
+      "game_total_bases": 0,
+      "game_total_bases_met": false,
+      "game_total_bases_met_4": false
     },
     {
       "id": 691019,
@@ -1794,8 +1955,10 @@
       "gameDate": "2026-10-10",
       "opponentTeamName": "Chicago White Sox",
       "probablePitcherName": "Gavin Williams",
-      "game_in_progress": true,
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 1,
+      "game_total_bases_met": false,
+      "game_total_bases_met_4": false
     }
   ]
 }
