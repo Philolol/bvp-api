@@ -7,7 +7,7 @@
       "id": 680757,
       "name": "Steven Kwan",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/680757/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 656876,
         "name": "Drew Rasmussen",
@@ -46,7 +46,7 @@
         }
       },
       "projectedBattingOrder": 1,
-      "confirmed": false,
+      "confirmed": true,
       "projected_pa": 4.54,
       "ops_vs_pitcher": {
         "pa": 12,
@@ -138,13 +138,13 @@
       "gameDate": "2026-10-18",
       "opponentTeamName": "Cleveland Guardians",
       "probablePitcherName": "Drew Rasmussen",
-      "lineup_confirmed": false
+      "lineup_confirmed": true
     },
     {
       "id": 650490,
       "name": "Yandy Díaz",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/650490/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 800048,
         "name": "Parker Messick",
@@ -183,7 +183,7 @@
         }
       },
       "projectedBattingOrder": 1,
-      "confirmed": false,
+      "confirmed": true,
       "projected_pa": 4.73,
       "ops_vs_pitcher": {
         "pa": 13,
@@ -275,13 +275,13 @@
       "gameDate": "2026-10-18",
       "opponentTeamName": "Tampa Bay Rays",
       "probablePitcherName": "Parker Messick",
-      "lineup_confirmed": false
+      "lineup_confirmed": true
     },
     {
       "id": 683748,
       "name": "Victor Mesa Jr.",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/683748/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 800048,
         "name": "Parker Messick",
@@ -415,10 +415,147 @@
       "lineup_confirmed": false
     },
     {
+      "id": 668723,
+      "name": "Ryan Vilade",
+      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/668723/headshot/67/current",
+      "lineup_announced": true,
+      "probable_pitcher_splits": {
+        "id": 800048,
+        "name": "Parker Messick",
+        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/800048/headshot/67/current",
+        "hitsPer9Inn": 7.2,
+        "hitsPer9Inn_site": 7.94,
+        "walksPer9Inn": 2.37,
+        "expected_woba": 0.274,
+        "hand": "L",
+        "batterSideForGame": "RHB",
+        "prob_1p5_tb_vs_lhb": 0.401,
+        "prob_1p5_tb_vs_rhb": 0.358,
+        "prob_4_tb_vs_lhb": 0.079,
+        "prob_4_tb_vs_rhb": 0.054,
+        "fair_odds_vs_lhb": "+150",
+        "fair_odds_vs_rhb": "+179",
+        "fair_odds_4_tb_vs_lhb": "+1163",
+        "fair_odds_4_tb_vs_rhb": "+1749",
+        "vs_lhb": {
+          "pa": 205,
+          "ab": 188,
+          "hits": 46,
+          "doubles": 8,
+          "hr": 5,
+          "avg": 0.245,
+          "ops": 0.688
+        },
+        "vs_rhb": {
+          "pa": 542,
+          "ab": 500,
+          "hits": 103,
+          "doubles": 24,
+          "hr": 12,
+          "avg": 0.206,
+          "ops": 0.599
+        }
+      },
+      "projectedBattingOrder": 3,
+      "confirmed": true,
+      "projected_pa": 4.5,
+      "ops_vs_pitcher": {
+        "pa": 7,
+        "ab": 7,
+        "hits": 3,
+        "doubles": 0,
+        "hr": 0,
+        "bb": 0,
+        "k": 3,
+        "avg": 0.429,
+        "ops": 0.858,
+        "prob_1p5_tb": 0.642,
+        "fair_odds": "-179",
+        "prob_4_tb": 0.13,
+        "fair_odds_4_tb": "+668"
+      },
+      "ops_vs_pitcher_ops_ab3": 0.858,
+      "ops_vs_pitcher_ops_ab5": 0.858,
+      "ops_vs_pitcher_ops_ab10": null,
+      "wtb2_percent": 0.395,
+      "wtb4_percent": 0.093,
+      "prob_1p5_tb_overall": 0.395,
+      "prob_4_tb_overall": 0.093,
+      "fair_odds_overall": "+153",
+      "fair_odds_4_tb_overall": "+974",
+      "season_pa": 278,
+      "season_ab": 245,
+      "season_hits": 60,
+      "season_doubles": 8,
+      "season_hr": 11,
+      "season_avg": 0.245,
+      "season_ops": 0.75,
+      "ops_site": {
+        "pa": 137,
+        "ab": 122,
+        "hits": 26,
+        "doubles": 3,
+        "hr": 3,
+        "avg": 0.213,
+        "ops": 0.603,
+        "prob_1p5_tb": 0.297,
+        "fair_odds": "+236",
+        "prob_4_tb": 0.038,
+        "fair_odds_4_tb": "+2525"
+      },
+      "ops_vs_pitcher_hand": {
+        "pa": 170,
+        "ab": 151,
+        "hits": 41,
+        "doubles": 6,
+        "hr": 7,
+        "avg": 0.272,
+        "ops": 0.818,
+        "prob_1p5_tb": 0.428,
+        "fair_odds": "+134",
+        "prob_4_tb": 0.109,
+        "fair_odds_4_tb": "+820"
+      },
+      "ops_last_7_days": {
+        "pa": 0,
+        "ab": null,
+        "hits": null,
+        "doubles": null,
+        "hr": null,
+        "avg": null,
+        "ops": null,
+        "prob_1p5_tb": null,
+        "fair_odds": null,
+        "prob_4_tb": null,
+        "fair_odds_4_tb": null
+      },
+      "site": "Away",
+      "score": 66,
+      "score_wtb2": 66,
+      "score_tb4": 62,
+      "prob_1p5_tb_projected": 0.411,
+      "prob_4_tb_projected": 0.09,
+      "fair_odds_projected": "+144",
+      "fair_odds_4_tb_projected": "+1008",
+      "score_weight_breakdown": {
+        "baseline": 58.2,
+        "h2h": 15,
+        "vs_hand": 14.5,
+        "home_away": 7.3,
+        "last7": 0,
+        "pitcher_vs_hand": 5
+      },
+      "gamePk": 849817,
+      "gameDate": "2026-10-18",
+      "opponentTeamName": "Tampa Bay Rays",
+      "probablePitcherName": "Parker Messick",
+      "lineup_confirmed": true
+    },
+    {
       "id": 666018,
       "name": "Jonathan Aranda",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/666018/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 800048,
         "name": "Parker Messick",
@@ -457,7 +594,7 @@
         }
       },
       "projectedBattingOrder": 2,
-      "confirmed": false,
+      "confirmed": true,
       "projected_pa": 4.62,
       "ops_vs_pitcher": {
         "pa": 3,
@@ -549,13 +686,13 @@
       "gameDate": "2026-10-18",
       "opponentTeamName": "Tampa Bay Rays",
       "probablePitcherName": "Parker Messick",
-      "lineup_confirmed": false
+      "lineup_confirmed": true
     },
     {
       "id": 676356,
       "name": "Jonny DeLuca",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/676356/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 800048,
         "name": "Parker Messick",
@@ -593,9 +730,9 @@
           "ops": 0.599
         }
       },
-      "projectedBattingOrder": 5,
-      "confirmed": false,
-      "projected_pa": 4.29,
+      "projectedBattingOrder": 6,
+      "confirmed": true,
+      "projected_pa": 4.18,
       "ops_vs_pitcher": {
         "pa": 5,
         "ab": 5,
@@ -609,7 +746,7 @@
         "prob_1p5_tb": 0.181,
         "fair_odds": "+453",
         "prob_4_tb": 0.011,
-        "fair_odds_4_tb": "+8607"
+        "fair_odds_4_tb": "+9397"
       },
       "ops_vs_pitcher_ops_ab3": 0.4,
       "ops_vs_pitcher_ops_ab5": 0.4,
@@ -617,9 +754,9 @@
       "wtb2_percent": 0.471,
       "wtb4_percent": 0.113,
       "prob_1p5_tb_overall": 0.423,
-      "prob_4_tb_overall": 0.099,
+      "prob_4_tb_overall": 0.092,
       "fair_odds_overall": "+137",
-      "fair_odds_4_tb_overall": "+909",
+      "fair_odds_4_tb_overall": "+982",
       "season_pa": 370,
       "season_ab": 350,
       "season_hits": 93,
@@ -637,8 +774,8 @@
         "ops": 0.9,
         "prob_1p5_tb": 0.515,
         "fair_odds": "-106",
-        "prob_4_tb": 0.17,
-        "fair_odds_4_tb": "+488"
+        "prob_4_tb": 0.159,
+        "fair_odds_4_tb": "+527"
       },
       "ops_vs_pitcher_hand": {
         "pa": 155,
@@ -650,8 +787,8 @@
         "ops": 0.666,
         "prob_1p5_tb": 0.405,
         "fair_odds": "+147",
-        "prob_4_tb": 0.072,
-        "fair_odds_4_tb": "+1288"
+        "prob_4_tb": 0.067,
+        "fair_odds_4_tb": "+1394"
       },
       "ops_last_7_days": {
         "pa": 0,
@@ -669,11 +806,11 @@
       "site": "Away",
       "score": 62,
       "score_wtb2": 62,
-      "score_tb4": 59,
+      "score_tb4": 57,
       "prob_1p5_tb_projected": 0.379,
-      "prob_4_tb_projected": 0.083,
+      "prob_4_tb_projected": 0.078,
       "fair_odds_projected": "+164",
-      "fair_odds_4_tb_projected": "+1101",
+      "fair_odds_4_tb_projected": "+1186",
       "score_weight_breakdown": {
         "baseline": 60.4,
         "h2h": 12,
@@ -686,13 +823,13 @@
       "gameDate": "2026-10-18",
       "opponentTeamName": "Tampa Bay Rays",
       "probablePitcherName": "Parker Messick",
-      "lineup_confirmed": false
+      "lineup_confirmed": true
     },
     {
       "id": 800050,
       "name": "Chase DeLauter",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/800050/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 656876,
         "name": "Drew Rasmussen",
@@ -731,7 +868,7 @@
         }
       },
       "projectedBattingOrder": 3,
-      "confirmed": false,
+      "confirmed": true,
       "projected_pa": 4.32,
       "ops_vs_pitcher": {
         "pa": 6,
@@ -823,13 +960,13 @@
       "gameDate": "2026-10-18",
       "opponentTeamName": "Cleveland Guardians",
       "probablePitcherName": "Drew Rasmussen",
-      "lineup_confirmed": false
+      "lineup_confirmed": true
     },
     {
       "id": 663993,
       "name": "Nathaniel Lowe",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/663993/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 656876,
         "name": "Drew Rasmussen",
@@ -868,7 +1005,7 @@
         }
       },
       "projectedBattingOrder": 5,
-      "confirmed": false,
+      "confirmed": true,
       "projected_pa": 4.12,
       "ops_vs_pitcher": {
         "pa": 3,
@@ -960,287 +1097,13 @@
       "gameDate": "2026-10-18",
       "opponentTeamName": "Cleveland Guardians",
       "probablePitcherName": "Drew Rasmussen",
-      "lineup_confirmed": false
-    },
-    {
-      "id": 668723,
-      "name": "Ryan Vilade",
-      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/668723/headshot/67/current",
-      "lineup_announced": false,
-      "probable_pitcher_splits": {
-        "id": 800048,
-        "name": "Parker Messick",
-        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/800048/headshot/67/current",
-        "hitsPer9Inn": 7.2,
-        "hitsPer9Inn_site": 7.94,
-        "walksPer9Inn": 2.37,
-        "expected_woba": 0.274,
-        "hand": "L",
-        "batterSideForGame": "RHB",
-        "prob_1p5_tb_vs_lhb": 0.401,
-        "prob_1p5_tb_vs_rhb": 0.358,
-        "prob_4_tb_vs_lhb": 0.079,
-        "prob_4_tb_vs_rhb": 0.054,
-        "fair_odds_vs_lhb": "+150",
-        "fair_odds_vs_rhb": "+179",
-        "fair_odds_4_tb_vs_lhb": "+1163",
-        "fair_odds_4_tb_vs_rhb": "+1749",
-        "vs_lhb": {
-          "pa": 205,
-          "ab": 188,
-          "hits": 46,
-          "doubles": 8,
-          "hr": 5,
-          "avg": 0.245,
-          "ops": 0.688
-        },
-        "vs_rhb": {
-          "pa": 542,
-          "ab": 500,
-          "hits": 103,
-          "doubles": 24,
-          "hr": 12,
-          "avg": 0.206,
-          "ops": 0.599
-        }
-      },
-      "projectedBattingOrder": 4,
-      "confirmed": false,
-      "projected_pa": 4.4,
-      "ops_vs_pitcher": {
-        "pa": 7,
-        "ab": 7,
-        "hits": 3,
-        "doubles": 0,
-        "hr": 0,
-        "bb": 0,
-        "k": 3,
-        "avg": 0.429,
-        "ops": 0.858,
-        "prob_1p5_tb": 0.574,
-        "fair_odds": "-134",
-        "prob_4_tb": 0.123,
-        "fair_odds_4_tb": "+714"
-      },
-      "ops_vs_pitcher_ops_ab3": 0.858,
-      "ops_vs_pitcher_ops_ab5": 0.858,
-      "ops_vs_pitcher_ops_ab10": null,
-      "wtb2_percent": 0.395,
-      "wtb4_percent": 0.093,
-      "prob_1p5_tb_overall": 0.351,
-      "prob_4_tb_overall": 0.088,
-      "fair_odds_overall": "+185",
-      "fair_odds_4_tb_overall": "+1042",
-      "season_pa": 278,
-      "season_ab": 245,
-      "season_hits": 60,
-      "season_doubles": 8,
-      "season_hr": 11,
-      "season_avg": 0.245,
-      "season_ops": 0.75,
-      "ops_site": {
-        "pa": 137,
-        "ab": 122,
-        "hits": 26,
-        "doubles": 3,
-        "hr": 3,
-        "avg": 0.213,
-        "ops": 0.603,
-        "prob_1p5_tb": 0.258,
-        "fair_odds": "+287",
-        "prob_4_tb": 0.036,
-        "fair_odds_4_tb": "+2711"
-      },
-      "ops_vs_pitcher_hand": {
-        "pa": 170,
-        "ab": 151,
-        "hits": 41,
-        "doubles": 6,
-        "hr": 7,
-        "avg": 0.272,
-        "ops": 0.818,
-        "prob_1p5_tb": 0.381,
-        "fair_odds": "+163",
-        "prob_4_tb": 0.102,
-        "fair_odds_4_tb": "+877"
-      },
-      "ops_last_7_days": {
-        "pa": 0,
-        "ab": null,
-        "hits": null,
-        "doubles": null,
-        "hr": null,
-        "avg": null,
-        "ops": null,
-        "prob_1p5_tb": null,
-        "fair_odds": null,
-        "prob_4_tb": null,
-        "fair_odds_4_tb": null
-      },
-      "site": "Away",
-      "score": 60,
-      "score_wtb2": 60,
-      "score_tb4": 60,
-      "prob_1p5_tb_projected": 0.367,
-      "prob_4_tb_projected": 0.085,
-      "fair_odds_projected": "+172",
-      "fair_odds_4_tb_projected": "+1075",
-      "score_weight_breakdown": {
-        "baseline": 58.2,
-        "h2h": 15,
-        "vs_hand": 14.5,
-        "home_away": 7.3,
-        "last7": 0,
-        "pitcher_vs_hand": 5
-      },
-      "gamePk": 849817,
-      "gameDate": "2026-10-18",
-      "opponentTeamName": "Tampa Bay Rays",
-      "probablePitcherName": "Parker Messick",
-      "lineup_confirmed": false
-    },
-    {
-      "id": 691406,
-      "name": "Junior Caminero",
-      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/691406/headshot/67/current",
-      "lineup_announced": false,
-      "probable_pitcher_splits": {
-        "id": 800048,
-        "name": "Parker Messick",
-        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/800048/headshot/67/current",
-        "hitsPer9Inn": 7.2,
-        "hitsPer9Inn_site": 7.94,
-        "walksPer9Inn": 2.37,
-        "expected_woba": 0.274,
-        "hand": "L",
-        "batterSideForGame": "RHB",
-        "prob_1p5_tb_vs_lhb": 0.401,
-        "prob_1p5_tb_vs_rhb": 0.358,
-        "prob_4_tb_vs_lhb": 0.079,
-        "prob_4_tb_vs_rhb": 0.054,
-        "fair_odds_vs_lhb": "+150",
-        "fair_odds_vs_rhb": "+179",
-        "fair_odds_4_tb_vs_lhb": "+1163",
-        "fair_odds_4_tb_vs_rhb": "+1749",
-        "vs_lhb": {
-          "pa": 205,
-          "ab": 188,
-          "hits": 46,
-          "doubles": 8,
-          "hr": 5,
-          "avg": 0.245,
-          "ops": 0.688
-        },
-        "vs_rhb": {
-          "pa": 542,
-          "ab": 500,
-          "hits": 103,
-          "doubles": 24,
-          "hr": 12,
-          "avg": 0.206,
-          "ops": 0.599
-        }
-      },
-      "projectedBattingOrder": 3,
-      "confirmed": false,
-      "projected_pa": 4.5,
-      "ops_vs_pitcher": {
-        "pa": 12,
-        "ab": 12,
-        "hits": 1,
-        "doubles": 0,
-        "hr": 0,
-        "bb": 0,
-        "k": 2,
-        "avg": 0.083,
-        "ops": 0.166,
-        "prob_1p5_tb": 0.048,
-        "fair_odds": "+1989",
-        "prob_4_tb": 0.001,
-        "fair_odds_4_tb": "+163409"
-      },
-      "ops_vs_pitcher_ops_ab3": 0.166,
-      "ops_vs_pitcher_ops_ab5": 0.166,
-      "ops_vs_pitcher_ops_ab10": 0.166,
-      "wtb2_percent": 0.464,
-      "wtb4_percent": 0.156,
-      "prob_1p5_tb_overall": 0.464,
-      "prob_4_tb_overall": 0.156,
-      "fair_odds_overall": "+116",
-      "fair_odds_4_tb_overall": "+542",
-      "season_pa": 702,
-      "season_ab": 616,
-      "season_hits": 170,
-      "season_doubles": 25,
-      "season_hr": 42,
-      "season_avg": 0.276,
-      "season_ops": 0.884,
-      "ops_site": {
-        "pa": 357,
-        "ab": 318,
-        "hits": 86,
-        "doubles": 10,
-        "hr": 20,
-        "avg": 0.27,
-        "ops": 0.838,
-        "prob_1p5_tb": 0.44,
-        "fair_odds": "+127",
-        "prob_4_tb": 0.137,
-        "fair_odds_4_tb": "+631"
-      },
-      "ops_vs_pitcher_hand": {
-        "pa": 195,
-        "ab": 157,
-        "hits": 45,
-        "doubles": 8,
-        "hr": 8,
-        "avg": 0.287,
-        "ops": 0.916,
-        "prob_1p5_tb": 0.425,
-        "fair_odds": "+135",
-        "prob_4_tb": 0.105,
-        "fair_odds_4_tb": "+852"
-      },
-      "ops_last_7_days": {
-        "pa": 0,
-        "ab": null,
-        "hits": null,
-        "doubles": null,
-        "hr": null,
-        "avg": null,
-        "ops": null,
-        "prob_1p5_tb": null,
-        "fair_odds": null,
-        "prob_4_tb": null,
-        "fair_odds_4_tb": null
-      },
-      "site": "Away",
-      "score": 57,
-      "score_wtb2": 57,
-      "score_tb4": 65,
-      "prob_1p5_tb_projected": 0.346,
-      "prob_4_tb_projected": 0.103,
-      "fair_odds_projected": "+189",
-      "fair_odds_4_tb_projected": "+869",
-      "score_weight_breakdown": {
-        "baseline": 53.1,
-        "h2h": 22,
-        "vs_hand": 13.3,
-        "home_away": 6.6,
-        "last7": 0,
-        "pitcher_vs_hand": 5
-      },
-      "gamePk": 849817,
-      "gameDate": "2026-10-18",
-      "opponentTeamName": "Tampa Bay Rays",
-      "probablePitcherName": "Parker Messick",
-      "lineup_confirmed": false
+      "lineup_confirmed": true
     },
     {
       "id": 802415,
       "name": "Chandler Simpson",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/802415/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 800048,
         "name": "Parker Messick",
@@ -1278,9 +1141,9 @@
           "ops": 0.599
         }
       },
-      "projectedBattingOrder": 6,
-      "confirmed": false,
-      "projected_pa": 4.18,
+      "projectedBattingOrder": 5,
+      "confirmed": true,
+      "projected_pa": 4.29,
       "ops_vs_pitcher": {
         "pa": 11,
         "ab": 11,
@@ -1293,8 +1156,8 @@
         "ops": 0.546,
         "prob_1p5_tb": 0.301,
         "fair_odds": "+233",
-        "prob_4_tb": 0.029,
-        "fair_odds_4_tb": "+3372"
+        "prob_4_tb": 0.031,
+        "fair_odds_4_tb": "+3103"
       },
       "ops_vs_pitcher_ops_ab3": 0.546,
       "ops_vs_pitcher_ops_ab5": 0.546,
@@ -1302,9 +1165,9 @@
       "wtb2_percent": 0.433,
       "wtb4_percent": 0.065,
       "prob_1p5_tb_overall": 0.376,
-      "prob_4_tb_overall": 0.052,
+      "prob_4_tb_overall": 0.056,
       "fair_odds_overall": "+166",
-      "fair_odds_4_tb_overall": "+1815",
+      "fair_odds_4_tb_overall": "+1675",
       "season_pa": 612,
       "season_ab": 571,
       "season_hits": 175,
@@ -1322,8 +1185,8 @@
         "ops": 0.69,
         "prob_1p5_tb": 0.357,
         "fair_odds": "+180",
-        "prob_4_tb": 0.042,
-        "fair_odds_4_tb": "+2272"
+        "prob_4_tb": 0.046,
+        "fair_odds_4_tb": "+2094"
       },
       "ops_vs_pitcher_hand": {
         "pa": 211,
@@ -1335,8 +1198,8 @@
         "ops": 0.633,
         "prob_1p5_tb": 0.333,
         "fair_odds": "+200",
-        "prob_4_tb": 0.036,
-        "fair_odds_4_tb": "+2657"
+        "prob_4_tb": 0.039,
+        "fair_odds_4_tb": "+2447"
       },
       "ops_last_7_days": {
         "pa": 0,
@@ -1356,9 +1219,9 @@
       "score_wtb2": 57,
       "score_tb4": 35,
       "prob_1p5_tb_projected": 0.334,
-      "prob_4_tb_projected": 0.037,
+      "prob_4_tb_projected": 0.04,
       "fair_odds_projected": "+200",
-      "fair_odds_4_tb_projected": "+2573",
+      "fair_odds_4_tb_projected": "+2389",
       "score_weight_breakdown": {
         "baseline": 13.5,
         "h2h": 21,
@@ -1371,13 +1234,13 @@
       "gameDate": "2026-10-18",
       "opponentTeamName": "Tampa Bay Rays",
       "probablePitcherName": "Parker Messick",
-      "lineup_confirmed": false
+      "lineup_confirmed": true
     },
     {
       "id": 681807,
       "name": "David Fry",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/681807/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 656876,
         "name": "Drew Rasmussen",
@@ -1511,10 +1374,147 @@
       "lineup_confirmed": false
     },
     {
+      "id": 691406,
+      "name": "Junior Caminero",
+      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/691406/headshot/67/current",
+      "lineup_announced": true,
+      "probable_pitcher_splits": {
+        "id": 800048,
+        "name": "Parker Messick",
+        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/800048/headshot/67/current",
+        "hitsPer9Inn": 7.2,
+        "hitsPer9Inn_site": 7.94,
+        "walksPer9Inn": 2.37,
+        "expected_woba": 0.274,
+        "hand": "L",
+        "batterSideForGame": "RHB",
+        "prob_1p5_tb_vs_lhb": 0.401,
+        "prob_1p5_tb_vs_rhb": 0.358,
+        "prob_4_tb_vs_lhb": 0.079,
+        "prob_4_tb_vs_rhb": 0.054,
+        "fair_odds_vs_lhb": "+150",
+        "fair_odds_vs_rhb": "+179",
+        "fair_odds_4_tb_vs_lhb": "+1163",
+        "fair_odds_4_tb_vs_rhb": "+1749",
+        "vs_lhb": {
+          "pa": 205,
+          "ab": 188,
+          "hits": 46,
+          "doubles": 8,
+          "hr": 5,
+          "avg": 0.245,
+          "ops": 0.688
+        },
+        "vs_rhb": {
+          "pa": 542,
+          "ab": 500,
+          "hits": 103,
+          "doubles": 24,
+          "hr": 12,
+          "avg": 0.206,
+          "ops": 0.599
+        }
+      },
+      "projectedBattingOrder": 4,
+      "confirmed": true,
+      "projected_pa": 4.4,
+      "ops_vs_pitcher": {
+        "pa": 12,
+        "ab": 12,
+        "hits": 1,
+        "doubles": 0,
+        "hr": 0,
+        "bb": 0,
+        "k": 2,
+        "avg": 0.083,
+        "ops": 0.166,
+        "prob_1p5_tb": 0.037,
+        "fair_odds": "+2589",
+        "prob_4_tb": 0.001,
+        "fair_odds_4_tb": "+177615"
+      },
+      "ops_vs_pitcher_ops_ab3": 0.166,
+      "ops_vs_pitcher_ops_ab5": 0.166,
+      "ops_vs_pitcher_ops_ab10": 0.166,
+      "wtb2_percent": 0.464,
+      "wtb4_percent": 0.156,
+      "prob_1p5_tb_overall": 0.417,
+      "prob_4_tb_overall": 0.147,
+      "fair_odds_overall": "+140",
+      "fair_odds_4_tb_overall": "+579",
+      "season_pa": 702,
+      "season_ab": 616,
+      "season_hits": 170,
+      "season_doubles": 25,
+      "season_hr": 42,
+      "season_avg": 0.276,
+      "season_ops": 0.884,
+      "ops_site": {
+        "pa": 357,
+        "ab": 318,
+        "hits": 86,
+        "doubles": 10,
+        "hr": 20,
+        "avg": 0.27,
+        "ops": 0.838,
+        "prob_1p5_tb": 0.393,
+        "fair_odds": "+154",
+        "prob_4_tb": 0.129,
+        "fair_odds_4_tb": "+674"
+      },
+      "ops_vs_pitcher_hand": {
+        "pa": 195,
+        "ab": 157,
+        "hits": 45,
+        "doubles": 8,
+        "hr": 8,
+        "avg": 0.287,
+        "ops": 0.916,
+        "prob_1p5_tb": 0.379,
+        "fair_odds": "+164",
+        "prob_4_tb": 0.099,
+        "fair_odds_4_tb": "+911"
+      },
+      "ops_last_7_days": {
+        "pa": 0,
+        "ab": null,
+        "hits": null,
+        "doubles": null,
+        "hr": null,
+        "avg": null,
+        "ops": null,
+        "prob_1p5_tb": null,
+        "fair_odds": null,
+        "prob_4_tb": null,
+        "fair_odds_4_tb": null
+      },
+      "site": "Away",
+      "score": 53,
+      "score_wtb2": 53,
+      "score_tb4": 64,
+      "prob_1p5_tb_projected": 0.311,
+      "prob_4_tb_projected": 0.098,
+      "fair_odds_projected": "+221",
+      "fair_odds_4_tb_projected": "+925",
+      "score_weight_breakdown": {
+        "baseline": 53.1,
+        "h2h": 22,
+        "vs_hand": 13.3,
+        "home_away": 6.6,
+        "last7": 0,
+        "pitcher_vs_hand": 5
+      },
+      "gamePk": 849817,
+      "gameDate": "2026-10-18",
+      "opponentTeamName": "Tampa Bay Rays",
+      "probablePitcherName": "Parker Messick",
+      "lineup_confirmed": true
+    },
+    {
       "id": 683953,
       "name": "Travis Bazzana",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/683953/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 656876,
         "name": "Drew Rasmussen",
@@ -1553,7 +1553,7 @@
         }
       },
       "projectedBattingOrder": 6,
-      "confirmed": false,
+      "confirmed": true,
       "projected_pa": 4.01,
       "ops_vs_pitcher": {
         "pa": 5,
@@ -1645,13 +1645,13 @@
       "gameDate": "2026-10-18",
       "opponentTeamName": "Cleveland Guardians",
       "probablePitcherName": "Drew Rasmussen",
-      "lineup_confirmed": false
+      "lineup_confirmed": true
     },
     {
       "id": 666176,
       "name": "Jo Adell",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/666176/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 656876,
         "name": "Drew Rasmussen",
@@ -1690,7 +1690,7 @@
         }
       },
       "projectedBattingOrder": 4,
-      "confirmed": false,
+      "confirmed": true,
       "projected_pa": 4.22,
       "ops_vs_pitcher": {
         "pa": 4,
@@ -1782,13 +1782,13 @@
       "gameDate": "2026-10-18",
       "opponentTeamName": "Cleveland Guardians",
       "probablePitcherName": "Drew Rasmussen",
-      "lineup_confirmed": false
+      "lineup_confirmed": true
     },
     {
       "id": 656775,
       "name": "Cedric Mullins",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/656775/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 800048,
         "name": "Parker Messick",
@@ -1925,7 +1925,7 @@
       "id": 608070,
       "name": "José Ramírez",
       "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/608070/headshot/67/current",
-      "lineup_announced": false,
+      "lineup_announced": true,
       "probable_pitcher_splits": {
         "id": 656876,
         "name": "Drew Rasmussen",
@@ -1964,7 +1964,7 @@
         }
       },
       "projectedBattingOrder": 2,
-      "confirmed": false,
+      "confirmed": true,
       "projected_pa": 4.43,
       "ops_vs_pitcher": {
         "pa": 11,
@@ -2056,7 +2056,7 @@
       "gameDate": "2026-10-18",
       "opponentTeamName": "Cleveland Guardians",
       "probablePitcherName": "Drew Rasmussen",
-      "lineup_confirmed": false
+      "lineup_confirmed": true
     }
   ]
 }
