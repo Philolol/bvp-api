@@ -1,7 +1,7 @@
 {
   "date": "2026-10-19",
   "gamesAnalyzed": 1,
-  "hitterCount": 16,
+  "hitterCount": 15,
   "hitters": [
     {
       "id": 800050,
@@ -138,8 +138,10 @@
       "gameDate": "2026-10-19",
       "opponentTeamName": "Cleveland Guardians",
       "probablePitcherName": "Freddy Peralta",
-      "game_in_progress": true,
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 3,
+      "game_total_bases_met": true,
+      "game_total_bases_met_4": false
     },
     {
       "id": 656775,
@@ -276,7 +278,6 @@
       "gameDate": "2026-10-19",
       "opponentTeamName": "Tampa Bay Rays",
       "probablePitcherName": "Shawn Armstrong",
-      "game_in_progress": true,
       "lineup_confirmed": false
     },
     {
@@ -414,8 +415,10 @@
       "gameDate": "2026-10-19",
       "opponentTeamName": "Tampa Bay Rays",
       "probablePitcherName": "Shawn Armstrong",
-      "game_in_progress": true,
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 4,
+      "game_total_bases_met": true,
+      "game_total_bases_met_4": true
     },
     {
       "id": 683953,
@@ -552,8 +555,10 @@
       "gameDate": "2026-10-19",
       "opponentTeamName": "Cleveland Guardians",
       "probablePitcherName": "Freddy Peralta",
-      "game_in_progress": true,
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 0,
+      "game_total_bases_met": false,
+      "game_total_bases_met_4": false
     },
     {
       "id": 689414,
@@ -690,8 +695,10 @@
       "gameDate": "2026-10-19",
       "opponentTeamName": "Tampa Bay Rays",
       "probablePitcherName": "Shawn Armstrong",
-      "game_in_progress": true,
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 1,
+      "game_total_bases_met": false,
+      "game_total_bases_met_4": false
     },
     {
       "id": 680757,
@@ -828,8 +835,10 @@
       "gameDate": "2026-10-19",
       "opponentTeamName": "Cleveland Guardians",
       "probablePitcherName": "Freddy Peralta",
-      "game_in_progress": true,
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 1,
+      "game_total_bases_met": false,
+      "game_total_bases_met_4": false
     },
     {
       "id": 608070,
@@ -966,8 +975,10 @@
       "gameDate": "2026-10-19",
       "opponentTeamName": "Cleveland Guardians",
       "probablePitcherName": "Freddy Peralta",
-      "game_in_progress": true,
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 0,
+      "game_total_bases_met": false,
+      "game_total_bases_met_4": false
     },
     {
       "id": 683748,
@@ -1104,8 +1115,10 @@
       "gameDate": "2026-10-19",
       "opponentTeamName": "Tampa Bay Rays",
       "probablePitcherName": "Shawn Armstrong",
-      "game_in_progress": true,
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 0,
+      "game_total_bases_met": false,
+      "game_total_bases_met_4": false
     },
     {
       "id": 691406,
@@ -1242,8 +1255,10 @@
       "gameDate": "2026-10-19",
       "opponentTeamName": "Tampa Bay Rays",
       "probablePitcherName": "Shawn Armstrong",
-      "game_in_progress": true,
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 5,
+      "game_total_bases_met": true,
+      "game_total_bases_met_4": true
     },
     {
       "id": 802415,
@@ -1380,8 +1395,10 @@
       "gameDate": "2026-10-19",
       "opponentTeamName": "Tampa Bay Rays",
       "probablePitcherName": "Shawn Armstrong",
-      "game_in_progress": true,
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 1,
+      "game_total_bases_met": false,
+      "game_total_bases_met_4": false
     },
     {
       "id": 663993,
@@ -1518,146 +1535,10 @@
       "gameDate": "2026-10-19",
       "opponentTeamName": "Cleveland Guardians",
       "probablePitcherName": "Freddy Peralta",
-      "game_in_progress": true,
-      "lineup_confirmed": true
-    },
-    {
-      "id": 681807,
-      "name": "David Fry",
-      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/681807/headshot/67/current",
-      "lineup_announced": true,
-      "probable_pitcher_splits": {
-        "id": 642547,
-        "name": "Freddy Peralta",
-        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/642547/headshot/67/current",
-        "hitsPer9Inn": 8.57,
-        "hitsPer9Inn_site": 7.35,
-        "walksPer9Inn": 3.36,
-        "expected_woba": 0.3,
-        "hand": "R",
-        "batterSideForGame": "RHB",
-        "prob_1p5_tb_vs_lhb": 0.44,
-        "prob_1p5_tb_vs_rhb": 0.364,
-        "prob_4_tb_vs_lhb": 0.107,
-        "prob_4_tb_vs_rhb": 0.058,
-        "fair_odds_vs_lhb": "+127",
-        "fair_odds_vs_rhb": "+175",
-        "fair_odds_4_tb_vs_lhb": "+839",
-        "fair_odds_4_tb_vs_rhb": "+1619",
-        "vs_lhb": {
-          "pa": 461,
-          "ab": 417,
-          "hits": 106,
-          "doubles": 24,
-          "hr": 17,
-          "avg": 0.254,
-          "ops": 0.757
-        },
-        "vs_rhb": {
-          "pa": 269,
-          "ab": 235,
-          "hits": 55,
-          "doubles": 11,
-          "hr": 6,
-          "avg": 0.234,
-          "ops": 0.688
-        }
-      },
-      "projectedBattingOrder": 5,
-      "confirmed": false,
-      "projected_pa": 4.29,
-      "ops_vs_pitcher": {
-        "pa": 2,
-        "ab": 2,
-        "hits": 1,
-        "doubles": 0,
-        "hr": 0,
-        "bb": 0,
-        "k": 1,
-        "avg": 0.5,
-        "ops": 1,
-        "prob_1p5_tb": 0.688,
-        "fair_odds": "-220",
-        "prob_4_tb": 0.17,
-        "fair_odds_4_tb": "+488"
-      },
-      "ops_vs_pitcher_ops_ab3": null,
-      "ops_vs_pitcher_ops_ab5": null,
-      "ops_vs_pitcher_ops_ab10": null,
-      "wtb2_percent": 0.325,
-      "wtb4_percent": 0.055,
-      "prob_1p5_tb_overall": 0.289,
-      "prob_4_tb_overall": 0.048,
-      "fair_odds_overall": "+246",
-      "fair_odds_4_tb_overall": "+2004",
-      "season_pa": 214,
-      "season_ab": 184,
-      "season_hits": 37,
-      "season_doubles": 6,
-      "season_hr": 8,
-      "season_avg": 0.201,
-      "season_ops": 0.677,
-      "ops_site": {
-        "pa": 111,
-        "ab": 99,
-        "hits": 18,
-        "doubles": 2,
-        "hr": 5,
-        "avg": 0.182,
-        "ops": 0.624,
-        "prob_1p5_tb": 0.274,
-        "fair_odds": "+265",
-        "prob_4_tb": 0.049,
-        "fair_odds_4_tb": "+1960"
-      },
-      "ops_vs_pitcher_hand": {
-        "pa": 66,
-        "ab": 61,
-        "hits": 15,
-        "doubles": 3,
-        "hr": 3,
-        "avg": 0.246,
-        "ops": 0.746,
-        "prob_1p5_tb": 0.392,
-        "fair_odds": "+155",
-        "prob_4_tb": 0.102,
-        "fair_odds_4_tb": "+884"
-      },
-      "ops_last_7_days": {
-        "pa": 0,
-        "ab": null,
-        "hits": null,
-        "doubles": null,
-        "hr": null,
-        "avg": null,
-        "ops": null,
-        "prob_1p5_tb": null,
-        "fair_odds": null,
-        "prob_4_tb": null,
-        "fair_odds_4_tb": null
-      },
-      "site": "Away",
-      "score": 58,
-      "score_wtb2": 58,
-      "score_tb4": 57,
-      "prob_1p5_tb_projected": 0.367,
-      "prob_4_tb_projected": 0.085,
-      "fair_odds_projected": "+172",
-      "fair_odds_4_tb_projected": "+1074",
-      "score_weight_breakdown": {
-        "baseline": 16.4,
-        "h2h": 5,
-        "vs_hand": 65.5,
-        "home_away": 8.2,
-        "last7": 0,
-        "pitcher_vs_hand": 5
-      },
-      "gamePk": 849815,
-      "gameDate": "2026-10-19",
-      "opponentTeamName": "Cleveland Guardians",
-      "probablePitcherName": "Freddy Peralta",
-      "game_in_progress": true,
-      "lineup_confirmed": false
+      "lineup_confirmed": true,
+      "game_total_bases": 2,
+      "game_total_bases_met": true,
+      "game_total_bases_met_4": false
     },
     {
       "id": 666018,
@@ -1794,8 +1675,10 @@
       "gameDate": "2026-10-19",
       "opponentTeamName": "Tampa Bay Rays",
       "probablePitcherName": "Shawn Armstrong",
-      "game_in_progress": true,
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 0,
+      "game_total_bases_met": false,
+      "game_total_bases_met_4": false
     },
     {
       "id": 666176,
@@ -1932,8 +1815,10 @@
       "gameDate": "2026-10-19",
       "opponentTeamName": "Cleveland Guardians",
       "probablePitcherName": "Freddy Peralta",
-      "game_in_progress": true,
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 2,
+      "game_total_bases_met": true,
+      "game_total_bases_met_4": false
     },
     {
       "id": 668723,
@@ -2070,7 +1955,6 @@
       "gameDate": "2026-10-19",
       "opponentTeamName": "Tampa Bay Rays",
       "probablePitcherName": "Shawn Armstrong",
-      "game_in_progress": true,
       "lineup_confirmed": false
     },
     {
@@ -2208,7 +2092,6 @@
       "gameDate": "2026-10-19",
       "opponentTeamName": "Tampa Bay Rays",
       "probablePitcherName": "Shawn Armstrong",
-      "game_in_progress": true,
       "lineup_confirmed": false
     }
   ]
