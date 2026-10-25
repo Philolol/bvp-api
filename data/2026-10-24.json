@@ -1,7 +1,7 @@
 {
   "date": "2026-10-24",
   "gamesAnalyzed": 1,
-  "hitterCount": 14,
+  "hitterCount": 16,
   "hitters": [
     {
       "id": 650490,
@@ -138,8 +138,10 @@
       "gameDate": "2026-10-24",
       "opponentTeamName": "Tampa Bay Rays",
       "probablePitcherName": "Logan Henderson",
-      "game_in_progress": true,
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 0,
+      "game_total_bases_met": false,
+      "game_total_bases_met_4": false
     },
     {
       "id": 694192,
@@ -276,8 +278,10 @@
       "gameDate": "2026-10-24",
       "opponentTeamName": "Milwaukee Brewers",
       "probablePitcherName": "Drew Rasmussen",
-      "game_in_progress": true,
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 2,
+      "game_total_bases_met": true,
+      "game_total_bases_met_4": false
     },
     {
       "id": 666018,
@@ -414,8 +418,10 @@
       "gameDate": "2026-10-24",
       "opponentTeamName": "Tampa Bay Rays",
       "probablePitcherName": "Logan Henderson",
-      "game_in_progress": true,
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 2,
+      "game_total_bases_met": true,
+      "game_total_bases_met_4": false
     },
     {
       "id": 802415,
@@ -552,8 +558,10 @@
       "gameDate": "2026-10-24",
       "opponentTeamName": "Tampa Bay Rays",
       "probablePitcherName": "Logan Henderson",
-      "game_in_progress": true,
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 1,
+      "game_total_bases_met": false,
+      "game_total_bases_met_4": false
     },
     {
       "id": 691406,
@@ -690,8 +698,10 @@
       "gameDate": "2026-10-24",
       "opponentTeamName": "Tampa Bay Rays",
       "probablePitcherName": "Logan Henderson",
-      "game_in_progress": true,
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 1,
+      "game_total_bases_met": false,
+      "game_total_bases_met_4": false
     },
     {
       "id": 668930,
@@ -828,8 +838,10 @@
       "gameDate": "2026-10-24",
       "opponentTeamName": "Milwaukee Brewers",
       "probablePitcherName": "Drew Rasmussen",
-      "game_in_progress": true,
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 2,
+      "game_total_bases_met": true,
+      "game_total_bases_met_4": false
     },
     {
       "id": 661388,
@@ -966,8 +978,10 @@
       "gameDate": "2026-10-24",
       "opponentTeamName": "Milwaukee Brewers",
       "probablePitcherName": "Drew Rasmussen",
-      "game_in_progress": true,
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 2,
+      "game_total_bases_met": true,
+      "game_total_bases_met_4": false
     },
     {
       "id": 669003,
@@ -1104,8 +1118,10 @@
       "gameDate": "2026-10-24",
       "opponentTeamName": "Milwaukee Brewers",
       "probablePitcherName": "Drew Rasmussen",
-      "game_in_progress": true,
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 1,
+      "game_total_bases_met": false,
+      "game_total_bases_met_4": false
     },
     {
       "id": 689414,
@@ -1242,8 +1258,150 @@
       "gameDate": "2026-10-24",
       "opponentTeamName": "Tampa Bay Rays",
       "probablePitcherName": "Logan Henderson",
-      "game_in_progress": true,
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 4,
+      "game_total_bases_met": true,
+      "game_total_bases_met_4": true
+    },
+    {
+      "id": 663743,
+      "name": "Nick Fortes",
+      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/663743/headshot/67/current",
+      "lineup_announced": true,
+      "probable_pitcher_splits": {
+        "id": 701656,
+        "name": "Logan Henderson",
+        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/701656/headshot/67/current",
+        "hitsPer9Inn": 5.86,
+        "hitsPer9Inn_site": 5.32,
+        "walksPer9Inn": 1.74,
+        "expected_woba": 0.256,
+        "hand": "R",
+        "batterSideForGame": "RHB",
+        "prob_1p5_tb_vs_lhb": 0.358,
+        "prob_1p5_tb_vs_rhb": 0.349,
+        "prob_4_tb_vs_lhb": 0.066,
+        "prob_4_tb_vs_rhb": 0.057,
+        "fair_odds_vs_lhb": "+179",
+        "fair_odds_vs_rhb": "+187",
+        "fair_odds_4_tb_vs_lhb": "+1406",
+        "fair_odds_4_tb_vs_rhb": "+1648",
+        "vs_lhb": {
+          "pa": 242,
+          "ab": 225,
+          "hits": 40,
+          "doubles": 9,
+          "hr": 10,
+          "avg": 0.178,
+          "ops": 0.592
+        },
+        "vs_rhb": {
+          "pa": 129,
+          "ab": 125,
+          "hits": 24,
+          "doubles": 5,
+          "hr": 4,
+          "avg": 0.192,
+          "ops": 0.545
+        }
+      },
+      "projectedBattingOrder": 5,
+      "confirmed": true,
+      "projected_pa": 4.29,
+      "ops_vs_pitcher": {
+        "pa": 0,
+        "ab": null,
+        "hits": null,
+        "doubles": null,
+        "hr": null,
+        "bb": null,
+        "k": null,
+        "avg": null,
+        "ops": null,
+        "prob_1p5_tb": null,
+        "fair_odds": null,
+        "prob_4_tb": null,
+        "fair_odds_4_tb": null
+      },
+      "ops_vs_pitcher_ops_ab3": null,
+      "ops_vs_pitcher_ops_ab5": null,
+      "ops_vs_pitcher_ops_ab10": null,
+      "wtb2_percent": 0.415,
+      "wtb4_percent": 0.073,
+      "prob_1p5_tb_overall": 0.368,
+      "prob_4_tb_overall": 0.064,
+      "fair_odds_overall": "+172",
+      "fair_odds_4_tb_overall": "+1460",
+      "season_pa": 323,
+      "season_ab": 298,
+      "season_hits": 77,
+      "season_doubles": 17,
+      "season_hr": 6,
+      "season_avg": 0.258,
+      "season_ops": 0.68,
+      "ops_site": {
+        "pa": 160,
+        "ab": 146,
+        "hits": 38,
+        "doubles": 4,
+        "hr": 5,
+        "avg": 0.26,
+        "ops": 0.696,
+        "prob_1p5_tb": 0.341,
+        "fair_odds": "+194",
+        "prob_4_tb": 0.069,
+        "fair_odds_4_tb": "+1344"
+      },
+      "ops_vs_pitcher_hand": {
+        "pa": 158,
+        "ab": 151,
+        "hits": 40,
+        "doubles": 7,
+        "hr": 4,
+        "avg": 0.265,
+        "ops": 0.684,
+        "prob_1p5_tb": 0.383,
+        "fair_odds": "+161",
+        "prob_4_tb": 0.079,
+        "fair_odds_4_tb": "+1164"
+      },
+      "ops_last_7_days": {
+        "pa": 0,
+        "ab": null,
+        "hits": null,
+        "doubles": null,
+        "hr": null,
+        "avg": null,
+        "ops": null,
+        "prob_1p5_tb": null,
+        "fair_odds": null,
+        "prob_4_tb": null,
+        "fair_odds_4_tb": null
+      },
+      "site": "Away",
+      "score": 58,
+      "score_wtb2": 58,
+      "score_tb4": 51,
+      "prob_1p5_tb_projected": 0.353,
+      "prob_4_tb_projected": 0.063,
+      "fair_odds_projected": "+184",
+      "fair_odds_4_tb_projected": "+1476",
+      "score_weight_breakdown": {
+        "baseline": 69.1,
+        "h2h": 0,
+        "vs_hand": 17.3,
+        "home_away": 8.6,
+        "last7": 0,
+        "pitcher_vs_hand": 5
+      },
+      "gamePk": 849802,
+      "gameDate": "2026-10-24",
+      "opponentTeamName": "Tampa Bay Rays",
+      "probablePitcherName": "Logan Henderson",
+      "lineup_confirmed": true,
+      "game_total_bases": 0,
+      "game_total_bases_met": false,
+      "game_total_bases_met_4": false
     },
     {
       "id": 592885,
@@ -1380,8 +1538,10 @@
       "gameDate": "2026-10-24",
       "opponentTeamName": "Milwaukee Brewers",
       "probablePitcherName": "Drew Rasmussen",
-      "game_in_progress": true,
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 1,
+      "game_total_bases_met": false,
+      "game_total_bases_met_4": false
     },
     {
       "id": 641343,
@@ -1518,8 +1678,10 @@
       "gameDate": "2026-10-24",
       "opponentTeamName": "Milwaukee Brewers",
       "probablePitcherName": "Drew Rasmussen",
-      "game_in_progress": true,
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 1,
+      "game_total_bases_met": false,
+      "game_total_bases_met_4": false
     },
     {
       "id": 622761,
@@ -1656,7 +1818,6 @@
       "gameDate": "2026-10-24",
       "opponentTeamName": "Tampa Bay Rays",
       "probablePitcherName": "Logan Henderson",
-      "game_in_progress": true,
       "lineup_confirmed": false
     },
     {
@@ -1794,8 +1955,150 @@
       "gameDate": "2026-10-24",
       "opponentTeamName": "Tampa Bay Rays",
       "probablePitcherName": "Logan Henderson",
-      "game_in_progress": true,
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 0,
+      "game_total_bases_met": false,
+      "game_total_bases_met_4": false
+    },
+    {
+      "id": 668723,
+      "name": "Ryan Vilade",
+      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/668723/headshot/67/current",
+      "lineup_announced": true,
+      "probable_pitcher_splits": {
+        "id": 701656,
+        "name": "Logan Henderson",
+        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/701656/headshot/67/current",
+        "hitsPer9Inn": 5.86,
+        "hitsPer9Inn_site": 5.32,
+        "walksPer9Inn": 1.74,
+        "expected_woba": 0.256,
+        "hand": "R",
+        "batterSideForGame": "RHB",
+        "prob_1p5_tb_vs_lhb": 0.358,
+        "prob_1p5_tb_vs_rhb": 0.349,
+        "prob_4_tb_vs_lhb": 0.066,
+        "prob_4_tb_vs_rhb": 0.057,
+        "fair_odds_vs_lhb": "+179",
+        "fair_odds_vs_rhb": "+187",
+        "fair_odds_4_tb_vs_lhb": "+1406",
+        "fair_odds_4_tb_vs_rhb": "+1648",
+        "vs_lhb": {
+          "pa": 242,
+          "ab": 225,
+          "hits": 40,
+          "doubles": 9,
+          "hr": 10,
+          "avg": 0.178,
+          "ops": 0.592
+        },
+        "vs_rhb": {
+          "pa": 129,
+          "ab": 125,
+          "hits": 24,
+          "doubles": 5,
+          "hr": 4,
+          "avg": 0.192,
+          "ops": 0.545
+        }
+      },
+      "projectedBattingOrder": 5,
+      "confirmed": true,
+      "projected_pa": 4.29,
+      "ops_vs_pitcher": {
+        "pa": 0,
+        "ab": null,
+        "hits": null,
+        "doubles": null,
+        "hr": null,
+        "bb": null,
+        "k": null,
+        "avg": null,
+        "ops": null,
+        "prob_1p5_tb": null,
+        "fair_odds": null,
+        "prob_4_tb": null,
+        "fair_odds_4_tb": null
+      },
+      "ops_vs_pitcher_ops_ab3": null,
+      "ops_vs_pitcher_ops_ab5": null,
+      "ops_vs_pitcher_ops_ab10": null,
+      "wtb2_percent": 0.395,
+      "wtb4_percent": 0.093,
+      "prob_1p5_tb_overall": 0.351,
+      "prob_4_tb_overall": 0.082,
+      "fair_odds_overall": "+185",
+      "fair_odds_4_tb_overall": "+1125",
+      "season_pa": 278,
+      "season_ab": 245,
+      "season_hits": 60,
+      "season_doubles": 8,
+      "season_hr": 11,
+      "season_avg": 0.245,
+      "season_ops": 0.75,
+      "ops_site": {
+        "pa": 137,
+        "ab": 122,
+        "hits": 26,
+        "doubles": 3,
+        "hr": 3,
+        "avg": 0.213,
+        "ops": 0.603,
+        "prob_1p5_tb": 0.258,
+        "fair_odds": "+287",
+        "prob_4_tb": 0.033,
+        "fair_odds_4_tb": "+2939"
+      },
+      "ops_vs_pitcher_hand": {
+        "pa": 108,
+        "ab": 94,
+        "hits": 19,
+        "doubles": 2,
+        "hr": 4,
+        "avg": 0.202,
+        "ops": 0.641,
+        "prob_1p5_tb": 0.269,
+        "fair_odds": "+271",
+        "prob_4_tb": 0.044,
+        "fair_odds_4_tb": "+2163"
+      },
+      "ops_last_7_days": {
+        "pa": 0,
+        "ab": null,
+        "hits": null,
+        "doubles": null,
+        "hr": null,
+        "avg": null,
+        "ops": null,
+        "prob_1p5_tb": null,
+        "fair_odds": null,
+        "prob_4_tb": null,
+        "fair_odds_4_tb": null
+      },
+      "site": "Away",
+      "score": 48,
+      "score_wtb2": 48,
+      "score_tb4": 37,
+      "prob_1p5_tb_projected": 0.275,
+      "prob_4_tb_projected": 0.048,
+      "fair_odds_projected": "+264",
+      "fair_odds_4_tb_projected": "+1991",
+      "score_weight_breakdown": {
+        "baseline": 17.3,
+        "h2h": 0,
+        "vs_hand": 69.1,
+        "home_away": 8.6,
+        "last7": 0,
+        "pitcher_vs_hand": 5
+      },
+      "gamePk": 849802,
+      "gameDate": "2026-10-24",
+      "opponentTeamName": "Tampa Bay Rays",
+      "probablePitcherName": "Logan Henderson",
+      "lineup_confirmed": true,
+      "game_total_bases": 0,
+      "game_total_bases_met": false,
+      "game_total_bases_met_4": false
     },
     {
       "id": 656775,
@@ -1932,7 +2235,6 @@
       "gameDate": "2026-10-24",
       "opponentTeamName": "Tampa Bay Rays",
       "probablePitcherName": "Logan Henderson",
-      "game_in_progress": true,
       "lineup_confirmed": false
     }
   ]
