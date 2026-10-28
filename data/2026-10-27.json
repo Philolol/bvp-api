@@ -1,7 +1,7 @@
 {
   "date": "2026-10-27",
   "gamesAnalyzed": 1,
-  "hitterCount": 15,
+  "hitterCount": 16,
   "hitters": [
     {
       "id": 650490,
@@ -138,8 +138,10 @@
       "gameDate": "2026-10-27",
       "opponentTeamName": "Tampa Bay Rays",
       "probablePitcherName": "Dustin May",
-      "game_in_progress": true,
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 1,
+      "game_total_bases_met": false,
+      "game_total_bases_met_4": false
     },
     {
       "id": 694192,
@@ -276,8 +278,10 @@
       "gameDate": "2026-10-27",
       "opponentTeamName": "Milwaukee Brewers",
       "probablePitcherName": "Griffin Jax",
-      "game_in_progress": true,
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 3,
+      "game_total_bases_met": true,
+      "game_total_bases_met_4": false
     },
     {
       "id": 676356,
@@ -414,8 +418,10 @@
       "gameDate": "2026-10-27",
       "opponentTeamName": "Tampa Bay Rays",
       "probablePitcherName": "Dustin May",
-      "game_in_progress": true,
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 1,
+      "game_total_bases_met": false,
+      "game_total_bases_met_4": false
     },
     {
       "id": 641343,
@@ -552,8 +558,10 @@
       "gameDate": "2026-10-27",
       "opponentTeamName": "Milwaukee Brewers",
       "probablePitcherName": "Griffin Jax",
-      "game_in_progress": true,
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 0,
+      "game_total_bases_met": false,
+      "game_total_bases_met_4": false
     },
     {
       "id": 592885,
@@ -690,8 +698,10 @@
       "gameDate": "2026-10-27",
       "opponentTeamName": "Milwaukee Brewers",
       "probablePitcherName": "Griffin Jax",
-      "game_in_progress": true,
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 0,
+      "game_total_bases_met": false,
+      "game_total_bases_met_4": false
     },
     {
       "id": 666018,
@@ -828,8 +838,10 @@
       "gameDate": "2026-10-27",
       "opponentTeamName": "Tampa Bay Rays",
       "probablePitcherName": "Dustin May",
-      "game_in_progress": true,
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 0,
+      "game_total_bases_met": false,
+      "game_total_bases_met_4": false
     },
     {
       "id": 802415,
@@ -966,8 +978,10 @@
       "gameDate": "2026-10-27",
       "opponentTeamName": "Tampa Bay Rays",
       "probablePitcherName": "Dustin May",
-      "game_in_progress": true,
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 4,
+      "game_total_bases_met": true,
+      "game_total_bases_met_4": true
     },
     {
       "id": 691406,
@@ -1104,8 +1118,10 @@
       "gameDate": "2026-10-27",
       "opponentTeamName": "Tampa Bay Rays",
       "probablePitcherName": "Dustin May",
-      "game_in_progress": true,
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 1,
+      "game_total_bases_met": false,
+      "game_total_bases_met_4": false
     },
     {
       "id": 668930,
@@ -1242,8 +1258,10 @@
       "gameDate": "2026-10-27",
       "opponentTeamName": "Milwaukee Brewers",
       "probablePitcherName": "Griffin Jax",
-      "game_in_progress": true,
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 0,
+      "game_total_bases_met": false,
+      "game_total_bases_met_4": false
     },
     {
       "id": 661388,
@@ -1380,8 +1398,10 @@
       "gameDate": "2026-10-27",
       "opponentTeamName": "Milwaukee Brewers",
       "probablePitcherName": "Griffin Jax",
-      "game_in_progress": true,
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 0,
+      "game_total_bases_met": false,
+      "game_total_bases_met_4": false
     },
     {
       "id": 689414,
@@ -1518,8 +1538,10 @@
       "gameDate": "2026-10-27",
       "opponentTeamName": "Tampa Bay Rays",
       "probablePitcherName": "Dustin May",
-      "game_in_progress": true,
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 2,
+      "game_total_bases_met": true,
+      "game_total_bases_met_4": false
     },
     {
       "id": 663743,
@@ -1563,9 +1585,9 @@
           "ops": 0.652
         }
       },
-      "projectedBattingOrder": 5,
-      "confirmed": false,
-      "projected_pa": 4.12,
+      "projectedBattingOrder": 4,
+      "confirmed": true,
+      "projected_pa": 4.22,
       "ops_vs_pitcher": {
         "pa": 2,
         "ab": 2,
@@ -1587,9 +1609,9 @@
       "wtb2_percent": 0.415,
       "wtb4_percent": 0.073,
       "prob_1p5_tb_overall": 0.368,
-      "prob_4_tb_overall": 0.057,
+      "prob_4_tb_overall": 0.061,
       "fair_odds_overall": "+172",
-      "fair_odds_4_tb_overall": "+1654",
+      "fair_odds_4_tb_overall": "+1536",
       "season_pa": 323,
       "season_ab": 298,
       "season_hits": 77,
@@ -1607,8 +1629,8 @@
         "ops": 0.664,
         "prob_1p5_tb": 0.395,
         "fair_odds": "+153",
-        "prob_4_tb": 0.053,
-        "fair_odds_4_tb": "+1800"
+        "prob_4_tb": 0.056,
+        "fair_odds_4_tb": "+1671"
       },
       "ops_vs_pitcher_hand": {
         "pa": 158,
@@ -1620,8 +1642,8 @@
         "ops": 0.684,
         "prob_1p5_tb": 0.383,
         "fair_odds": "+161",
-        "prob_4_tb": 0.071,
-        "fair_odds_4_tb": "+1317"
+        "prob_4_tb": 0.076,
+        "fair_odds_4_tb": "+1224"
       },
       "ops_last_7_days": {
         "pa": 0,
@@ -1639,11 +1661,11 @@
       "site": "Home",
       "score": 60,
       "score_wtb2": 60,
-      "score_tb4": 45,
+      "score_tb4": 48,
       "prob_1p5_tb_projected": 0.353,
-      "prob_4_tb_projected": 0.054,
+      "prob_4_tb_projected": 0.058,
       "fair_odds_projected": "+183",
-      "fair_odds_4_tb_projected": "+1755",
+      "fair_odds_4_tb_projected": "+1638",
       "score_weight_breakdown": {
         "baseline": 65.5,
         "h2h": 5,
@@ -1656,8 +1678,10 @@
       "gameDate": "2026-10-27",
       "opponentTeamName": "Tampa Bay Rays",
       "probablePitcherName": "Dustin May",
-      "game_in_progress": true,
-      "lineup_confirmed": false
+      "lineup_confirmed": true,
+      "game_total_bases": 0,
+      "game_total_bases_met": false,
+      "game_total_bases_met_4": false
     },
     {
       "id": 622761,
@@ -1794,8 +1818,10 @@
       "gameDate": "2026-10-27",
       "opponentTeamName": "Tampa Bay Rays",
       "probablePitcherName": "Dustin May",
-      "game_in_progress": true,
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 0,
+      "game_total_bases_met": false,
+      "game_total_bases_met_4": false
     },
     {
       "id": 686217,
@@ -1932,8 +1958,10 @@
       "gameDate": "2026-10-27",
       "opponentTeamName": "Milwaukee Brewers",
       "probablePitcherName": "Griffin Jax",
-      "game_in_progress": true,
-      "lineup_confirmed": true
+      "lineup_confirmed": true,
+      "game_total_bases": 1,
+      "game_total_bases_met": false,
+      "game_total_bases_met_4": false
     },
     {
       "id": 596142,
@@ -2070,8 +2098,147 @@
       "gameDate": "2026-10-27",
       "opponentTeamName": "Milwaukee Brewers",
       "probablePitcherName": "Griffin Jax",
-      "game_in_progress": true,
       "lineup_confirmed": false
+    },
+    {
+      "id": 656775,
+      "name": "Cedric Mullins",
+      "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/656775/headshot/67/current",
+      "lineup_announced": true,
+      "probable_pitcher_splits": {
+        "id": 669160,
+        "name": "Dustin May",
+        "headshotUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/669160/headshot/67/current",
+        "hitsPer9Inn": 8.77,
+        "hitsPer9Inn_site": 10.16,
+        "walksPer9Inn": 3.09,
+        "expected_woba": 0.321,
+        "hand": "R",
+        "batterSideForGame": "LHB",
+        "prob_1p5_tb_vs_lhb": 0.386,
+        "prob_1p5_tb_vs_rhb": 0.413,
+        "prob_4_tb_vs_lhb": 0.071,
+        "prob_4_tb_vs_rhb": 0.072,
+        "fair_odds_vs_lhb": "+159",
+        "fair_odds_vs_rhb": "+142",
+        "fair_odds_4_tb_vs_lhb": "+1312",
+        "fair_odds_4_tb_vs_rhb": "+1293",
+        "vs_lhb": {
+          "pa": 371,
+          "ab": 320,
+          "hits": 86,
+          "doubles": 12,
+          "hr": 9,
+          "avg": 0.269,
+          "ops": 0.755
+        },
+        "vs_rhb": {
+          "pa": 250,
+          "ab": 234,
+          "hits": 56,
+          "doubles": 15,
+          "hr": 5,
+          "avg": 0.239,
+          "ops": 0.652
+        }
+      },
+      "projectedBattingOrder": 3,
+      "confirmed": true,
+      "projected_pa": 4.32,
+      "ops_vs_pitcher": {
+        "pa": 3,
+        "ab": 3,
+        "hits": 1,
+        "doubles": 1,
+        "hr": 0,
+        "bb": 0,
+        "k": 1,
+        "avg": 0.333,
+        "ops": 1,
+        "prob_1p5_tb": 0.802,
+        "fair_odds": "-406",
+        "prob_4_tb": 0.326,
+        "fair_odds_4_tb": "+207"
+      },
+      "ops_vs_pitcher_ops_ab3": 1,
+      "ops_vs_pitcher_ops_ab5": null,
+      "ops_vs_pitcher_ops_ab10": null,
+      "wtb2_percent": 0.31,
+      "wtb4_percent": 0.049,
+      "prob_1p5_tb_overall": 0.273,
+      "prob_4_tb_overall": 0.043,
+      "fair_odds_overall": "+266",
+      "fair_odds_4_tb_overall": "+2223",
+      "season_pa": 502,
+      "season_ab": 439,
+      "season_hits": 90,
+      "season_doubles": 10,
+      "season_hr": 15,
+      "season_avg": 0.205,
+      "season_ops": 0.628,
+      "ops_site": {
+        "pa": 233,
+        "ab": 204,
+        "hits": 42,
+        "doubles": 3,
+        "hr": 9,
+        "avg": 0.206,
+        "ops": 0.658,
+        "prob_1p5_tb": 0.265,
+        "fair_odds": "+278",
+        "prob_4_tb": 0.047,
+        "fair_odds_4_tb": "+2043"
+      },
+      "ops_vs_pitcher_hand": {
+        "pa": 383,
+        "ab": 336,
+        "hits": 69,
+        "doubles": 8,
+        "hr": 14,
+        "avg": 0.205,
+        "ops": 0.647,
+        "prob_1p5_tb": 0.278,
+        "fair_odds": "+260",
+        "prob_4_tb": 0.047,
+        "fair_odds_4_tb": "+2008"
+      },
+      "ops_last_7_days": {
+        "pa": 0,
+        "ab": null,
+        "hits": null,
+        "doubles": null,
+        "hr": null,
+        "avg": null,
+        "ops": null,
+        "prob_1p5_tb": null,
+        "fair_odds": null,
+        "prob_4_tb": null,
+        "fair_odds_4_tb": null
+      },
+      "site": "Home",
+      "score": 53,
+      "score_wtb2": 53,
+      "score_tb4": 50,
+      "prob_1p5_tb_projected": 0.31,
+      "prob_4_tb_projected": 0.062,
+      "fair_odds_projected": "+223",
+      "fair_odds_4_tb_projected": "+1514",
+      "score_weight_breakdown": {
+        "baseline": 64,
+        "h2h": 7,
+        "vs_hand": 16,
+        "home_away": 8,
+        "last7": 0,
+        "pitcher_vs_hand": 5
+      },
+      "gamePk": 849803,
+      "gameDate": "2026-10-27",
+      "opponentTeamName": "Tampa Bay Rays",
+      "probablePitcherName": "Dustin May",
+      "lineup_confirmed": true,
+      "game_total_bases": 0,
+      "game_total_bases_met": false,
+      "game_total_bases_met_4": false
     }
   ]
 }
